@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Azteca13.mx" tvg-name="Azteca 13" tvg-logo="http://iptveiksprivado.com/Logos/AZTECA-13-HD.png" group-title="MexicoTP",AZTECA 13
+http://147.135.128.132:8000/live/hectorhdezchvz/gWp4313Msu/149.ts
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="http://iptveiksprivado.com/Logos/AZTECA-7-HD.png" group-title="MexicoTP",AZTECA 7
+http://147.135.128.132:8000/live/hectorhdezchvz/gWp4313Msu/6.ts
+#EXTINF:-1 tvg-id="GalaTV.mx" tvg-name="Gala TV" tvg-logo="http://iptveiksprivado.com/Logos/GALAVISION-HD.png" group-title="MexicoTP",GALA TV
+http://147.135.128.132:8000/live/hectorhdezchvz/gWp4313Msu/7.ts
