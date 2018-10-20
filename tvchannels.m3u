@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="http://iptveiksprivado.com/Logos/AMC-HD.png" group-title="Latinos-FHD",AMC
 http://147.135.128.132:8000/live/hectorhdezchvz/gWp4313Msu/6696.ts
-#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="http://iptveiksprivado.com/Logos/AMC-HD.png" group-title="Cine",AMC 2
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="http://iptveiksprivado.com/Logos/AMC-HD.png" group-title="Cine",AMC 2
 http://147.135.128.132:8000/live/hectorhdezchvz/gWp4313Msu/465.ts
 #EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN" tvg-logo="http://iptveiksprivado.com/Logos/AXN-HD.png" group-title="Cine",AXN
 http://147.135.128.132:8000/live/hectorhdezchvz/gWp4313Msu/177.ts
