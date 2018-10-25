@@ -153,17 +153,17 @@ http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92442.ts
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92443.ts
 #EXTINF:-1 tvg-id="-----CINE Y SERIES [1080]-----" tvg-logo="http://www.diariodemallorca.es/elementosWeb/gestionCajas/DMA/Image/2016//cine2.JPG"  channel-id="-----CINE Y SERIES [1080]-----" group-title="CINE Y SERIES",-----CINE Y SERIES [1080]-----
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/18348.ts
-#EXTINF:-1 tvg-id="HBO.mx tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png"  channel-id="HBO [1080] [Dual Audio]" group-title="CINE Y SERIES",HBO [1080] [Dual Audio]
+#EXTINF:-1 tvg-id="HBO.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="CINE Y SERIES",HBO [1080] [Dual Audio]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75940.ts
-#EXTINF:-1 tvg-id="HBO2.mx tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png"  channel-id="HBO 2 [1080] [Dual Audio]" group-title="CINE Y SERIES",HBO 2 [1080] [Dual Audio]
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png" group-title="CINE Y SERIES",HBO 2 [1080] [Dual Audio]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75938.ts
-#EXTINF:-1 tvg-id="HBOFamily.mx tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_1157_6_8916.png"  channel-id="HBO Family [1080] [Dual Audio]" group-title="CINE Y SERIES",HBO Family [1080] [Dual Audio]
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_1157_6_8916.png" group-title="CINE Y SERIES",HBO Family [1080] [Dual Audio]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75939.ts
-#EXTINF:-1 tvg-id="HBOSignature.mx tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/sml_gallery_1157_6_3018.png"  channel-id="HBO Signature [1080] [Dual Audio]" group-title="CINE Y SERIES",HBO Signature [1080] [Dual Audio]
+#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/sml_gallery_1157_6_3018.png" group-title="CINE Y SERIES",HBO Signature [1080] [Dual Audio]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75942.ts
-#EXTINF:-1 tvg-id="HBOPlus.mx tvg-logo="https://www.foromedios.com/uploads/monthly_2016_07/gallery_1157_1_11888.png.e1abffe10c811752f2cc8a48898fec69.png"  channel-id="HBO Plus [1080] [Dual Audio]" group-title="CINE Y SERIES",HBO Plus [1080] [Dual Audio]
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_07/gallery_1157_1_11888.png.e1abffe10c811752f2cc8a48898fec69.png" group-title="CINE Y SERIES",HBO Plus [1080] [Dual Audio]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75941.ts
-#EXTINF:-1 tvg-id="AandE.mx" tvg-logo="http://images.mi.tv/channels/co_a-e-mundo-hd_m.png"  channel-id="A/E Mundo [1080] [Dual audio]" group-title="CINE Y SERIES",A/E Mundo [1080] [Dual audio]
+#EXTINF:-1 tvg-id="AandE.mx" tvg-logo="http://images.mi.tv/channels/co_a-e-mundo-hd_m.png" group-title="CINE Y SERIES",A/E Mundo [1080] [Dual audio]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75905.ts
 #EXTINF:-1 tvg-id="AE.mx" tvg-logo="http://blog.cablevision.net.mx/wp-content/uploads/2011/06/AEHD.jpg"  channel-id="A&E(1080)." group-title="CINE Y SERIES",A&E(1080).
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/14860.ts
