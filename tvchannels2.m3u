@@ -153,7 +153,7 @@ http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92442.ts
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92443.ts
 #EXTINF:-1 tvg-id="-----CINE Y SERIES [1080]-----" tvg-logo="http://www.diariodemallorca.es/elementosWeb/gestionCajas/DMA/Image/2016//cine2.JPG"  channel-id="-----CINE Y SERIES [1080]-----" group-title="CINE Y SERIES",-----CINE Y SERIES [1080]-----
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/18348.ts
-#EXTINF:-1 tvg-id="HBO.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" channel-id="HBO.mx" group-title="CINE Y SERIES",HBO [1080] [Dual Audio]
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_hd_latinoamerica-mediano.png" group-title="",HBO
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75940.ts
 #EXTINF:-1 tvg-id="HBO2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png" channel-id="HBO2.mx" group-title="CINE Y SERIES",HBO 2 [1080] [Dual Audio]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75938.ts
