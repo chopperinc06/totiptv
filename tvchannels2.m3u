@@ -159,10 +159,6 @@ http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75942.ts
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75941.ts
 #EXTINF:-1 tvg-id="AandE.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/1207.png&width=180&height=120" channel-id="AE.mx" group-title="CINE Y SERIES",A/E Mundo [1080] [Dual audio]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75905.ts
-#EXTINF:-1 tvg-id="AE.mx" tvg-logo="http://blog.cablevision.net.mx/wp-content/uploads/2011/06/AEHD.jpg"  channel-id="A&E(1080)." group-title="CINE Y SERIES",A&E(1080).
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/14860.ts
-#EXTINF:-1 tvg-id="AE.mx" tvg-logo=""  channel-id="AE Mundo HD [Dual audio]" group-title="CINE Y SERIES",AE Mundo HD [Dual audio]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75867.ts
 #EXTINF:-1 tvg-id="AMC.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/1210.png&width=180&height=120"  channel-id="AMC(1080)." group-title="CINE Y SERIES",AMC(1080).
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/14847.ts
 #EXTINF:-1 tvg-id="AXN.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/1209.png&width=180&height=120"  channel-id="AXN [1080] [Dual audio]" group-title="CINE Y SERIES",AXN [1080] [Dual audio]
@@ -237,29 +233,25 @@ http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75914.ts
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75912.ts
 #EXTINF:-1 tvg-id="H2.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/1744.png&width=180&height=120"  channel-id="H2 [1080] (e)" group-title="DOCUMENTALES",H2 [1080] (e)
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92382.ts
-#EXTINF:-1 tvg-id="Natgeo.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png"  channel-id="NATGEO [1080] (e)" group-title="CINE Y SERIES",NATGEO [1080] (e)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/96382.ts
 #EXTINF:-1 tvg-id="NatGeoWild.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/800px-Nat_Geo_Wild_logo.png"  channel-id="Nat geo wild. (1080)" group-title="DOCUMENTALES",Nat geo wild. (1080)
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/85516.ts
 #EXTINF:-1 tvg-id="Nat geo. (1080)" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/1508.png&width=180&height=120"  channel-id="Nat geo. (1080)" group-title="DOCUMENTALES",Nat geo. (1080)
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/72449.ts
-#EXTINF:-1 tvg-id="NatGeoWild.mx" tvg-logo="http://singteltv.com.sg/_channels/pic_ch207.jpg"  channel-id="Natgeo Wild(1080)" group-title="DOCUMENTALES",Natgeo Wild(1080)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/14865.ts
 #EXTINF:-1 tvg-id="DiscoveryCivilization.mx" tvg-logo="http://www.pandaancha.mx/plds/articulos/froala/Discovery_Civilization_2011-2359x441-773804982.png"  channel-id="Discovery Civilization" group-title="DOCUMENTALES",Discovery Civilization
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/15016.ts
-#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d9/Discovery_Home_%26_Health_HD.png/revision/latest?cb=20140513101549"  channel-id="Discovery Home&Health(1080)." group-title="DOCUMENTALES",Discovery Home&Health(1080).
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/EC/1229.png&width=180&height=120"  channel-id="Discovery Home&Health(1080)." group-title="DOCUMENTALES",Discovery Home&Health(1080).
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/14879.ts
-#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1157_2_23131.png"  channel-id="Discovery Home and Health [1080] [Dual Audio]" group-title="DOCUMENTALES",Discovery Home and Health [1080] [Dual Audio]
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/EC/1229.png&width=180&height=120"  channel-id="Discovery Home and Health [1080] [Dual Audio]" group-title="DOCUMENTALES",Discovery Home and Health [1080] [Dual Audio]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75920.ts
-#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c7/HD_Theater.png"  channel-id="Discovery Theater [1080] [Dual audio]" group-title="DOCUMENTALES",Discovery Theater [1080] [Dual audio]
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/EC/1731.png&width=180&height=120"  channel-id="Discovery Theater [1080] [Dual audio]" group-title="DOCUMENTALES",Discovery Theater [1080] [Dual audio]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75917.ts
-#EXTINF:-1 tvg-id="TLC.mx" tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/tlc_hd-655x440_0.jpg"  channel-id="Discovery TLC [1080] [Dual audio]" group-title="DOCUMENTALES",Discovery TLC [1080] [Dual audio]
+#EXTINF:-1 tvg-id="TLC.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/EC/1740.png&width=180&height=120"  channel-id="Discovery TLC [1080] [Dual audio]" group-title="DOCUMENTALES",Discovery TLC [1080] [Dual audio]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75915.ts
-#EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-logo="http://2.bp.blogspot.com/-djQyUJN9Gfw/VGdEgyhjgtI/AAAAAAAACQ8/DXGTUbzjYHw/s1600/hd.png"  channel-id="Discovery Turbo(1080)." group-title="DOCUMENTALES",Discovery Turbo(1080).
+#EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/EC/736.png&width=180&height=120"  channel-id="Discovery Turbo(1080)." group-title="DOCUMENTALES",Discovery Turbo(1080).
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/14874.ts
-#EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-logo="http://images.mi.tv/channels/ar_discovery-science_m.png"  channel-id="DiscoveryScience" group-title="DOCUMENTALES",DiscoveryScience
+#EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/3/32/Discovery_Science_HD.png/revision/latest?cb=20140513094535"  channel-id="DiscoveryScience" group-title="DOCUMENTALES",DiscoveryScience
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/15021.ts
-#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/5b/Discovery_World_HD.png"  channel-id="Discovery World [1080] [Dual audio]" group-title="DOCUMENTALES",Discovery World [1080] [Dual audio]
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/EC/1738.png&width=180&height=120"  channel-id="Discovery World [1080] [Dual audio]" group-title="DOCUMENTALES",Discovery World [1080] [Dual audio]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75918.ts
 #EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-logo="http://images.mi.tv/channels/co_discovery-id-hd_m.png"  channel-id="Investigation Discovery [1080] [Dual Audio]" group-title="DOCUMENTALES",Investigation Discovery [1080] [Dual Audio]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75919.ts
@@ -267,9 +259,9 @@ http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75919.ts
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/15010.ts
 #EXTINF:-1 tvg-id="RT Documentales(1080)." tvg-logo="https://actualidad.rt.com/static/img/og-logo-rt.jpg"  channel-id="RT Documentales(1080)." group-title="DOCUMENTALES",RT Documentales(1080).
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/14871.ts
-#EXTINF:-1 tvg-id="TruTV.mx" tvg-logo="http://images.mi.tv/channels/mx_tru-tv-hd_m.png"  channel-id="Trutv [1080] [Dual audio]" group-title="DOCUMENTALES",Trutv [1080] [Dual audio]
+#EXTINF:-1 tvg-id="TruTV.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/EC/220.png&width=180&height=120"  channel-id="Trutv [1080] [Dual audio]" group-title="DOCUMENTALES",Trutv [1080] [Dual audio]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75913.ts
-#EXTINF:-1 tvg-id="FoxLife.mx" tvg-logo=""  channel-id="Fox Life HD [Dual audio]" group-title="CINE Y SERIES",Fox Life HD [Dual audio]
+#EXTINF:-1 tvg-id="FoxLife.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/EC/212.png&width=180&height=120"  channel-id="Fox Life HD [Dual audio]" group-title="CINE Y SERIES",Fox Life HD [Dual audio]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75869.ts
 #EXTINF:-1 tvg-id="UFCNetwork.mx" tvg-logo="http://www.cwpanama.com/wp-content/uploads/2014/10/380x380-UFC-LOGO.jpg"  channel-id="UFC [720]" group-title="DEPORTE [1080/720/SD]",UFC [720]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/35664.ts
@@ -277,19 +269,19 @@ http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/35664.ts
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/6294.ts
 #EXTINF:-1 tvg-id="BOX NATION [1080]" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51xUI0%2B-ClL.png"  channel-id="BOX NATION [1080]" group-title="DEPORTE [1080/720/SD]",BOX NATION [1080]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/33913.ts
-#EXTINF:-1 tvg-id="FoxSports.mx" tvg-logo="https://2.bp.blogspot.com/-A57SjcEK4G0/V8RPQ2ov6JI/AAAAAAAAFW8/g1zBMhLq9skQvm577iYjDK_x6dWn8Z5LACLcB/s1600/Fox_Sports_1_HD.png"  channel-id="MEX-Fox Sports 1(1080)." group-title="DEPORTE [1080/720/SD]",MEX-Fox Sports 1(1080).
+#EXTINF:-1 tvg-id="FoxSports.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/EC/1604.png&width=180&height=120"  channel-id="MEX-Fox Sports 1(1080)." group-title="DEPORTE [1080/720/SD]",MEX-Fox Sports 1(1080).
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/14843.ts
-#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-logo="http://4.bp.blogspot.com/-Jro2j6oneWU/UzHah3xwE3I/AAAAAAAAAZA/mB4gz-3IqMc/s1600/1977319_517502378366782_342421131_n.png"  channel-id="MEX-Fox Sports 2(1080)." group-title="DEPORTE [1080/720/SD]",MEX-Fox Sports 2(1080).
+#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/EC/1608.png&width=180&height=120"  channel-id="MEX-Fox Sports 2(1080)." group-title="DEPORTE [1080/720/SD]",MEX-Fox Sports 2(1080).
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/14839.ts
-#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-logo="https://4.bp.blogspot.com/-EC4jreNfc8k/V8RR1uOI5zI/AAAAAAAAFXI/CICCECp5lGAcghg2f4NUY_j0kd4-QIEkQCLcB/s1600/Fox_Sports_3_HD-0.png"  channel-id="MEX-Fox Sports 3(1080)." group-title="DEPORTE [1080/720/SD]",MEX-Fox Sports 3(1080).
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/EC/1609.png&width=180&height=120"  channel-id="MEX-Fox Sports 3(1080)." group-title="DEPORTE [1080/720/SD]",MEX-Fox Sports 3(1080).
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/14842.ts
-#EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg"  channel-id="MEX-ESPN [1080]" group-title="DEPORTE [1080/720/SD]",MEX-ESPN [1080]
+#EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/EC/1620.png&width=180&height=120"  channel-id="MEX-ESPN [1080]" group-title="DEPORTE [1080/720/SD]",MEX-ESPN [1080]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/33932.ts
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-logo="https://1.bp.blogspot.com/-zfWmwT9TWQA/VO_8EqdcFwI/AAAAAAAABgc/F4ZIp0AfzXU/s640/ESPN%2B2%2B%2Ben%2Bvivo%2Bonline%2Bon%2Bline.png"  channel-id="MEX-ESPN 2 [1080]" group-title="DEPORTE [1080/720/SD]",MEX-ESPN 2 [1080]
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/EC/1623.png&width=180&height=120"  channel-id="MEX-ESPN 2 [1080]" group-title="DEPORTE [1080/720/SD]",MEX-ESPN 2 [1080]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/33934.ts
-#EXTINF:-1 tvg-id="ESPN3.mx" tvg-logo="http://consorciocablevision.uy/wp-content/uploads/senales/HD/DEPORTES/espn-3-hd.jpg"  channel-id="MEX-ESPN 3 [1080]" group-title="DEPORTE [1080/720/SD]",MEX-ESPN 3 [1080]
+#EXTINF:-1 tvg-id="ESPN3.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/EC/1626.png&width=180&height=120"  channel-id="MEX-ESPN 3 [1080]" group-title="DEPORTE [1080/720/SD]",MEX-ESPN 3 [1080]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/33933.ts
-#EXTINF:-1 tvg-id="ESPNPlus.mx" tvg-logo="https://ugc.kn3.net/i/origin/http://www.multicanalcatamayo.com/cablevisiondondiego/images/espn_lam_plus_andino.png"  channel-id="MEX-Espn Plus(1080)." group-title="DEPORTE [1080/720/SD]",MEX-Espn Plus(1080).
+#EXTINF:-1 tvg-id="ESPNPlus.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/EC/1621.png&width=180&height=120"  channel-id="MEX-Espn Plus(1080)." group-title="DEPORTE [1080/720/SD]",MEX-Espn Plus(1080).
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/14840.ts
 #EXTINF:-1 tvg-id="Univision TDN MX" tvg-logo="https://3.bp.blogspot.com/-M9qiyGcCuIo/VvlSAF7InYI/AAAAAAAABMI/onhLZ_7lwQwQAwLN42ZQ7UlUrEl30NY-w/s1600/univision-tdn.png"  channel-id="Univision TDN MX" group-title="DEPORTE [1080/720/SD]",Univision TDN MX
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/34856.ts
