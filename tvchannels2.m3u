@@ -3,18 +3,12 @@
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92491.ts
 #EXTINF:-1 tvg-id="MEX-A Plus  [SD]" tvg-logo="https://pbs.twimg.com/profile_images/969038254178750464/pVpDiecB_400x400.jpg" group-title="MEXICO",A Plus
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92490.ts
-#EXTINF:-1 tvg-id="MEX-A3S [1080]" tvg-logo="https://www.izzi.mx/bcanales/img/canal918.png" group-title="MEXICO",A3S
+#EXTINF:-1 tvg-id="MEX-A3S [1080]" tvg-logo="https://www.directv.com/images/logos/channels/light/large/249.png" group-title="MEXICO",A3S
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92533.ts
 #EXTINF:-1 tvg-id="MEX-ADN 40 [1080]" tvg-logo="http://live.adn40.mx/images/adn40-logo-big.jpg" group-title="MEXICO",ADN 40
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92532.ts
-#EXTINF:-1 tvg-id="MEX-Afore Azteca [720] (m)" tvg-logo="http://www.aforeazteca.com.mx/aforeAzteca/imagenes/estructura/logo.jpg" group-title="MEXICO",Afore Azteca
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92425.ts
-#EXTINF:-1 tvg-id="MEX-Aljazzerra [720] (m)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Al_Jazeera_America_Logo.png" group-title="MEXICO",Aljazzerra
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92424.ts
-#EXTINF:-1 tvg-id="MEX-Antena 3 [1080]" tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="MEXICO",Antena 3
+#EXTINF:-1 tvg-id="MEX-Antena 3 [1080]" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/389.png" group-title="MEXICO",Antena 3
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92531.ts
-#EXTINF:-1 tvg-id="MEX-Aym Sports  [SD]" tvg-logo="http://3.bp.blogspot.com/_urII1rQ9C7s/TRUVN-K8aoI/AAAAAAAABB0/ELxtfK9G4RY/s1600/aym_sports.png" group-title="MEXICO",Aym Sports
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92478.ts
 #EXTINF:-1 tvg-id="Azteca7.mx tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO",MEX-Azteca 7
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92526.ts
 #EXTINF:-1 tvg-id="MEX-Azteca Cinema [1080]" tvg-logo="http://www.telecanales.tv/wp-content/uploads/2018/03/Ver-AZ-Cinema-EN-VIVO-y-en-directo-Online-Gratis.jpg" group-title="MEXICO",Azteca Cinema
@@ -31,7 +25,7 @@ http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92527.ts
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92494.ts
 #EXTINF:-1 tvg-id="MEX-Azteca uno [1080] -2 HORAS" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_10/large.Azteca_Trece_Coming_Azteca_Uno.png.db5cccf967ae812b9b5999e8b7ead435.png" group-title="MEXICO",Azteca uno -2 HORAS
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/84015.ts
-#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Antiguo_logo_de_Canal_Once_%28Canal_Once_Televisi%C3%B3n%29.png" group-title="MEXICO",Canal 11 Once
+#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/567.png" group-title="MEXICO",Canal 11 Once
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92438.ts
 #EXTINF:-1 tvg-id="MEX-Canal 2 Estrellas [SD] (m)" tvg-logo="https://assets.metrolatam.com/mx/2016/08/22/estrellas-3-2-1200x600.jpg" group-title="MEXICO",Canal 2 Estrellas
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92437.ts
@@ -79,7 +73,7 @@ http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92470.ts
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92512.ts
 #EXTINF:-1 tvg-id="MEX-Las Estrellas [1080] -2 HORAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png"  channel-id="MEX-Las Estrellas [1080] -2 HORAS" group-title="MEXICO",MEX-Las Estrellas [1080] -2 HORAS
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/84014.ts
-#EXTINF:-1 tvg-id="MEX-Lifetime [1080]" tvg-logo="http://images.mi.tv/channels/hn_lifetime_m.png"  channel-id="MEX-Lifetime [1080]" group-title="MEXICO",MEX-Lifetime [1080]
+#EXTINF:-1 tvg-id="MEX-Lifetime [1080]" tvg-logo="https://www.directv.com/images/logos/channels/light/large/449.png"  channel-id="MEX-Lifetime [1080]" group-title="MEXICO",MEX-Lifetime [1080]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92495.ts
 #EXTINF:-1 tvg-id="MEX-M?s Chic [1080]" tvg-logo="http://maschic.com/img/logo.jpg"  channel-id="MEX-M?s Chic [1080]" group-title="MEXICO",MEX-M?s Chic [1080]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92511.ts
@@ -167,7 +161,7 @@ http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75906.ts
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75927.ts
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_8863_7_22580.png"  channel-id="Cinemax(1080)" group-title="CINE Y SERIES",Cinemax(1080)
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/14972.ts
-#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-logo="https://unity-img.tbxapis.com/v0/images/9d29a3723e9925c375478e2c88cac95f/content/57246fb9ec2aee792b5aa69e/1d2c3bd30b67995a77bd584a69511568/img.png"  channel-id="Comedy Central [1080] [Dual audio]" group-title="CINE Y SERIES",Comedy Central [1080] [Dual audio]
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-logo="https://www.directv.com/images/logos/channels/light/large/390.png"  channel-id="Comedy Central [1080] [Dual audio]" group-title="CINE Y SERIES",Comedy Central [1080] [Dual audio]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75921.ts
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-logo="http://files.actionpelis.webnode.es/200000026-128c41385e/DistritoComedia-8.jpg"  channel-id="Distrito Comedia(1080)." group-title="CINE Y SERIES",Distrito Comedia(1080).
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/14857.ts
@@ -255,7 +249,7 @@ http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/15021.ts
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75918.ts
 #EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-logo="http://images.mi.tv/channels/co_discovery-id-hd_m.png"  channel-id="Investigation Discovery [1080] [Dual Audio]" group-title="DOCUMENTALES",Investigation Discovery [1080] [Dual Audio]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75919.ts
-#EXTINF:-1 tvg-id="TruTV.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/EC/220.png&width=180&height=120"  channel-id="Trutv [1080] [Dual audio]" group-title="DOCUMENTALES",Trutv [1080] [Dual audio]
+#EXTINF:-1 tvg-id="TruTV.mx" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/789.png"  channel-id="Trutv [1080] [Dual audio]" group-title="DOCUMENTALES",Trutv [1080] [Dual audio]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75913.ts
 #EXTINF:-1 tvg-id="FoxLife.mx" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/465.png"  channel-id="Fox Life HD [Dual audio]" group-title="CINE Y SERIES",Fox Life HD [Dual audio]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75869.ts
