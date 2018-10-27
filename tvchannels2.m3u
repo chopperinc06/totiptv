@@ -173,19 +173,19 @@ http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75921.ts
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/14857.ts
 #EXTINF:-1 tvg-id="FOX1.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/1204.png&width=180&height=120"  channel-id="FOX [1080]" group-title="CINE Y SERIES",FOX [1080]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75378.ts
-#EXTINF:-1 tvg-id="FoxAction.mx" tvg-logo="https://fng-resizer-qp.foxplay.com/resizer/resizer?service=fng&surl=http://fng-vod-qp.foxplay.com/fng_img/2017-10/FOXAction-Channel_Logo_16x91507546929249.png&h=D990ADCED43022AFD120940016AB2D7E6E1E8695722F288CF9E55441E4000B79"  channel-id="Fox Premium Action [1080] [Dual Audio]" group-title="CINE Y SERIES",Fox Premium Action [1080] [Dual Audio]
+#EXTINF:-1 tvg-id="FoxAction.mx" tvg-logo="http://fng-vod-qp.foxplay.com/fng_img/2017-10/FOXAction-Channel_Logo_16x91507546929249.png"  channel-id="Fox Premium Action [1080] [Dual Audio]" group-title="CINE Y SERIES",Fox Premium Action [1080] [Dual Audio]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75932.ts
-#EXTINF:-1 tvg-id="FoxCinema.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/1562.png&width=180&height=120"  channel-id="Fox Premium Cinema [1080] [Dual Audio]" group-title="CINE Y SERIES",Fox Premium Cinema [1080] [Dual Audio]
+#EXTINF:-1 tvg-id="FoxCinema.mx" tvg-logo="http://fng-vod-qp.foxplay.com/fng_img/2017-10/FOXCinema-Channel_Logo_16x91507546536971.png"  channel-id="Fox Premium Cinema [1080] [Dual Audio]" group-title="CINE Y SERIES",Fox Premium Cinema [1080] [Dual Audio]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75935.ts
-#EXTINF:-1 tvg-id="FoxClassics.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/560.png&width=180&height=120"  channel-id="Fox Premium Classics [1080] [Dual Audio]" group-title="CINE Y SERIES",Fox Premium Classics [1080] [Dual Audio]
+#EXTINF:-1 tvg-id="FoxClassics.mx" tvg-logo="http://fng-vod-qp.foxplay.com/fng_img/2017-10/FOXClassics-Channel_Logo_16x91507546753568.png"  channel-id="Fox Premium Classics [1080] [Dual Audio]" group-title="CINE Y SERIES",Fox Premium Classics [1080] [Dual Audio]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75931.ts
-#EXTINF:-1 tvg-id="FoxComedy.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/1557.png&width=180&height=120"  channel-id="Fox Premium Comedy [1080] [Dual Audio]" group-title="CINE Y SERIES",Fox Premium Comedy [1080] [Dual Audio]
+#EXTINF:-1 tvg-id="FoxComedy.mx" tvg-logo="http://fng-vod-qp.foxplay.com/fng_img/2017-10/FOXComedy-Channel_Logo_16x91507546784682.png"  channel-id="Fox Premium Comedy [1080] [Dual Audio]" group-title="CINE Y SERIES",Fox Premium Comedy [1080] [Dual Audio]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75937.ts
-#EXTINF:-1 tvg-id="FoxFamily.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/1556.png&width=180&height=120"  channel-id="Fox Premium Family [1080] [Dual Audio]" group-title="CINE Y SERIES",Fox Premium Family [1080] [Dual Audio]
+#EXTINF:-1 tvg-id="FoxFamily.mx" tvg-logo="http://fng-vod-qp.foxplay.com/fng_img/2017-10/FOXFamily-Channel_Logo_16x91507546683163.png"  channel-id="Fox Premium Family [1080] [Dual Audio]" group-title="CINE Y SERIES",Fox Premium Family [1080] [Dual Audio]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75933.ts
-#EXTINF:-1 tvg-id="FoxMovies.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/1559.png&width=180&height=120"  channel-id="Fox Premium Movies [1080] [Dual Audio]" group-title="CINE Y SERIES",Fox Premium Movies [1080] [Dual Audio]
+#EXTINF:-1 tvg-id="FoxMovies.mx" tvg-logo="http://fng-vod-qp.foxplay.com/fng_img/2017-10/FOXMovies-Channel_Logo_16x91507546859168.png"  channel-id="Fox Premium Movies [1080] [Dual Audio]" group-title="CINE Y SERIES",Fox Premium Movies [1080] [Dual Audio]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75936.ts
-#EXTINF:-1 tvg-id="FOXPremiumSeries.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/1552.png&width=180&height=120"  channel-id="Fox Premium Series [1080] [Dual Audio]" group-title="CINE Y SERIES",Fox Premium Series [1080] [Dual Audio]
+#EXTINF:-1 tvg-id="FOXPremiumSeries.mx" tvg-logo="http://fng-vod-qp.foxplay.com/fng_img/2017-10/FOXSeries-Channel_Logo_16x91507546624990.png"  channel-id="Fox Premium Series [1080] [Dual Audio]" group-title="CINE Y SERIES",Fox Premium Series [1080] [Dual Audio]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75934.ts
 #EXTINF:-1 tvg-id="FX.mx" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/493.png"  channel-id="FX [1080] [Dual Audio]" group-title="CINE Y SERIES",FX [1080] [Dual Audio]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75924.ts
