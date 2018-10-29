@@ -143,32 +143,32 @@ http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92496.ts
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92442.ts
 #EXTINF:-1 tvg-id="MEX-XEWT12 Televisa Tijuana [SD]" tvg-logo="https://pbs.twimg.com/profile_images/2480168770/Logotipo_TelevisaTijuana_400x400.png"  channel-id="MEX-XEWT12 Televisa Tijuana [SD]" group-title="MEXICO",MEX-XEWT12 Televisa Tijuana [SD]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92443.ts
-#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/canales/TT/1527.png&width=180&height=120"
+#EXTINF:-1 tvg-id="HBO.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/canales/TT/1527.png&width=180&height=120" group-title="",HBO
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75940
-#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO2" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/950.png"
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/950.png" group-title= HBO2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75938
-#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/283.png" channel-id="HBOFamily.mx" group-title="CINE Y SERIES",HBO Family [1080] [Dual Audio]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75939.ts
-#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBO Signature" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/284.png" channel-id="HBOSignature.mx" group-title="CINE Y SERIES",HBO Signature [1080] [Dual Audio]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75942.ts
-#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO Plus" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/1532.png&width=180&height=120" channel-id="HBOPlus.mx" group-title="CINE Y SERIES",HBO Plus [1080] [Dual Audio]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75941.ts
-#EXTINF:-1 tvg-id="AandE.mx" tvg-logo="https://www.directv.com/images/logos/channels/light/large/825.png" channel-id="AE.mx" group-title="CINE Y SERIES",A/E Mundo [1080] [Dual audio]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75905.ts
-#EXTINF:-1 tvg-id="AMC.mx" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png"  channel-id="AMC(1080)." group-title="CINE Y SERIES",AMC(1080).
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/14847.ts
-#EXTINF:-1 tvg-id="AXN.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/1209.png&width=180&height=120"  channel-id="AXN [1080] [Dual audio]" group-title="CINE Y SERIES",AXN [1080] [Dual audio]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75906.ts
-#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/PR/1507.png&width=180&height=120"  channel-id="Cinecanal [1080] [Dual Audio]" group-title="CINE Y SERIES",Cinecanal [1080] [Dual Audio]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75927.ts
-#EXTINF:-1 tvg-id="Cinemax.mx" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_8863_7_22580.png"  channel-id="Cinemax(1080)" group-title="CINE Y SERIES",Cinemax(1080)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/14972.ts
-#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-logo="https://www.directv.com/images/logos/channels/light/large/390.png"  channel-id="Comedy Central [1080] [Dual audio]" group-title="CINE Y SERIES",Comedy Central [1080] [Dual audio]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75921.ts
-#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-logo="http://files.actionpelis.webnode.es/200000026-128c41385e/DistritoComedia-8.jpg"  channel-id="Distrito Comedia(1080)." group-title="CINE Y SERIES",Distrito Comedia(1080).
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/14857.ts
-#EXTINF:-1 tvg-id="FOX1.mx" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/879.png"  channel-id="FOX [1080]" group-title="CINE Y SERIES",FOX [1080]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75378.ts
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/283.png" channel-id="HBOFamily.mx" group-title="",HBO Family
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75939
+#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBO Signature" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/284.png" group-title="",HBO Signature
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75942
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO Plus" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/1532.png&width=180&height=120" group-title="",HBO Plus
+http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75941
+#EXTINF:-1 tvg-id="AandE.mx" tvg-logo="https://www.directv.com/images/logos/channels/light/large/825.png" group-title="",A/E Mundo
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75905
+#EXTINF:-1 tvg-id="AMC.mx" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="",AMC
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/14847
+#EXTINF:-1 tvg-id="AXN.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/1209.png&width=180&height=120" group-title="",AXN 
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75906
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/PR/1507.png&width=180&height=120" group-title="",Cinecanal
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75927
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_8863_7_22580.png" group-title="",Cinemax
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/14972
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-logo="https://www.directv.com/images/logos/channels/light/large/390.png" group-title="",Comedy Central
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75921
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-logo="http://files.actionpelis.webnode.es/200000026-128c41385e/DistritoComedia-8.jpg" group-title="",Distrito Comedia
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/14857
+#EXTINF:-1 tvg-id="FOX1.mx" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/879.png" group-title="",FOX
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75378
 #EXTINF:-1 tvg-id="FoxAction.mx" tvg-logo="http://fng-vod-qp.foxplay.com/fng_img/2017-10/FOXAction-Channel_Logo_16x91507546929249.png"  channel-id="Fox Premium Action [1080] [Dual Audio]" group-title="CINE Y SERIES",Fox Premium Action [1080] [Dual Audio]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75932.ts
 #EXTINF:-1 tvg-id="FoxCinema.mx" tvg-logo="http://fng-vod-qp.foxplay.com/fng_img/2017-10/FOXCinema-Channel_Logo_16x91507546536971.png"  channel-id="Fox Premium Cinema [1080] [Dual Audio]" group-title="CINE Y SERIES",Fox Premium Cinema [1080] [Dual Audio]
