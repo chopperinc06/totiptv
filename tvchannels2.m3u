@@ -807,3 +807,12 @@ http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/88044.ts
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/96304.ts
 #EXTINF:-1 channel-id="155" tvg-id="Latin TV Musical 4K" tvg-logo=""  channel-id="Latin TV Musical 4K" group-title="CANALES 4K",Latin TV Musical 4K
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/96305.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Cinema 01 PPV" tvg-logo="https://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="*****CINEMA PPV EXTRENOS*****",Latino {} Cinema 01 PPV
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/17145
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Cinema 02 PPV" tvg-logo="https://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="*****CINEMA PPV EXTRENOS*****",Latino {} Cinema 02 PPV
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/17190
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Cinema 03 PPV" tvg-logo="https://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="*****CINEMA PPV EXTRENOS*****",Latino {} Cinema 03 PPV
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/17189
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Cinema 04 PPV" tvg-logo="https://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="*****CINEMA PPV EXTRENOS*****",Latino {} Cinema 04 PPV
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/17188
+
