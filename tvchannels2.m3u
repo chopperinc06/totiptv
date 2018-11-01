@@ -165,7 +165,7 @@ http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/14972
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75921
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-logo="http://files.actionpelis.webnode.es/200000026-128c41385e/DistritoComedia-8.jpg" group-title="",Distrito Comedia
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/14857
-#EXTINF:-1 tvg-id="FOX1.mx" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/879.png" group-title="",FOX
+#EXTINF:-1 tvg-id="fox.ar" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/879.png" group-title="",FOX
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75378
 #EXTINF:-1 tvg-id="FoxAction.mx" tvg-logo="http://fng-vod-qp.foxplay.com/fng_img/2017-10/FOXAction-Channel_Logo_16x91507546929249.png" group-title="",Fox Premium Action
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75932
@@ -179,15 +179,15 @@ http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75937
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75933
 #EXTINF:-1 tvg-id="FoxMovies.mx" tvg-logo="http://fng-vod-qp.foxplay.com/fng_img/2017-10/FOXMovies-Channel_Logo_16x91507546859168.png" group-title="",Fox Premium Movies
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75936
-#EXTINF:-1 tvg-id="FOXPremiumSeries.mx" tvg-logo="http://fng-vod-qp.foxplay.com/fng_img/2017-10/FOXSeries-Channel_Logo_16x91507546624990.png" group-title="",Fox Premium Series
+#EXTINF:-1 tvg-id="FOX1.mx" tvg-logo="http://fng-vod-qp.foxplay.com/fng_img/2017-10/FOXSeries-Channel_Logo_16x91507546624990.png" group-title="",Fox Premium Series
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75934
 #EXTINF:-1 tvg-id="FX.mx" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/493.png"  channel-id="FX [1080] [Dual Audio]" group-title="",FX
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75924
-#EXTINF:-1 tvg-id="FXM(1080)" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/444.png"  channel-id="FXM(1080)" group-title="",FXM
+#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/444.png"  channel-id="FXM(1080)" group-title="",FXM
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/14971
 #EXTINF:-1 tvg-id="Golden.mx." tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/503.png&width=180&height=120" group-title="",Golden HD
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/14848
-#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/1503.png&width=180&height=120" group-title="",Golden Plus
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/1503.png&width=180&height=120" group-title="",Golden Plus
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75929
 #EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-logo="https://www.telecablecr.com/wp-content/uploads/2017/07/golden_03.png" group-title="",Golden Premier
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75928
