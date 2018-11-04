@@ -35,7 +35,7 @@ http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92417.ts
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92416.ts
 #EXTINF:-1 tvg-id="MEX-Canal 4 [720] (m)" tvg-logo="https://historiatv.files.wordpress.com/2011/11/canal4mexico.jpg"  channel-id="MEX-Canal 4 [720] (m)" group-title="MEXICO",Canal 4
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92415.ts
-#EXTINF:-1 tvg-id="5Nacional.mx" tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png"  channel-id="MEX-Canal 5 [1080]" group-title="MEXICO",Canal 5
+#EXTINF:-1 tvg-id="C5" tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png"  channel-id="MEX-Canal 5 [1080]" group-title="MEXICO",Canal 5
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92525.ts
 #EXTINF:-1 tvg-id="MEX-Canal 7 [720] (m)" tvg-logo="http://4.bp.blogspot.com/-plaHBiqebJ8/Usyzp9I2EwI/AAAAAAAAAq0/ZEilc0MKWVk/s1600/azteca+7+hd.jpg" group-title="MEXICO",Canal 7
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92413.ts
@@ -141,15 +141,15 @@ http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92496.ts
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92442.ts
 #EXTINF:-1 tvg-id="MEX-XEWT12 Televisa Tijuana [SD]" tvg-logo="https://pbs.twimg.com/profile_images/2480168770/Logotipo_TelevisaTijuana_400x400.png"  channel-id="MEX-XEWT12 Televisa Tijuana [SD]" group-title="MEXICO",MEX-XEWT12 Televisa Tijuana [SD]
 http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92443.ts
-#EXTINF:-1 tvg-id="HBO Latin America HDTV [East] - HBOHD" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/canales/TT/1527.png&width=180&height=120" group-title="",HBO
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/canales/TT/1527.png&width=180&height=120" group-title="",HBO
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75940
-#EXTINF:-1 tvg-id="HBO 2 HDTV [Panamerican] - HBO2HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/950.png" group-title="",HBO2
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/950.png" group-title="",HBO2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75938
-#EXTINF:-1 tvg-id="HBO Family HDTV [Spanish] - HBOFAMHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/283.png" channel-id="HBOFamily.mx" group-title="",HBO Family
+#EXTINF:-1 tvg-id="HBOFam" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/283.png" channel-id="HBOFamily.mx" group-title="",HBO Family
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75939
-#EXTINF:-1 tvg-id="HBO Signature HDTV [Panamerican] - HBOSGHD" tvg-name="HBO Signature" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/284.png" group-title="",HBO Signature
+#EXTINF:-1 tvg-id="HBOSig" tvg-name="HBO Signature" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/284.png" group-title="",HBO Signature
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75942
-#EXTINF:-1 tvg-id="HBO Plus HDTV [Panamericano] - HBO+HD" tvg-name="HBO Plus" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/1532.png&width=180&height=120" group-title="",HBO Plus
+#EXTINF:-1 tvg-id="HBO+" tvg-name="HBO Plus" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/1532.png&width=180&height=120" group-title="",HBO Plus
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75941
 #EXTINF:-1 tvg-id="AandE.mx" tvg-logo="https://www.directv.com/images/logos/channels/light/large/825.png" group-title="",A/E Mundo
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75905
