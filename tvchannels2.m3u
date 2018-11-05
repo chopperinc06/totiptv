@@ -185,17 +185,13 @@ http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75934
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75924
 #EXTINF:-1 tvg-id="FXM" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/444.png"  channel-id="FXM(1080)" group-title="",FXM
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/14971
-#EXTINF:-1 tvg-id="Golden.mx." tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/503.png&width=180&height=120" group-title="",Golden HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/14848
-#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/1503.png&width=180&height=120" group-title="",Golden Plus
+#EXTINF:-1 tvg-id="GoldenP" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/1503.png&width=180&height=120" group-title="",Golden Plus
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75929
 #EXTINF:-1 tvg-id="GoldenP" tvg-logo="https://www.telecablecr.com/wp-content/uploads/2017/07/golden_03.png" group-title="",Golden Premier
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75928
-#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/alacarta/10.png" group-title="",GOLDEN PREMIER 2
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/33936
 #EXTINF:-1 tvg-id="MAXPrime" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/542.png&width=180&height=120" group-title="",Max Prime
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75943
-#EXTINF:-1 tvg-id="MAXUp.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/541.png&width=180&height=120" group-title="",Max Up
+#EXTINF:-1 tvg-id="MAXUp" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/541.png&width=180&height=120" group-title="",Max Up
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75944
 #EXTINF:-1 tvg-id="Paramount" tvg-logo="https://www.directv.com/images/logos/channels/light/large/108.png" group-title="",Paramount
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75930
@@ -225,7 +221,7 @@ http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/14881
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75914
 #EXTINF:-1 tvg-id="History" tvg-logo="https://www.directv.com/images/logos/channels/light/large/734.png" group-title="",History
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75912
-#EXTINF:-1 tvg-id="H2.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/1744.png&width=180&height=120" group-title="",H2
+#EXTINF:-1 tvg-id="H2" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/1744.png&width=180&height=120" group-title="",H2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/92382
 #EXTINF:-1 tvg-id="NatGeoWild" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/934.png" group-title="",Nat geo wild
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/85516
@@ -249,7 +245,7 @@ http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/15021
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75918
 #EXTINF:-1 tvg-id="Investigation Discovery" tvg-logo="http://images.mi.tv/channels/co_discovery-id-hd_m.png" group-title="",Investigation Discovery
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75919
-#EXTINF:-1 tvg-id="truTV.mx" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/789.png" group-title="",Trutv
+#EXTINF:-1 tvg-id="truTV" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/789.png" group-title="",Trutv
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75913
 #EXTINF:-1 tvg-id="Fox Life" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/465.png" group-title="",Fox Life
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75869
