@@ -1,146 +1,58 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MEX-52 MX [SD]" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/704.png" group-title="MEXICO",52
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92491.ts
-#EXTINF:-1 tvg-id="MEX-A Plus  [SD]" tvg-logo="https://pbs.twimg.com/profile_images/969038254178750464/pVpDiecB_400x400.jpg" group-title="MEXICO",A Plus
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92490.ts
-#EXTINF:-1 tvg-id="MEX-A3S [1080]" tvg-logo="https://www.directv.com/images/logos/channels/light/large/249.png" group-title="MEXICO",A3S
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92533.ts
-#EXTINF:-1 tvg-id="MEX-ADN 40 [1080]" tvg-logo="http://live.adn40.mx/images/adn40-logo-big.jpg" group-title="MEXICO",ADN 40
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92532.ts
-#EXTINF:-1 tvg-id="MEX-Antena 3 [1080]" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/389.png" group-title="MEXICO",Antena 3
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92531.ts
-#EXTINF:-1 channel-id="Azteca7.mx tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/azteca-7.png"
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92526.ts
-#EXTINF:-1 tvg-id="MEX-Azteca Cinema [1080]" tvg-logo="http://www.telecanales.tv/wp-content/uploads/2018/03/Ver-AZ-Cinema-EN-VIVO-y-en-directo-Online-Gratis.jpg" group-title="MEXICO",Azteca Cinema
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92530.ts
-#EXTINF:-1 tvg-id="MEX-Azteca Clic [1080]" tvg-logo="http://www.tvcomsahagun.com/img/canales/az_clic.png" group-title="MEXICO",Azteca Clic
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92529.ts
-#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-logo="http://www.myjchile.cl/2017/_personas/img/canales/az_corazon_hd.png" group-title="MEXICO",Azteca Corazon
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92528.ts
-#EXTINF:-1 tvg-id="MEX-Azteca Internacional [1080]" tvg-logo="http://e03-elmundo.uecdn.es/television/programacion-tv/img/programas/37/8247.png" group-title="MEXICO",Azteca Internacional
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92493.ts
-#EXTINF:-1 tvg-id="MEX-Azteca Mundo [1080]" tvg-logo="https://mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="MEXICO",Azteca Mundo
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92527.ts
-#EXTINF:-1 tvg-id="MEX-Azteca Uno [1080]" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_01/large.aztecaunovertical.png.591c1b430422e1412e58be389e838412.png" group-title="MEXICO",Azteca Uno
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92494.ts
-#EXTINF:-1 tvg-id="MEX-Azteca uno [1080] -2 HORAS" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_10/large.Azteca_Trece_Coming_Azteca_Uno.png.db5cccf967ae812b9b5999e8b7ead435.png" group-title="MEXICO",Azteca uno -2 HORAS
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/84015.ts
-#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/567.png" group-title="MEXICO",Canal 11 Once
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92438.ts
-#EXTINF:-1 tvg-id="MEX-Canal 2 Estrellas [SD] (m)" tvg-logo="https://assets.metrolatam.com/mx/2016/08/22/estrellas-3-2-1200x600.jpg" group-title="MEXICO",Canal 2 Estrellas
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92437.ts
-#EXTINF:-1 tvg-id="MEX-Canal 2 MX [720] (m)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="MEXICO",Canal 2
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92417.ts
-#EXTINF:-1 tvg-id="MEX-Canal 26 [720] (m)" tvg-logo="http://3.bp.blogspot.com/-luTGNzVGKo8/Vl9jBK3WJUI/AAAAAAAAAKQ/1UZMRVJlgk4/s1600/Canal%2B26%2BHD.png" group-title="MEXICO",Canal 26
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92416.ts
-#EXTINF:-1 tvg-id="MEX-Canal 4 [720] (m)" tvg-logo="https://historiatv.files.wordpress.com/2011/11/canal4mexico.jpg"  channel-id="MEX-Canal 4 [720] (m)" group-title="MEXICO",Canal 4
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92415.ts
-#EXTINF:-1 tvg-id="C5" tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png"  channel-id="MEX-Canal 5 [1080]" group-title="MEXICO",Canal 5
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92525.ts
-#EXTINF:-1 tvg-id="MEX-Canal 7 [720] (m)" tvg-logo="http://4.bp.blogspot.com/-plaHBiqebJ8/Usyzp9I2EwI/AAAAAAAAAq0/ZEilc0MKWVk/s1600/azteca+7+hd.jpg" group-title="MEXICO",Canal 7
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92413.ts
-#EXTINF:-1 tvg-id="MEX-Canal 8 [720] (m)" tvg-logo="https://i1.wp.com/imagensubida.infojardin.com/subas/images/viu1335729296t.JPG" group-title="MEXICO",Canal 8
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92412.ts
-#EXTINF:-1 tvg-id="MEX-Canal del Congreso [1080]" tvg-logo="https://www.canaldelcongreso.gob.mx/assets/img/noticias_old/canalogo.jpg" group-title="MEXICO",Canal del Congreso
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92524.ts
-#EXTINF:-1 tvg-id="MEX-Canal Judicial [1080]" tvg-logo="https://canaljudicial.mx/themes/subtema_scjn/logo.jpg" group-title="MEXICO",Canal Judicial
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92523.ts
-#EXTINF:-1 tvg-id="MEX-DHE [SD]" tvg-logo="" group-title="MEXICO",DHE
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/96043.ts
-#EXTINF:-1 tvg-id="MEX-DW  [SD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="MEXICO",DW
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92473.ts
-#EXTINF:-1 tvg-id="MEX-Foro TV [1080]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="MEXICO",Foro TV
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92519.ts
-#EXTINF:-1 tvg-id="MEX-Fox Life [1080]" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png" group-title="MEXICO",Fox Life
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92518.ts
-#EXTINF:-1 tvg-id="MEX-Gala TV [1080]" tvg-logo="http://4gestudios.com/images/clientes/logo_GalaTV.png" group-title="MEXICO",Gala TV
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92517.ts
-#EXTINF:-1 tvg-id="MEX-Glitz [1080]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="MEXICO",Glitz
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92516.ts
-#EXTINF:-1 tvg-id="MEX-Havoc [1080]" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41KhcFAQW1L.png" group-title="MEXICO",Havoc
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92515.ts
-#EXTINF:-1 tvg-id="MEX-HMX [1080]" tvg-logo="https://www.tudominiohoy.com/diseno/PRUEBAS/hmx/imagenes/hmx-logo3d.png" group-title="MEXICO",HMX
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92492.ts
-#EXTINF:-1 tvg-id="MEX-Hola TV [1080]" tvg-logo="https://revistasenal.com/wp-content/uploads/2014/08/hola-tv-cerro-acuerdo-con-claro-colombia.png" group-title="MEXICO",Hola TV
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92514.ts
-#EXTINF:-1 tvg-id="MEX-Imagen Televisi?n [1080]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="MEXICO",Imagen Television
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92513.ts
-#EXTINF:-1 tvg-id="MEX-Imagen TV  [SD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="MEXICO",Imagen TV
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92477.ts
-#EXTINF:-1 tvg-id="MEX-Ingenio TV  [SD]" tvg-logo="http://www.concable.com.mx/assets/images/canales/ingenio.png" group-title="MEXICO",Ingenio TV
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92470.ts
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="http://images.mi.tv/channels/las-estrellas-m.png"  channel-id="MEX-Las Estrellas [1080]" group-title="MEXICO",MEX-Las Estrellas [1080]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92512.ts
-#EXTINF:-1 tvg-id="MEX-Las Estrellas [1080] -2 HORAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png"  channel-id="MEX-Las Estrellas [1080] -2 HORAS" group-title="MEXICO",MEX-Las Estrellas [1080] -2 HORAS
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/84014.ts
-#EXTINF:-1 tvg-id="MEX-Lifetime [1080]" tvg-logo="https://www.directv.com/images/logos/channels/light/large/449.png"  channel-id="MEX-Lifetime [1080]" group-title="MEXICO",MEX-Lifetime [1080]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92495.ts
-#EXTINF:-1 tvg-id="MEX-M?s Chic [1080]" tvg-logo="http://maschic.com/img/logo.jpg"  channel-id="MEX-M?s Chic [1080]" group-title="MEXICO",MEX-M?s Chic [1080]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92511.ts
-#EXTINF:-1 tvg-id="MEX-Mexiquense [1080]" tvg-logo="http://radioytvmexiquense.mx/harem1/information/contenido/imagenes/155c873f-0fb8-40bb-be1c-052c72d15836.png"  channel-id="MEX-Mexiquense [1080]" group-title="MEXICO",MEX-Mexiquense [1080]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92510.ts
-#EXTINF:-1 tvg-id="MEX-Milenio TV [1080]" tvg-logo="http://images.mi.tv/channels/mx_milenio-tv_m.png"  channel-id="MEX-Milenio TV [1080]" group-title="MEXICO",MEX-Milenio TV [1080]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92509.ts
-#EXTINF:-1 tvg-id="MEX-Morbid TV [1080]" tvg-logo="https://i.pinimg.com/originals/7d/02/1e/7d021e9fa568cccfc0bcf541df7aec66.jpg"  channel-id="MEX-Morbid TV [1080]" group-title="MEXICO",MEX-Morbid TV [1080]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92508.ts
-#EXTINF:-1 tvg-id="MEX-Multimedios [1080]" tvg-logo="https://image.laguna.multimedios.com/sites/default/files/img_default_fb.png"  channel-id="MEX-Multimedios [1080]" group-title="MEXICO",MEX-Multimedios [1080]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92507.ts
-#EXTINF:-1 tvg-id="MEX-Multimedios Plus [1080]" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/MULTIMEDIOS.png"  channel-id="MEX-Multimedios Plus [1080]" group-title="MEXICO",MEX-Multimedios Plus [1080]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92506.ts
-#EXTINF:-1 tvg-id="MEX-Once TV [1080]" tvg-logo=""  channel-id="MEX-Once TV [1080]" group-title="MEXICO",MEX-Once TV [1080]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/96020.ts
-#EXTINF:-1 tvg-id="MEX-Px Sports [1080]" tvg-logo="http://pxsports.com/wp-content/uploads/2017/03/Logo-Px-Sports-Completo-300x169.png"  channel-id="MEX-Px Sports [1080]" group-title="MEXICO",MEX-Px Sports [1080]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92505.ts
-#EXTINF:-1 tvg-id="MEX-Px TV [SD]" tvg-logo=""  channel-id="MEX-Px TV [SD]" group-title="MEXICO",MEX-Px TV [SD]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/96026.ts
-#EXTINF:-1 tvg-id="MEX-Q Plus [720] (m)" tvg-logo="https://pbs.twimg.com/profile_images/1371420007/Q-PLUS_Labs_400x400.jpg"  channel-id="MEX-Q Plus [720] (m)" group-title="MEXICO",MEX-Q Plus [720] (m)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92410.ts
-#EXTINF:-1 tvg-id="MEX-SHE [SD]" tvg-logo="http://www.reportajesmetropolitanos.com.mx/she%20sexuality.jpg"  channel-id="MEX-SHE [SD]" group-title="MEXICO",MEX-SHE [SD]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92456.ts
-#EXTINF:-1 tvg-id="MEX-Star TVE [1080]" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_10342_7_14395.png"  channel-id="MEX-Star TVE [1080]" group-title="MEXICO",MEX-Star TVE [1080]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92504.ts
-#EXTINF:-1 tvg-id="MEX-SuresTV [SD]" tvg-logo="http://supercabledelsureste.com.mx/Portals/0/sures-tv.png"  channel-id="MEX-SuresTV [SD]" group-title="MEXICO",MEX-SuresTV [SD]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92455.ts
-#EXTINF:-1 tvg-id="MEX-TCM [SD]" tvg-logo=""  channel-id="MEX-TCM [SD]" group-title="MEXICO",MEX-TCM [SD]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/96030.ts
-#EXTINF:-1 tvg-id="MEX-Teleformula [1080]" tvg-logo="https://cdn-radiotime-logos.tunein.com/s195828d.png"  channel-id="MEX-Teleformula [1080]" group-title="MEXICO",MEX-Teleformula [1080]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92503.ts
-#EXTINF:-1 tvg-id="MEX-Telenovelas [720] (m)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tlnovelas_logo.svg/1200px-Tlnovelas_logo.svg.png"  channel-id="MEX-Telenovelas [720] (m)" group-title="MEXICO",MEX-Telenovelas [720] (m)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92407.ts
-#EXTINF:-1 tvg-id="MEX-Televisa [720] (m)" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/3/37/Televisa-logo.jpg"  channel-id="MEX-Televisa [720] (m)" group-title="MEXICO",MEX-Televisa [720] (m)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92406.ts
-#EXTINF:-1 tvg-id="MEX-Televisa MTY [1080]" tvg-logo="http://empresasmonterrey.com/wp-content/uploads/2015/06/TELEVISA-MONTERREY.jpg"  channel-id="MEX-Televisa MTY [1080]" group-title="MEXICO",MEX-Televisa MTY [1080]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92502.ts
-#EXTINF:-1 tvg-id="MEX-Televisa Puebla [1080]" tvg-logo="http://userscontent2.emaze.com/images/5a3fd702-28dd-40ac-9b4a-21206a7c2b64/635428638432009405_televisalogo.png"  channel-id="MEX-Televisa Puebla [1080]" group-title="MEXICO",MEX-Televisa Puebla [1080]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92501.ts
-#EXTINF:-1 tvg-id="MEX-Televisa Puebla [SD]" tvg-logo="http://userscontent2.emaze.com/images/5a3fd702-28dd-40ac-9b4a-21206a7c2b64/635428638432009405_televisalogo.png"  channel-id="MEX-Televisa Puebla [SD]" group-title="MEXICO",MEX-Televisa Puebla [SD]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92448.ts
-#EXTINF:-1 tvg-id="MEX-Tl Novelas [SD]" tvg-logo=""  channel-id="MEX-Tl Novelas [SD]" group-title="MEXICO",MEX-Tl Novelas [SD]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/96028.ts
-#EXTINF:-1 tvg-id="MEX-Tv M?s [SD]" tvg-logo="http://stick.tv/images/sticktvn1/channel/na/tvmas%20veracruz.png"  channel-id="MEX-Tv M?s [SD]" group-title="MEXICO",MEX-Tv M?s [SD]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92446.ts
-#EXTINF:-1 tvg-id="MEX-Tv Mas [SD]" tvg-logo=""  channel-id="MEX-Tv Mas [SD]" group-title="MEXICO",MEX-Tv Mas [SD]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/96029.ts
-#EXTINF:-1 tvg-id="MEX-TV Mas OK [1080]" tvg-logo=""  channel-id="MEX-TV Mas OK [1080]" group-title="MEXICO",MEX-TV Mas OK [1080]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/96019.ts
-#EXTINF:-1 tvg-id="MEX-TV4 Leon Guanajuato [SD]" tvg-logo="http://www.tv4guanajuato.com/historia/images/tv4%20logo%202007-2008.png"  channel-id="MEX-TV4 Leon Guanajuato [SD]" group-title="MEXICO",MEX-TV4 Leon Guanajuato [SD]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92450.ts
-#EXTINF:-1 tvg-id="MEX-TVC [1080]" tvg-logo="http://3.bp.blogspot.com/-cMFbIxK4fCk/TgoKKYTdoHI/AAAAAAAAAGs/pSA54htD0XY/s1600/TVC%2Blogo.jpg"  channel-id="MEX-TVC [1080]" group-title="MEXICO",MEX-TVC [1080]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92499.ts
-#EXTINF:-1 tvg-id="MEX-TVC Deportes [1080]" tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/7/3/6/1/7361789/7361789_tvcd_1299134265,640x360,b:1.jpg"  channel-id="MEX-TVC Deportes [1080]" group-title="MEXICO",MEX-TVC Deportes [1080]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92500.ts
-#EXTINF:-1 tvg-id="MEX-TVE [SD]" tvg-logo="http://images.mi.tv/channels/mx_tve_m.png"  channel-id="MEX-TVE [SD]" group-title="MEXICO",MEX-TVE [SD]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92452.ts
-#EXTINF:-1 tvg-id="MEX-TVM?s OK [1080]" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/05/TVMas-Logo.jpg"  channel-id="MEX-TVM?s OK [1080]" group-title="MEXICO",MEX-TVM?s OK [1080]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92498.ts
-#EXTINF:-1 tvg-id="MEX-Unicable [1080]" tvg-logo="http://www.playtvhd.com/cliente/wp-content/uploads/2018/01/unicable.jpg"  channel-id="MEX-Unicable [1080]" group-title="MEXICO",MEX-Unicable [1080]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92497.ts
-#EXTINF:-1 tvg-id="MEX-Wobi TV [1080]" tvg-logo="http://stick.tv/images/sticktvn1/channel/eu/wobi.png"  channel-id="MEX-Wobi TV [1080]" group-title="MEXICO",MEX-Wobi TV [1080]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92496.ts
-#EXTINF:-1 tvg-id="MEX-XEJ Canal 50 de Ciudad Ju?rez [SD]" tvg-logo="http://intcom.com.mx/wp-content/uploads/2017/02/097311a795fe02a9fefaac110c4f600d_XL.jpg"  channel-id="MEX-XEJ Canal 50 de Ciudad Ju?rez [SD]" group-title="MEXICO",MEX-XEJ Canal 50 de Ciudad Ju?rez [SD]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92442.ts
-#EXTINF:-1 tvg-id="MEX-XEWT12 Televisa Tijuana [SD]" tvg-logo="https://pbs.twimg.com/profile_images/2480168770/Logotipo_TelevisaTijuana_400x400.png"  channel-id="MEX-XEWT12 Televisa Tijuana [SD]" group-title="MEXICO",MEX-XEWT12 Televisa Tijuana [SD]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92443.ts
+#EXTINF:-1 tvg-id="Canal 52" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/704.png" group-title="MEXICO",52
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/92491
+#EXTINF:-1 tvg-id="A+" tvg-logo="https://pbs.twimg.com/profile_images/969038254178750464/pVpDiecB_400x400.jpg" group-title="",A Plus
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/92490
+#EXTINF:-1 tvg-id="AS3" tvg-logo="https://www.directv.com/images/logos/channels/light/large/249.png" group-title="",A3S
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/92533
+#EXTINF:-1 tvg-id="ADN 40" tvg-logo="http://live.adn40.mx/images/adn40-logo-big.jpg" group-title="",ADN 40
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/92532
+#EXTINF:-1 tvg-id="Antena 3" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/389.png" group-title="",Antena 3
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/92531
+#EXTINF:-1 tvg-id="Azteca 7" tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="",Azteca 7
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/92526
+#EXTINF:-1 tvg-id="Canal 5" tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png" group-title="",Canal 5
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/92525
+#EXTINF:-1 tvg-id="Ocho TV" tvg-logo="https://i1.wp.com/imagensubida.infojardin.com/subas/images/viu1335729296t.JPG" group-title="",Canal 8
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/92412
+#EXTINF:-1 tvg-id="Canal del Congreso" tvg-logo="https://www.canaldelcongreso.gob.mx/assets/img/noticias_old/canalogo.jpg" group-title="",Canal del Congreso
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/92524
+#EXTINF:-1 tvg-id="Canal Judicial" tvg-logo="https://canaljudicial.mx/themes/subtema_scjn/logo.jpg" group-title="",Canal Judicial
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/92523
+#EXTINF:-1 tvg-id="Foro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="",Foro TV
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/92519
+#EXTINF:-1 tvg-id="Gala TV" tvg-logo="http://4gestudios.com/images/clientes/logo_GalaTV.png" group-title="",Gala TV
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/92517
+#EXTINF:-1 tvg-id="GLITZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="",Glitz
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/92516
+#EXTINF:-1 tvg-id="MEX-Havoc [1080]" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41KhcFAQW1L.png" group-title="",Havoc
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/92515
+#EXTINF:-1 tvg-id="MEX-HMX [1080]" tvg-logo="https://www.tudominiohoy.com/diseno/PRUEBAS/hmx/imagenes/hmx-logo3d.png" group-title="",HMX
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/92492
+#EXTINF:-1 tvg-id="HolaTV" tvg-logo="https://revistasenal.com/wp-content/uploads/2014/08/hola-tv-cerro-acuerdo-con-claro-colombia.png" group-title="",Hola TV
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/92514
+#EXTINF:-1 tvg-id="Imagen TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="",Imagen Television
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/92513
+#EXTINF:-1 tvg-id="Estrellas" tvg-logo="http://images.mi.tv/channels/las-estrellas-m.png" group-title="",Las Estrellas
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/92512
+#EXTINF:-1 tvg-id="Estrellas-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="",Las Estrellas -2 HORAS
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/84014
+#EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://www.directv.com/images/logos/channels/light/large/449.png" group-title="",Lifetime
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/92495
+#EXTINF:-1 tvg-id="Más Chic" tvg-logo="http://maschic.com/img/logo.jpg" group-title="",MAS Chic
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/92511
+#EXTINF:-1 tvg-id="Mexiquense" tvg-logo="http://radioytvmexiquense.mx/harem1/information/contenido/imagenes/155c873f-0fb8-40bb-be1c-052c72d15836.png" group-title="",Mexiquense
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/92510
+#EXTINF:-1 tvg-id="Milenio" tvg-logo="http://images.mi.tv/channels/mx_milenio-tv_m.png" group-title="",Milenio TV
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/92509
+#EXTINF:-1 tvg-id="Multimedios" tvg-logo="https://image.laguna.multimedios.com/sites/default/files/img_default_fb.png" group-title="",Multimedios
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/92507
+#EXTINF:-1 tvg-id="Multimedios" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/MULTIMEDIOS.png" group-title="",Multimedios Plus
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/92506
+#EXTINF:-1 tvg-id="Once TV" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/567.png" group-title="",Once TV
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/96020
+#EXTINF:-1 tvg-id="TCM" tvg-logo="" group-title="",TCM
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/96030
 #EXTINF:-1 tvg-id="HBO" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/canales/TT/1527.png&width=180&height=120" group-title="",HBO
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75940
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/950.png" group-title="",HBO2
@@ -229,7 +141,7 @@ http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/85516
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72449
 #EXTINF:-1 tvg-id="DiscoveryCivilization.mx" tvg-logo="http://www.pandaancha.mx/plds/articulos/froala/Discovery_Civilization_2011-2359x441-773804982.png" group-title="",Discovery Civilization
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/15016
-#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/1229.png&width=180&height=120" group-title="",Discovery Home&Health
+#EXTINF:-1 tvg-id="Discovery HHM" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/1229.png&width=180&height=120" group-title="",Discovery Home&Health
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/14879
 #EXTINF:-1 tvg-id="Discovery HH" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/CL/1229.png&width=180&height=120" group-title="",Discovery Home and Health
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75920
@@ -255,554 +167,20 @@ http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/35664
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/6294
 #EXTINF:-1 tvg-id="BOX NATION [1080]" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51xUI0%2B-ClL.png" group-title="",BOX NATION
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/33913
-#EXTINF:-1 tvg-id="FoxSports.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/EC/1604.png&width=180&height=120" group-title="",Fox Sports 1
+#EXTINF:-1 tvg-id="FoxSports" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/EC/1604.png&width=180&height=120" group-title="",Fox Sports 1
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/14843
-#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/EC/1608.png&width=180&height=120" group-title="",Fox Sports 2
+#EXTINF:-1 tvg-id="FoxSports2" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/EC/1608.png&width=180&height=120" group-title="",Fox Sports 2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/14839
-#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/EC/1609.png&width=180&height=120" group-title="",Fox Sports 3
+#EXTINF:-1 tvg-id="FoxSports3" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/EC/1609.png&width=180&height=120" group-title="",Fox Sports 3
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/14842
-#EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/544.png" group-title="",ESPN
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/544.png" group-title="",ESPN
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/33932
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/616.png" group-title="",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/616.png" group-title="",ESPN 2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/33934
-#EXTINF:-1 tvg-id="ESPN3.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/EC/1626.png&width=180&height=120" group-title="",ESPN 3
+#EXTINF:-1 tvg-id="ESPN3" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/EC/1626.png&width=180&height=120" group-title="",ESPN 3
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/33933
-#EXTINF:-1 tvg-id="ESPNPlus.mx" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/EC/1621.png&width=180&height=120" group-title="",Espn Plus
+#EXTINF:-1 tvg-id="ESPN+" tvg-logo="http://www.ondirectv.com/Thumbnail.ashx?image=LOGOS/Canales/EC/1621.png&width=180&height=120" group-title="",Espn Plus
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/14840
-#EXTINF:-1 tvg-id="Univision TDN MX" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/431.png" group-title="",Univision TDN
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/34856
-#EXTINF:-1 channel-id="454" tvg-id="24/7 Two And Half Men" tvg-logo="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2013/02/Two-and-a-Half-Men.jpg"  channel-id="24/7 Two And Half Men" group-title="24/7 - CINEMA",24/7 Two And Half Men
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92291.ts
-#EXTINF:-1 channel-id="460" tvg-id="24/7 American Dad!  HD  24/7" tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2014/08/23/americandad2-compressor.png"  channel-id="24/7 American Dad!  HD  24/7" group-title="24/7 - CINEMA",24/7 American Dad!  HD  24/7
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/18225.ts
-#EXTINF:-1 channel-id="462" tvg-id="24/7 Batman: La serie animada SD" tvg-logo="https://i.ytimg.com/vi/_9vb1kVy8wM/hqdefault.jpg"  channel-id="24/7 Batman: La serie animada SD" group-title="24/7 - CINEMA",24/7 Batman: La serie animada SD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/17010.ts
-#EXTINF:-1 channel-id="464" tvg-id="24/7 Bob Esponja  [720]" tvg-logo="http://uscdn02.mundotkm.com/2016/10/bobesponja-e1476394824863.jpg"  channel-id="24/7 Bob Esponja  [720]" group-title="24/7 - CINEMA",24/7 Bob Esponja  [720]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/17002.ts
-#EXTINF:-1 channel-id="470" tvg-id="24/7 Cantinflas  (SD)" tvg-logo="http://elnacional.com.do/wp-content/uploads/2017/04/Cantinflas.jpg"  channel-id="24/7 Cantinflas  (SD)" group-title="24/7 - CINEMA",24/7 Cantinflas  (SD)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/17011.ts
-#EXTINF:-1 channel-id="471" tvg-id="24/7 Cartelera Premiere HD 1080P" tvg-logo="http://es.web.img2.acsta.net/newsv7/17/02/03/15/59/350125.jpg"  channel-id="24/7 Cartelera Premiere HD 1080P" group-title="24/7 - CINEMA",24/7 Cartelera Premiere HD 1080P
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/11254.ts
-#EXTINF:-1 channel-id="472" tvg-id="24/7 Chespirito Tv SD 24/7" tvg-logo="https://i.ytimg.com/vi/vBENo6JEfbM/maxresdefault.jpg"  channel-id="24/7 Chespirito Tv SD 24/7" group-title="24/7 - CINEMA",24/7 Chespirito Tv SD 24/7
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/18222.ts
-#EXTINF:-1 channel-id="473" tvg-id="24/7 Cinemax Action HD" tvg-logo="https://sc.dish.com/shared/images/station-logos/ACMAX.PNG"  channel-id="24/7 Cinemax Action HD" group-title="24/7 - CINEMA",24/7 Cinemax Action HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/11252.ts
-#EXTINF:-1 channel-id="474" tvg-id="24/7 Cinemax East HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png"  channel-id="24/7 Cinemax East HD 1080P" group-title="24/7 - CINEMA",24/7 Cinemax East HD 1080P
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/11251.ts
-#EXTINF:-1 channel-id="475" tvg-id="24/7 Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png"  channel-id="24/7 Cinemax HD" group-title="24/7 - CINEMA",24/7 Cinemax HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/11250.ts
-#EXTINF:-1 channel-id="476" tvg-id="24/7 Coraje El Perro Cobarde SD" tvg-logo="http://www.cartoon-latino.com/wp-content/uploads/2016/08/Coraje-el-perro-cobarde-temporadas-completas.jpg"  channel-id="24/7 Coraje El Perro Cobarde SD" group-title="24/7 - CINEMA",24/7 Coraje El Perro Cobarde SD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/18221.ts
-#EXTINF:-1 channel-id="480" tvg-id="24/7 Dragon Ball GT HD 24/7" tvg-logo="https://www.supergoku.com/wp-content/uploads/2016/10/dragon_ball_gt_genzai__fan_made__by_legend_tony980-d78dn2u.png"  channel-id="24/7 Dragon Ball GT HD 24/7" group-title="24/7 - CINEMA",24/7 Dragon Ball GT HD 24/7
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/18219.ts
-#EXTINF:-1 channel-id="481" tvg-id="24/7 Dragon Ball HD" tvg-logo="https://images.alphacoders.com/679/thumb-350-679755.png"  channel-id="24/7 Dragon Ball HD" group-title="24/7 - CINEMA",24/7 Dragon Ball HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/17034.ts
-#EXTINF:-1 channel-id="482" tvg-id="24/7 Dragon Ball Super [1080]" tvg-logo="https://4.bp.blogspot.com/-FhvAJn-LBXM/WYau8bQEX_I/AAAAAAAAAns/v1YKWmr3U80LX_cm96gUXUBc_Szk3ewFgCLcBGAs/s1600/dragon-ball-super.jpg"  channel-id="24/7 Dragon Ball Super [1080]" group-title="24/7 - CINEMA",24/7 Dragon Ball Super [1080]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/17003.ts
-#EXTINF:-1 channel-id="483" tvg-id="24/7 Dragon Ball Z HD" tvg-logo="http://diceandtiles.com/wp-content/uploads/2017/05/Dragon-Ball-Z.jpg"  channel-id="24/7 Dragon Ball Z HD" group-title="24/7 - CINEMA",24/7 Dragon Ball Z HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/17033.ts
-#EXTINF:-1 channel-id="495" tvg-id="24/7 Family Guy HD" tvg-logo="https://images7.alphacoders.com/475/475500.jpg"  channel-id="24/7 Family Guy HD" group-title="24/7 - CINEMA",24/7 Family Guy HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/17029.ts
-#EXTINF:-1 channel-id="496" tvg-id="24/7 Futurama [1080]" tvg-logo="https://seriesblanco.com/files/noticias/229.jpg"  channel-id="24/7 Futurama [1080]" group-title="24/7 - CINEMA",24/7 Futurama [1080]
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/17000.ts
-#EXTINF:-1 channel-id="500" tvg-id="24/7 Gravity Falls HD" tvg-logo="https://www.imgbase.info/images/safe-wallpapers/cartoons/gravity_falls/57785_gravity_falls.jpg"  channel-id="24/7 Gravity Falls HD" group-title="24/7 - CINEMA",24/7 Gravity Falls HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/23928.ts
-#EXTINF:-1 channel-id="502" tvg-id="24/7 HBO East HD 1080P" tvg-logo="https://i.pinimg.com/736x/8c/c3/41/8cc341ea1660cb59c0b4ffde59d34e50--hd-tvs-live-tv.jpg"  channel-id="24/7 HBO East HD 1080P" group-title="24/7 - CINEMA",24/7 HBO East HD 1080P
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/11249.ts
-#EXTINF:-1 channel-id="503" tvg-id="24/7 HBO Family HD 1080P" tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_1157_6_8916.png"  channel-id="24/7 HBO Family HD 1080P" group-title="24/7 - CINEMA",24/7 HBO Family HD 1080P
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/11248.ts
-#EXTINF:-1 channel-id="504" tvg-id="24/7 HBO Plus HD 1080P" tvg-logo="https://www.foromedios.com/uploads/gallery/album_1/gallery_1157_1_11888.png"  channel-id="24/7 HBO Plus HD 1080P" group-title="24/7 - CINEMA",24/7 HBO Plus HD 1080P
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/11247.ts
-#EXTINF:-1 channel-id="505" tvg-id="24/7 HBO Plus West HD 1080P" tvg-logo="https://www.foromedios.com/uploads/gallery/album_1/gallery_1157_1_11888.png"  channel-id="24/7 HBO Plus West HD 1080P" group-title="24/7 - CINEMA",24/7 HBO Plus West HD 1080P
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/11246.ts
-#EXTINF:-1 channel-id="506" tvg-id="24/7 HBO SIGNATURE HD 1080P" tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_1157_6_3018.png"  channel-id="24/7 HBO SIGNATURE HD 1080P" group-title="24/7 - CINEMA",24/7 HBO SIGNATURE HD 1080P
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/11245.ts
-#EXTINF:-1 channel-id="507" tvg-id="24/7 HBO West HD 1080P" tvg-logo="https://i.pinimg.com/736x/8c/c3/41/8cc341ea1660cb59c0b4ffde59d34e50--hd-tvs-live-tv.jpg"  channel-id="24/7 HBO West HD 1080P" group-title="24/7 - CINEMA",24/7 HBO West HD 1080P
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/11244.ts
-#EXTINF:-1 channel-id="520" tvg-id="24/7 Latin TV Terror/horror/suspenso" tvg-logo="https://i.ytimg.com/vi/u_ts_jW8X5o/hqdefault.jpg"  channel-id="24/7 Latin TV Terror/horror/suspenso" group-title="24/7 - CINEMA",24/7 Latin TV Terror/horror/suspenso
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/34487.ts
-#EXTINF:-1 channel-id="521" tvg-id="24/7 Latin TV Comedia" tvg-logo="https://pbs.twimg.com/profile_images/665698398163640322/ZqGkyUY__400x400.png"  channel-id="24/7 Latin TV Comedia" group-title="24/7 - CINEMA",24/7 Latin TV Comedia
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/38294.ts
-#EXTINF:-1 channel-id="525" tvg-id="24/7 Latin TV Universo Marvel" tvg-logo="https://k60.kn3.net/taringa/4/5/A/7/C/A/Victorjcb28/A75.jpg"  channel-id="24/7 Latin TV Universo Marvel" group-title="24/7 - CINEMA",24/7 Latin TV Universo Marvel
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/56181.ts
-#EXTINF:-1 channel-id="527" tvg-id="24/7 Latin TV Universo DC" tvg-logo="http://cd.cinescape.com.pe/cinescape-603x336-204203.jpg"  channel-id="24/7 Latin TV Universo DC" group-title="24/7 - CINEMA",24/7 Latin TV Universo DC
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75477.ts
-#EXTINF:-1 channel-id="543" tvg-id="24/7 Malcolm  SD" tvg-logo="http://ayayay.tv/wp-content/uploads/2016/03/malcom.jpg"  channel-id="24/7 Malcolm  SD" group-title="24/7 - CINEMA",24/7 Malcolm  SD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/17022.ts
-#EXTINF:-1 channel-id="545" tvg-id="24/7 MoreMax HD 1080P" tvg-logo="https://www.tampereenpuhelin.fi/Portals/0/Images/Kanavalogot/Kanavapaketit_uudistus/CMore_maxHD.jpg"  channel-id="24/7 MoreMax HD 1080P" group-title="24/7 - CINEMA",24/7 MoreMax HD 1080P
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/11242.ts
-#EXTINF:-1 channel-id="546" tvg-id="24/7 MovieMax HD 1080P" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/a/ae/Moviemax_2013.jpg/revision/latest?cb=20130629192954"  channel-id="24/7 MovieMax HD 1080P" group-title="24/7 - CINEMA",24/7 MovieMax HD 1080P
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/11241.ts
-#EXTINF:-1 channel-id="547" tvg-id="24/7 MoviePlex HD 1080P" tvg-logo="https://www.starz.com/guides/movieplexlibrary/logos/plexlogos/platform/1_movieplex_hd_on_demand/color/jpgrgb/mplxhd_od_pre_pos_color_rgb.jpg"  channel-id="24/7 MoviePlex HD 1080P" group-title="24/7 - CINEMA",24/7 MoviePlex HD 1080P
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/11240.ts
-#EXTINF:-1 channel-id="552" tvg-id="24/7 Pinky y Cerebro" tvg-logo="https://static.paraloscuriosos.com/img/articles/6192/800x800/57e0f8629d193_53e.jpg"  channel-id="24/7 Pinky y Cerebro" group-title="24/7 - CINEMA",24/7 Pinky y Cerebro
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/28804.ts
-#EXTINF:-1 channel-id="556" tvg-id="24/7 Ranma ½ HD" tvg-logo="http://mxcdn02.mundotkm.com/2017/04/ranma-y-medio-2.jpg"  channel-id="24/7 Ranma ½ HD" group-title="24/7 - CINEMA",24/7 Ranma ½ HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/17018.ts
-#EXTINF:-1 channel-id="559" tvg-id="24/7 Rick and Morty HD" tvg-logo="https://1.bp.blogspot.com/--PqoQ9uGGvI/WX-ZFBKp_QI/AAAAAAAAJVM/0fAPFui7OSMj_q8w0iVVFmgPw29swPi7ACLcBGAs/s1600/rick-y-morty-online.jpg"  channel-id="24/7 Rick and Morty HD" group-title="24/7 - CINEMA",24/7 Rick and Morty HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/18207.ts
-#EXTINF:-1 channel-id="589" tvg-id="24/7 The Big Bang Theory" tvg-logo="http://wp.enciclomedios.com/wp-content/uploads/2013/05/the-big-bang-theory.jpg"  channel-id="24/7 The Big Bang Theory" group-title="24/7 - CINEMA",24/7 The Big Bang Theory
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/16998.ts
-#EXTINF:-1 channel-id="591" tvg-id="24/7 The Simpsons HD" tvg-logo="http://4.bp.blogspot.com/-mDMSztG9C_M/VjkK8uXZ4tI/AAAAAAAAB9c/WfduHo6veIE/s1600/the-simpsons-family.jpg"  channel-id="24/7 The Simpsons HD" group-title="24/7 - CINEMA",24/7 The Simpsons HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/17013.ts
-#EXTINF:-1 channel-id="916" tvg-id="US: NFL Network" tvg-logo="https://cdn.directv.com/content/dam/dtv/NFLST_OTT/2017/images/nflst_logo.png"  channel-id="US: NFL Network" group-title="DEPORTES PPV",US: NFL Network
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/15246.ts
-#EXTINF:-1 channel-id="917" tvg-id="NFL Red Zone" tvg-logo="https://cdn.directv.com/content/dam/dtv/NFLST_OTT/2017/images/nflst_logo.png"  channel-id="NFL Red Zone" group-title="DEPORTES PPV",NFL Red Zone
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/15245.ts
-#EXTINF:-1 channel-id="918" tvg-id="Arizona Cardinals | NFL Game Pass 485" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLArizonaCardinals.jpg"  channel-id="Arizona Cardinals | NFL Game Pass 485" group-title="DEPORTES PPV",Arizona Cardinals | NFL Game Pass 485
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99245.ts
-#EXTINF:-1 channel-id="919" tvg-id="Atlanta Falcons | NFL Game Pass 500" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLATLANTAFALCONS.jpg"  channel-id="Atlanta Falcons | NFL Game Pass 500" group-title="DEPORTES PPV",Atlanta Falcons | NFL Game Pass 500
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99244.ts
-#EXTINF:-1 channel-id="920" tvg-id="Baltimore Ravens | NFL Game Pass 497" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLBaltimoreRavens.jpg"  channel-id="Baltimore Ravens | NFL Game Pass 497" group-title="DEPORTES PPV",Baltimore Ravens | NFL Game Pass 497
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99243.ts
-#EXTINF:-1 channel-id="921" tvg-id="Buffalo Bills | NFL Game Pass 502" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLBuffaloBills.jpg"  channel-id="Buffalo Bills | NFL Game Pass 502" group-title="DEPORTES PPV",Buffalo Bills | NFL Game Pass 502
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99242.ts
-#EXTINF:-1 channel-id="922" tvg-id="Carolina Panthers | NFL Game Pass 496" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLCarolinaPanthers.jpg"  channel-id="Carolina Panthers | NFL Game Pass 496" group-title="DEPORTES PPV",Carolina Panthers | NFL Game Pass 496
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99241.ts
-#EXTINF:-1 channel-id="923" tvg-id="Chicago Bears | NFL Game Pass 491" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLChicagoBears.jpg"  channel-id="Chicago Bears | NFL Game Pass 491" group-title="DEPORTES PPV",Chicago Bears | NFL Game Pass 491
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99240.ts
-#EXTINF:-1 channel-id="924" tvg-id="Cincinnati Bengals | NFL Game Pass" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLCincinnatiBengals.jpg"  channel-id="Cincinnati Bengals | NFL Game Pass" group-title="DEPORTES PPV",Cincinnati Bengals | NFL Game Pass
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99239.ts
-#EXTINF:-1 channel-id="925" tvg-id="Cleveland Browns | NFL Game Pass" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLClevelandBrowns.jpg"  channel-id="Cleveland Browns | NFL Game Pass" group-title="DEPORTES PPV",Cleveland Browns | NFL Game Pass
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99238.ts
-#EXTINF:-1 channel-id="926" tvg-id="Dallas Cowboys | NFL Game Pass 490" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLDallasCowboys.jpg"  channel-id="Dallas Cowboys | NFL Game Pass 490" group-title="DEPORTES PPV",Dallas Cowboys | NFL Game Pass 490
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99237.ts
-#EXTINF:-1 channel-id="927" tvg-id="Denver Broncos | NFL Game Pass 489" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLDenverBroncos.jpg"  channel-id="Denver Broncos | NFL Game Pass 489" group-title="DEPORTES PPV",Denver Broncos | NFL Game Pass 489
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99236.ts
-#EXTINF:-1 channel-id="928" tvg-id="Detroit Lions | NFL Game Pass" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLDetroitLions.jpg"  channel-id="Detroit Lions | NFL Game Pass" group-title="DEPORTES PPV",Detroit Lions | NFL Game Pass
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99235.ts
-#EXTINF:-1 channel-id="929" tvg-id="Green Bay Packers | NFL Game Pass 501" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLGreenBayPackers.jpg"  channel-id="Green Bay Packers | NFL Game Pass 501" group-title="DEPORTES PPV",Green Bay Packers | NFL Game Pass 501
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99234.ts
-#EXTINF:-1 channel-id="930" tvg-id="Houston Texans | NFL Game Pass 492" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLHoustonTexans.jpg"  channel-id="Houston Texans | NFL Game Pass 492" group-title="DEPORTES PPV",Houston Texans | NFL Game Pass 492
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99233.ts
-#EXTINF:-1 channel-id="931" tvg-id="Indianapolis Colts | NFL Game Pass" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/nflIndianapolisColts.jpg"  channel-id="Indianapolis Colts | NFL Game Pass" group-title="DEPORTES PPV",Indianapolis Colts | NFL Game Pass
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99232.ts
-#EXTINF:-1 channel-id="932" tvg-id="JacksonvilleJaguars | NFL Game Pass 488" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLJacksonvilleJaguars.jpg"  channel-id="JacksonvilleJaguars | NFL Game Pass 488" group-title="DEPORTES PPV",JacksonvilleJaguars | NFL Game Pass 488
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99231.ts
-#EXTINF:-1 channel-id="933" tvg-id="Kansas City Chiefs | NFL Game Pass" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLKansasCityChiefs.jpg"  channel-id="Kansas City Chiefs | NFL Game Pass" group-title="DEPORTES PPV",Kansas City Chiefs | NFL Game Pass
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99230.ts
-#EXTINF:-1 channel-id="934" tvg-id="Los Angeles Chargers | NFL Game Pass 482" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLLosAngelesChargers.jpg"  channel-id="Los Angeles Chargers | NFL Game Pass 482" group-title="DEPORTES PPV",Los Angeles Chargers | NFL Game Pass 482
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99229.ts
-#EXTINF:-1 channel-id="935" tvg-id="Los Angeles Rams | NFL Game Pass" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLLosAngelesRams.jpg"  channel-id="Los Angeles Rams | NFL Game Pass" group-title="DEPORTES PPV",Los Angeles Rams | NFL Game Pass
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99228.ts
-#EXTINF:-1 channel-id="936" tvg-id="Miami Dolphins | NFL Game Pass 481" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLMiamiDolphins.jpg"  channel-id="Miami Dolphins | NFL Game Pass 481" group-title="DEPORTES PPV",Miami Dolphins | NFL Game Pass 481
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99227.ts
-#EXTINF:-1 channel-id="937" tvg-id="Minnesota Vikings | NFL Game Pass 480" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLMinnesotaVikings.jpg"  channel-id="Minnesota Vikings | NFL Game Pass 480" group-title="DEPORTES PPV",Minnesota Vikings | NFL Game Pass 480
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99226.ts
-#EXTINF:-1 channel-id="938" tvg-id="New England Patriots | NFL Game Pass 479" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLNewEnglandPatriots.jpg"  channel-id="New England Patriots | NFL Game Pass 479" group-title="DEPORTES PPV",New England Patriots | NFL Game Pass 479
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99225.ts
-#EXTINF:-1 channel-id="939" tvg-id="New Orleans Saints | NFL Game Pass" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLNewOrleansSaints.jpg"  channel-id="New Orleans Saints | NFL Game Pass" group-title="DEPORTES PPV",New Orleans Saints | NFL Game Pass
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99224.ts
-#EXTINF:-1 channel-id="940" tvg-id="New York Giants | NFL Game Pass" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLNewYorkGiants.jpg"  channel-id="New York Giants | NFL Game Pass" group-title="DEPORTES PPV",New York Giants | NFL Game Pass
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99223.ts
-#EXTINF:-1 channel-id="941" tvg-id="New York Jets | NFL Game Pass 506" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLNewYorkJets.jpg"  channel-id="New York Jets | NFL Game Pass 506" group-title="DEPORTES PPV",New York Jets | NFL Game Pass 506
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99222.ts
-#EXTINF:-1 channel-id="942" tvg-id="Oakland Raiders | NFL Game Pass 477" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLOaklandRaiders.jpg"  channel-id="Oakland Raiders | NFL Game Pass 477" group-title="DEPORTES PPV",Oakland Raiders | NFL Game Pass 477
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99221.ts
-#EXTINF:-1 channel-id="943" tvg-id="Philadelphia Eagles | NFL Game Pass 476" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLPhiladelphiaEagles.jpg"  channel-id="Philadelphia Eagles | NFL Game Pass 476" group-title="DEPORTES PPV",Philadelphia Eagles | NFL Game Pass 476
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99220.ts
-#EXTINF:-1 channel-id="944" tvg-id="Pittsburgh Steelers | NFL Game Pass 507" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLPittsburghSteelers.jpg"  channel-id="Pittsburgh Steelers | NFL Game Pass 507" group-title="DEPORTES PPV",Pittsburgh Steelers | NFL Game Pass 507
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99219.ts
-#EXTINF:-1 channel-id="945" tvg-id="San Francisco 49ers | NFL Game Pass" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLSanFrancisco49ers.jpg"  channel-id="San Francisco 49ers | NFL Game Pass" group-title="DEPORTES PPV",San Francisco 49ers | NFL Game Pass
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99218.ts
-#EXTINF:-1 channel-id="946" tvg-id="Seattle Seahawks | NFL Game Pass" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLSeattleSeahawks.jpg"  channel-id="Seattle Seahawks | NFL Game Pass" group-title="DEPORTES PPV",Seattle Seahawks | NFL Game Pass
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99217.ts
-#EXTINF:-1 channel-id="947" tvg-id="Tampa Bay Buccaneers | NFL Game Pass" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLTampaBayBuccaneers.jpg"  channel-id="Tampa Bay Buccaneers | NFL Game Pass" group-title="DEPORTES PPV",Tampa Bay Buccaneers | NFL Game Pass
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99216.ts
-#EXTINF:-1 channel-id="948" tvg-id="Tennessee Titans | NFL Game Pass 499" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLTennesseeTitans.jpg"  channel-id="Tennessee Titans | NFL Game Pass 499" group-title="DEPORTES PPV",Tennessee Titans | NFL Game Pass 499
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99215.ts
-#EXTINF:-1 channel-id="949" tvg-id="Washington Redskins | NFL Game Pass 503" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFLWashingtonRedskins.jpg"  channel-id="Washington Redskins | NFL Game Pass 503" group-title="DEPORTES PPV",Washington Redskins | NFL Game Pass 503
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99214.ts
-#EXTINF:-1 channel-id="950" tvg-id="NFL SUNDAY TICKET 01 (N)" tvg-logo=""  channel-id="NFL SUNDAY TICKET 01 (N)" group-title="DEPORTES PPV",NFL SUNDAY TICKET 01 (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99407.ts
-#EXTINF:-1 channel-id="951" tvg-id="NFL SUNDAY TICKET 02 (N)" tvg-logo=""  channel-id="NFL SUNDAY TICKET 02 (N)" group-title="DEPORTES PPV",NFL SUNDAY TICKET 02 (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99406.ts
-#EXTINF:-1 channel-id="952" tvg-id="NFL SUNDAY TICKET 03 (N)" tvg-logo=""  channel-id="NFL SUNDAY TICKET 03 (N)" group-title="DEPORTES PPV",NFL SUNDAY TICKET 03 (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99405.ts
-#EXTINF:-1 channel-id="953" tvg-id="NFL SUNDAY TICKET 04 (N)" tvg-logo=""  channel-id="NFL SUNDAY TICKET 04 (N)" group-title="DEPORTES PPV",NFL SUNDAY TICKET 04 (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99404.ts
-#EXTINF:-1 channel-id="954" tvg-id="NFL SUNDAY TICKET 05 (N)" tvg-logo=""  channel-id="NFL SUNDAY TICKET 05 (N)" group-title="DEPORTES PPV",NFL SUNDAY TICKET 05 (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99403.ts
-#EXTINF:-1 channel-id="955" tvg-id="NFL SUNDAY TICKET 06 (N)" tvg-logo=""  channel-id="NFL SUNDAY TICKET 06 (N)" group-title="DEPORTES PPV",NFL SUNDAY TICKET 06 (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99402.ts
-#EXTINF:-1 channel-id="956" tvg-id="NFL SUNDAY TICKET 07 (N)" tvg-logo=""  channel-id="NFL SUNDAY TICKET 07 (N)" group-title="DEPORTES PPV",NFL SUNDAY TICKET 07 (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99401.ts
-#EXTINF:-1 channel-id="957" tvg-id="NFL SUNDAY TICKET 08 (N)" tvg-logo=""  channel-id="NFL SUNDAY TICKET 08 (N)" group-title="DEPORTES PPV",NFL SUNDAY TICKET 08 (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99400.ts
-#EXTINF:-1 channel-id="958" tvg-id="NFL SUNDAY TICKET 09 (N)" tvg-logo=""  channel-id="NFL SUNDAY TICKET 09 (N)" group-title="DEPORTES PPV",NFL SUNDAY TICKET 09 (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99399.ts
-#EXTINF:-1 channel-id="959" tvg-id="NFL SUNDAY TICKET 10 (N)" tvg-logo=""  channel-id="NFL SUNDAY TICKET 10 (N)" group-title="DEPORTES PPV",NFL SUNDAY TICKET 10 (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99398.ts
-#EXTINF:-1 channel-id="960" tvg-id="NFL SUNDAY TICKET 11 (N)" tvg-logo=""  channel-id="NFL SUNDAY TICKET 11 (N)" group-title="DEPORTES PPV",NFL SUNDAY TICKET 11 (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99397.ts
-#EXTINF:-1 channel-id="961" tvg-id="NFL SUNDAY TICKET 12 (N)" tvg-logo=""  channel-id="NFL SUNDAY TICKET 12 (N)" group-title="DEPORTES PPV",NFL SUNDAY TICKET 12 (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99396.ts
-#EXTINF:-1 channel-id="962" tvg-id="NFL SUNDAY TICKET 13 (N)" tvg-logo=""  channel-id="NFL SUNDAY TICKET 13 (N)" group-title="DEPORTES PPV",NFL SUNDAY TICKET 13 (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99395.ts
-#EXTINF:-1 channel-id="963" tvg-id="NFL SUNDAY TICKET 14 (N)" tvg-logo=""  channel-id="NFL SUNDAY TICKET 14 (N)" group-title="DEPORTES PPV",NFL SUNDAY TICKET 14 (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99394.ts
-#EXTINF:-1 channel-id="964" tvg-id="NFL 01" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFL1.jpg"  channel-id="NFL 01" group-title="DEPORTES PPV",NFL 01
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99213.ts
-#EXTINF:-1 channel-id="965" tvg-id="NFL 02" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFL1.jpg"  channel-id="NFL 02" group-title="DEPORTES PPV",NFL 02
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99212.ts
-#EXTINF:-1 channel-id="966" tvg-id="NFL 03 393" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFL1.jpg"  channel-id="NFL 03 393" group-title="DEPORTES PPV",NFL 03 393
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99211.ts
-#EXTINF:-1 channel-id="967" tvg-id="NFL 04" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFL1.jpg"  channel-id="NFL 04" group-title="DEPORTES PPV",NFL 04
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99210.ts
-#EXTINF:-1 channel-id="968" tvg-id="NFL 05" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFL1.jpg"  channel-id="NFL 05" group-title="DEPORTES PPV",NFL 05
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99209.ts
-#EXTINF:-1 channel-id="969" tvg-id="NFL 06" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFL1.jpg"  channel-id="NFL 06" group-title="DEPORTES PPV",NFL 06
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99208.ts
-#EXTINF:-1 channel-id="970" tvg-id="NFL 07" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFL1.jpg"  channel-id="NFL 07" group-title="DEPORTES PPV",NFL 07
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99207.ts
-#EXTINF:-1 channel-id="971" tvg-id="NFL 08" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFL1.jpg"  channel-id="NFL 08" group-title="DEPORTES PPV",NFL 08
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99206.ts
-#EXTINF:-1 channel-id="972" tvg-id="NFL 09" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFL1.jpg"  channel-id="NFL 09" group-title="DEPORTES PPV",NFL 09
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99205.ts
-#EXTINF:-1 channel-id="973" tvg-id="NFL 10" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFL1.jpg"  channel-id="NFL 10" group-title="DEPORTES PPV",NFL 10
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99204.ts
-#EXTINF:-1 channel-id="974" tvg-id="NFL 11" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFL1.jpg"  channel-id="NFL 11" group-title="DEPORTES PPV",NFL 11
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99203.ts
-#EXTINF:-1 channel-id="975" tvg-id="NFL 12" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFL1.jpg"  channel-id="NFL 12" group-title="DEPORTES PPV",NFL 12
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99202.ts
-#EXTINF:-1 channel-id="976" tvg-id="NFL 13" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFL1.jpg"  channel-id="NFL 13" group-title="DEPORTES PPV",NFL 13
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99201.ts
-#EXTINF:-1 channel-id="977" tvg-id="NFL 14" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFL1.jpg"  channel-id="NFL 14" group-title="DEPORTES PPV",NFL 14
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99200.ts
-#EXTINF:-1 channel-id="978" tvg-id="NFL 15" tvg-logo="http://185.152.66.151/Logos2/Deportes/NFL/NFL1.jpg"  channel-id="NFL 15" group-title="DEPORTES PPV",NFL 15
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99199.ts
-#EXTINF:-1 channel-id="979" tvg-id="MLB Network" tvg-logo="http://www.kkrt.com/wp-content/uploads/2016/03/MLB.png"  channel-id="MLB Network" group-title="DEPORTES PPV",MLB Network
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/35716.ts
-#EXTINF:-1 channel-id="980" tvg-id="USA | MLB 01 Extra Innings HD-" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 01 Extra Innings HD-" group-title="DEPORTES PPV",USA | MLB 01 Extra Innings HD-
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81964.ts
-#EXTINF:-1 channel-id="981" tvg-id="USA | MLB 02 Extra Innings HD-" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 02 Extra Innings HD-" group-title="DEPORTES PPV",USA | MLB 02 Extra Innings HD-
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81969.ts
-#EXTINF:-1 channel-id="982" tvg-id="USA | MLB 03 Extra Innings HD-" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 03 Extra Innings HD-" group-title="DEPORTES PPV",USA | MLB 03 Extra Innings HD-
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81970.ts
-#EXTINF:-1 channel-id="983" tvg-id="USA | MLB 04 Extra Innings HD-" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 04 Extra Innings HD-" group-title="DEPORTES PPV",USA | MLB 04 Extra Innings HD-
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81971.ts
-#EXTINF:-1 channel-id="984" tvg-id="USA | MLB 05 Extra Innings HD-" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png"  channel-id="USA | MLB 05 Extra Innings HD-" group-title="DEPORTES PPV",USA | MLB 05 Extra Innings HD-
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81972.ts
-#EXTINF:-1 channel-id="985" tvg-id="USA | MLB 06 Extra Innings HD-" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png"  channel-id="USA | MLB 06 Extra Innings HD-" group-title="DEPORTES PPV",USA | MLB 06 Extra Innings HD-
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81973.ts
-#EXTINF:-1 channel-id="986" tvg-id="USA | MLB 07 Extra Innings HD-" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png"  channel-id="USA | MLB 07 Extra Innings HD-" group-title="DEPORTES PPV",USA | MLB 07 Extra Innings HD-
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81974.ts
-#EXTINF:-1 channel-id="987" tvg-id="USA | MLB 08 Extra Innings HD-" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png"  channel-id="USA | MLB 08 Extra Innings HD-" group-title="DEPORTES PPV",USA | MLB 08 Extra Innings HD-
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81975.ts
-#EXTINF:-1 channel-id="988" tvg-id="USA | MLB 09 Extra Innings HD-" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png"  channel-id="USA | MLB 09 Extra Innings HD-" group-title="DEPORTES PPV",USA | MLB 09 Extra Innings HD-
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81976.ts
-#EXTINF:-1 channel-id="989" tvg-id="USA | MLB 10 Extra Innings HD-" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 10 Extra Innings HD-" group-title="DEPORTES PPV",USA | MLB 10 Extra Innings HD-
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81965.ts
-#EXTINF:-1 channel-id="990" tvg-id="USA | MLB 11 Extra Innings HD-" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 11 Extra Innings HD-" group-title="DEPORTES PPV",USA | MLB 11 Extra Innings HD-
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81966.ts
-#EXTINF:-1 channel-id="991" tvg-id="USA | MLB 12 Extra Innings HD-" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 12 Extra Innings HD-" group-title="DEPORTES PPV",USA | MLB 12 Extra Innings HD-
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81967.ts
-#EXTINF:-1 channel-id="992" tvg-id="USA | MLB 13 Extra Innings HD-" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 13 Extra Innings HD-" group-title="DEPORTES PPV",USA | MLB 13 Extra Innings HD-
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81968.ts
-#EXTINF:-1 channel-id="993" tvg-id="USA | MLB 14 Extra Innings HD-" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 14 Extra Innings HD-" group-title="DEPORTES PPV",USA | MLB 14 Extra Innings HD-
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81963.ts
-#EXTINF:-1 channel-id="994" tvg-id="USA | MLB 15 Extra Innings HD-" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 15 Extra Innings HD-" group-title="DEPORTES PPV",USA | MLB 15 Extra Innings HD-
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81962.ts
-#EXTINF:-1 channel-id="995" tvg-id="USA | MLB 16 Extra Inning HD" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 16 Extra Inning HD" group-title="DEPORTES PPV",USA | MLB 16 Extra Inning HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81922.ts
-#EXTINF:-1 channel-id="996" tvg-id="USA | MLB 17 Extra Inning HD" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 17 Extra Inning HD" group-title="DEPORTES PPV",USA | MLB 17 Extra Inning HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81923.ts
-#EXTINF:-1 channel-id="997" tvg-id="USA | MLB 18 Extra Inning HD" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 18 Extra Inning HD" group-title="DEPORTES PPV",USA | MLB 18 Extra Inning HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81924.ts
-#EXTINF:-1 channel-id="998" tvg-id="USA | MLB 19 Extra Inning HD" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 19 Extra Inning HD" group-title="DEPORTES PPV",USA | MLB 19 Extra Inning HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81925.ts
-#EXTINF:-1 channel-id="999" tvg-id="USA | MLB 20 Extra Inning HD" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 20 Extra Inning HD" group-title="DEPORTES PPV",USA | MLB 20 Extra Inning HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81926.ts
-#EXTINF:-1 channel-id="1000" tvg-id="USA | MLB 21 Extra Inning HD" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 21 Extra Inning HD" group-title="DEPORTES PPV",USA | MLB 21 Extra Inning HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81927.ts
-#EXTINF:-1 channel-id="1001" tvg-id="USA | MLB 22 Extra Inning HD" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 22 Extra Inning HD" group-title="DEPORTES PPV",USA | MLB 22 Extra Inning HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81928.ts
-#EXTINF:-1 channel-id="1002" tvg-id="USA | MLB 23 Extra Inning HD" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 23 Extra Inning HD" group-title="DEPORTES PPV",USA | MLB 23 Extra Inning HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81929.ts
-#EXTINF:-1 channel-id="1003" tvg-id="USA | MLB 24 Extra Inning HD" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 24 Extra Inning HD" group-title="DEPORTES PPV",USA | MLB 24 Extra Inning HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81930.ts
-#EXTINF:-1 channel-id="1004" tvg-id="USA | MLB 25 Extra Inning HD" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 25 Extra Inning HD" group-title="DEPORTES PPV",USA | MLB 25 Extra Inning HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81931.ts
-#EXTINF:-1 channel-id="1005" tvg-id="USA | MLB 26 Extra Inning HD" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 26 Extra Inning HD" group-title="DEPORTES PPV",USA | MLB 26 Extra Inning HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81932.ts
-#EXTINF:-1 channel-id="1006" tvg-id="USA | MLB 27 Extra Inning HD" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 27 Extra Inning HD" group-title="DEPORTES PPV",USA | MLB 27 Extra Inning HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81933.ts
-#EXTINF:-1 channel-id="1007" tvg-id="USA | MLB 28 Extra Inning HD" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 28 Extra Inning HD" group-title="DEPORTES PPV",USA | MLB 28 Extra Inning HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81934.ts
-#EXTINF:-1 channel-id="1008" tvg-id="USA | MLB 29 Extra Inning HD" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 29 Extra Inning HD" group-title="DEPORTES PPV",USA | MLB 29 Extra Inning HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81935.ts
-#EXTINF:-1 channel-id="1009" tvg-id="USA | MLB 30 Extra Inning HD" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 30 Extra Inning HD" group-title="DEPORTES PPV",USA | MLB 30 Extra Inning HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81936.ts
-#EXTINF:-1 channel-id="1010" tvg-id="USA | MLB 31 Extra Inning HD" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 31 Extra Inning HD" group-title="DEPORTES PPV",USA | MLB 31 Extra Inning HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81937.ts
-#EXTINF:-1 channel-id="1011" tvg-id="USA | MLB 32 Extra Inning HD" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 32 Extra Inning HD" group-title="DEPORTES PPV",USA | MLB 32 Extra Inning HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81938.ts
-#EXTINF:-1 channel-id="1012" tvg-id="USA | MLB 33 Extra Inning HD" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 33 Extra Inning HD" group-title="DEPORTES PPV",USA | MLB 33 Extra Inning HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81939.ts
-#EXTINF:-1 channel-id="1013" tvg-id="USA | MLB 34 Extra Inning HD" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 34 Extra Inning HD" group-title="DEPORTES PPV",USA | MLB 34 Extra Inning HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81940.ts
-#EXTINF:-1 channel-id="1014" tvg-id="USA | MLB 35 Extra Inning HD" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 35 Extra Inning HD" group-title="DEPORTES PPV",USA | MLB 35 Extra Inning HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81941.ts
-#EXTINF:-1 channel-id="1015" tvg-id="USA | MLB 36 Extra Inning HD" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 36 Extra Inning HD" group-title="DEPORTES PPV",USA | MLB 36 Extra Inning HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81942.ts
-#EXTINF:-1 channel-id="1016" tvg-id="USA | MLB 37 Extra Inning HD" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 37 Extra Inning HD" group-title="DEPORTES PPV",USA | MLB 37 Extra Inning HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81943.ts
-#EXTINF:-1 channel-id="1017" tvg-id="USA | MLB 38 Extra Inning HD" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 38 Extra Inning HD" group-title="DEPORTES PPV",USA | MLB 38 Extra Inning HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81944.ts
-#EXTINF:-1 channel-id="1018" tvg-id="USA | MLB 39 Extra Inning HD" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 39 Extra Inning HD" group-title="DEPORTES PPV",USA | MLB 39 Extra Inning HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81945.ts
-#EXTINF:-1 channel-id="1019" tvg-id="USA | MLB 41 Extra Inning HD" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 41 Extra Inning HD" group-title="DEPORTES PPV",USA | MLB 41 Extra Inning HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81947.ts
-#EXTINF:-1 channel-id="1020" tvg-id="USA | MLB 42 Extra Inning HD" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 42 Extra Inning HD" group-title="DEPORTES PPV",USA | MLB 42 Extra Inning HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81948.ts
-#EXTINF:-1 channel-id="1021" tvg-id="USA | MLB 43 Extra Inning HD" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 43 Extra Inning HD" group-title="DEPORTES PPV",USA | MLB 43 Extra Inning HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81949.ts
-#EXTINF:-1 channel-id="1022" tvg-id="USA | MLB 44 Extra Inning HD" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 44 Extra Inning HD" group-title="DEPORTES PPV",USA | MLB 44 Extra Inning HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81950.ts
-#EXTINF:-1 channel-id="1023" tvg-id="USA | MLB 45 Extra Inning HD" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 45 Extra Inning HD" group-title="DEPORTES PPV",USA | MLB 45 Extra Inning HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81951.ts
-#EXTINF:-1 channel-id="1024" tvg-id="USA | MLB 49 Extra Inning HD" tvg-logo="https://freepngimg.com/download/major_league_baseball/29753-5-mlb-photos.png"  channel-id="USA | MLB 49 Extra Inning HD" group-title="DEPORTES PPV",USA | MLB 49 Extra Inning HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81946.ts
-#EXTINF:-1 channel-id="1025" tvg-id="NBA TV HD" tvg-logo=""  channel-id="NBA TV HD" group-title="DEPORTES PPV",NBA TV HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/15291.ts
-#EXTINF:-1 channel-id="1026" tvg-id="USA:NBATV" tvg-logo="http://www.liveonlinetv247.info/images/nbatv.png"  channel-id="USA:NBATV" group-title="DEPORTES PPV",USA:NBATV
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/11611.ts
-#EXTINF:-1 channel-id="1027" tvg-id="NBA - ATLANTA HAWKS (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Atlanta_Hawks_logo.svg/1200px-Atlanta_Hawks_logo.svg.png"  channel-id="NBA - ATLANTA HAWKS (N)" group-title="DEPORTES PPV",NBA - ATLANTA HAWKS (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99311.ts
-#EXTINF:-1 channel-id="1028" tvg-id="NBA - BROOKLYN NETS (N)" tvg-logo="https://www.nba.com/.element/img/1.0/teamsites/logos/teamlogos_500x500/bkn.png"  channel-id="NBA - BROOKLYN NETS (N)" group-title="DEPORTES PPV",NBA - BROOKLYN NETS (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99310.ts
-#EXTINF:-1 channel-id="1029" tvg-id="NBA - CHARLOTTE HORNETS (N)" tvg-logo="https://www.nba.com/.element/img/1.0/teamsites/logos/teamlogos_500x500/cha.png"  channel-id="NBA - CHARLOTTE HORNETS (N)" group-title="DEPORTES PPV",NBA - CHARLOTTE HORNETS (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99309.ts
-#EXTINF:-1 channel-id="1030" tvg-id="NBA - CHICAGO BULLS (N)" tvg-logo="http://mariafresa.net/newimages/bulls-clipart-chicago-bulls-22.jpg"  channel-id="NBA - CHICAGO BULLS (N)" group-title="DEPORTES PPV",NBA - CHICAGO BULLS (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99308.ts
-#EXTINF:-1 channel-id="1031" tvg-id="NBA - CLEVELAND CAVALIERS (N)" tvg-logo="https://radiocms-images.us1.eldarioncloud.com/resize/750/https://storage.googleapis.com/media.mwcradio.com/mimesis/2016-06/20/cleveland%20cavaliers%20logo.png"  channel-id="NBA - CLEVELAND CAVALIERS (N)" group-title="DEPORTES PPV",NBA - CLEVELAND CAVALIERS (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99307.ts
-#EXTINF:-1 channel-id="1032" tvg-id="NBA - DENVER NUGGETS (N)" tvg-logo="http://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnba%2F500%2Fden.png"  channel-id="NBA - DENVER NUGGETS (N)" group-title="DEPORTES PPV",NBA - DENVER NUGGETS (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99306.ts
-#EXTINF:-1 channel-id="1033" tvg-id="NBA - DETROIT PISTONS (N)" tvg-logo="https://www.nba.com/.element/img/1.0/teamsites/logos/teamlogos_500x500/det.png"  channel-id="NBA - DETROIT PISTONS (N)" group-title="DEPORTES PPV",NBA - DETROIT PISTONS (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99305.ts
-#EXTINF:-1 channel-id="1034" tvg-id="NBA - INDIANA PACERS (N)" tvg-logo="https://www.nba.com/.element/img/1.0/teamsites/logos/teamlogos_500x500/ind.png"  channel-id="NBA - INDIANA PACERS (N)" group-title="DEPORTES PPV",NBA - INDIANA PACERS (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99304.ts
-#EXTINF:-1 channel-id="1035" tvg-id="NBA - LOS ANGELES CLIPPERS (N)" tvg-logo="https://www.basket4us.com/blog/wp-content/uploads/2015/06/Clippers.jpg"  channel-id="NBA - LOS ANGELES CLIPPERS (N)" group-title="DEPORTES PPV",NBA - LOS ANGELES CLIPPERS (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99303.ts
-#EXTINF:-1 channel-id="1036" tvg-id="NBA - LOS ANGELES LAKERS (N)" tvg-logo="http://a4.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnba%2F500%2Flal.png"  channel-id="NBA - LOS ANGELES LAKERS (N)" group-title="DEPORTES PPV",NBA - LOS ANGELES LAKERS (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99302.ts
-#EXTINF:-1 channel-id="1037" tvg-id="NBA - MEMPHIS GRIZZLIES (N)" tvg-logo="https://www.nba.com/.element/img/1.0/teamsites/logos/teamlogos_500x500/mem.png"  channel-id="NBA - MEMPHIS GRIZZLIES (N)" group-title="DEPORTES PPV",NBA - MEMPHIS GRIZZLIES (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99301.ts
-#EXTINF:-1 channel-id="1038" tvg-id="NBA - MIAMI HEAT (N)" tvg-logo="http://miamionthecheap.com/lotc-cms/wp-content/uploads/2013/12/miami-heat-logo.jpg"  channel-id="NBA - MIAMI HEAT (N)" group-title="DEPORTES PPV",NBA - MIAMI HEAT (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99300.ts
-#EXTINF:-1 channel-id="1039" tvg-id="NBA - MILWAUKEE BUCKS (N)" tvg-logo="https://www.nba.com/.element/img/1.0/teamsites/logos/teamlogos_500x500/mil.png"  channel-id="NBA - MILWAUKEE BUCKS (N)" group-title="DEPORTES PPV",NBA - MILWAUKEE BUCKS (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99312.ts
-#EXTINF:-1 channel-id="1040" tvg-id="NBA - MINNESOTA TIMBERWOLVES (N)" tvg-logo="https://www.nba.com/.element/img/1.0/teamsites/logos/teamlogos_500x500/min.png"  channel-id="NBA - MINNESOTA TIMBERWOLVES (N)" group-title="DEPORTES PPV",NBA - MINNESOTA TIMBERWOLVES (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99299.ts
-#EXTINF:-1 channel-id="1041" tvg-id="NBA - NEW YORK KNICKS (N)" tvg-logo="https://www.nba.com/.element/img/1.0/teamsites/logos/teamlogos_500x500/nyk.png"  channel-id="NBA - NEW YORK KNICKS (N)" group-title="DEPORTES PPV",NBA - NEW YORK KNICKS (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99298.ts
-#EXTINF:-1 channel-id="1042" tvg-id="NBA - PORTLAND TRAIL BLAZERS (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/TrailBlazers.svg.png"  channel-id="NBA - PORTLAND TRAIL BLAZERS (N)" group-title="DEPORTES PPV",NBA - PORTLAND TRAIL BLAZERS (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99297.ts
-#EXTINF:-1 channel-id="1043" tvg-id="NBA - SACRAMENTO KINGS (N)" tvg-logo="http://falso9sports.com/wp-content/uploads/kingsportada.png"  channel-id="NBA - SACRAMENTO KINGS (N)" group-title="DEPORTES PPV",NBA - SACRAMENTO KINGS (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99296.ts
-#EXTINF:-1 channel-id="1044" tvg-id="NBA - TORONTO RAPTORS (N)" tvg-logo="https://www.nba.com/.element/img/1.0/teamsites/logos/teamlogos_500x500/tor.png"  channel-id="NBA - TORONTO RAPTORS (N)" group-title="DEPORTES PPV",NBA - TORONTO RAPTORS (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99295.ts
-#EXTINF:-1 channel-id="1045" tvg-id="NBA - UTAH JAZZ (N)" tvg-logo="https://1lal3e4eckus2d9p8g17wl8c-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/Jazz.png"  channel-id="NBA - UTAH JAZZ (N)" group-title="DEPORTES PPV",NBA - UTAH JAZZ (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99294.ts
-#EXTINF:-1 channel-id="1046" tvg-id="NBA - WASHINGTON WIZARDS (N)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Washington_Wizards_logo.svg/1200px-Washington_Wizards_logo.svg.png"  channel-id="NBA - WASHINGTON WIZARDS (N)" group-title="DEPORTES PPV",NBA - WASHINGTON WIZARDS (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99293.ts
-#EXTINF:-1 channel-id="1047" tvg-id="NBA BOSTON CELTICS (N)" tvg-logo=""  channel-id="NBA BOSTON CELTICS (N)" group-title="DEPORTES PPV",NBA BOSTON CELTICS (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99417.ts
-#EXTINF:-1 channel-id="1048" tvg-id="NBA DALLAS MAVERICKS (N)" tvg-logo=""  channel-id="NBA DALLAS MAVERICKS (N)" group-title="DEPORTES PPV",NBA DALLAS MAVERICKS (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99416.ts
-#EXTINF:-1 channel-id="1049" tvg-id="NBA GOLDEN STATE WARRIORS (N)" tvg-logo=""  channel-id="NBA GOLDEN STATE WARRIORS (N)" group-title="DEPORTES PPV",NBA GOLDEN STATE WARRIORS (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99415.ts
-#EXTINF:-1 channel-id="1050" tvg-id="NBA HOUSTON ROCKETS (N)" tvg-logo=""  channel-id="NBA HOUSTON ROCKETS (N)" group-title="DEPORTES PPV",NBA HOUSTON ROCKETS (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99414.ts
-#EXTINF:-1 channel-id="1051" tvg-id="NBA NEW ORLEANS PELICANS (N)" tvg-logo=""  channel-id="NBA NEW ORLEANS PELICANS (N)" group-title="DEPORTES PPV",NBA NEW ORLEANS PELICANS (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99413.ts
-#EXTINF:-1 channel-id="1052" tvg-id="NBA OKLAHOMA CITY THUNDER (N)" tvg-logo=""  channel-id="NBA OKLAHOMA CITY THUNDER (N)" group-title="DEPORTES PPV",NBA OKLAHOMA CITY THUNDER (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99412.ts
-#EXTINF:-1 channel-id="1053" tvg-id="NBA ORLANDO MAGIC (N)" tvg-logo=""  channel-id="NBA ORLANDO MAGIC (N)" group-title="DEPORTES PPV",NBA ORLANDO MAGIC (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99411.ts
-#EXTINF:-1 channel-id="1054" tvg-id="NBA PHILADELPHIA 76 ERS (N)" tvg-logo=""  channel-id="NBA PHILADELPHIA 76 ERS (N)" group-title="DEPORTES PPV",NBA PHILADELPHIA 76 ERS (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99410.ts
-#EXTINF:-1 channel-id="1055" tvg-id="NBA PHOENIX SUNS (N)" tvg-logo=""  channel-id="NBA PHOENIX SUNS (N)" group-title="DEPORTES PPV",NBA PHOENIX SUNS (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99409.ts
-#EXTINF:-1 channel-id="1056" tvg-id="NBA SAN ANTONIO SPURS (N)" tvg-logo=""  channel-id="NBA SAN ANTONIO SPURS (N)" group-title="DEPORTES PPV",NBA SAN ANTONIO SPURS (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99408.ts
-#EXTINF:-1 channel-id="1057" tvg-id="NBA LEAGUE PASS" tvg-logo="http://185.152.66.151/Logos2/latinnba3.jpg"  channel-id="NBA LEAGUE PASS" group-title="DEPORTES PPV",NBA LEAGUE PASS
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99291.ts
-#EXTINF:-1 channel-id="1058" tvg-id="NBA LEAGUE PASS LIVE 1 HD" tvg-logo="http://185.152.66.151/Logos2/latinnba3.jpg"  channel-id="NBA LEAGUE PASS LIVE 1 HD" group-title="DEPORTES PPV",NBA LEAGUE PASS LIVE 1 HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99290.ts
-#EXTINF:-1 channel-id="1059" tvg-id="NBA LEAGUE PASS LIVE 10 HD" tvg-logo="http://185.152.66.151/Logos2/latinnba3.jpg"  channel-id="NBA LEAGUE PASS LIVE 10 HD" group-title="DEPORTES PPV",NBA LEAGUE PASS LIVE 10 HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99289.ts
-#EXTINF:-1 channel-id="1060" tvg-id="NBA LEAGUE PASS LIVE 14 HD" tvg-logo="http://185.152.66.151/Logos2/latinnba3.jpg"  channel-id="NBA LEAGUE PASS LIVE 14 HD" group-title="DEPORTES PPV",NBA LEAGUE PASS LIVE 14 HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99288.ts
-#EXTINF:-1 channel-id="1061" tvg-id="NBA LEAGUE PASS LIVE 15 HD" tvg-logo="http://185.152.66.151/Logos2/latinnba3.jpg"  channel-id="NBA LEAGUE PASS LIVE 15 HD" group-title="DEPORTES PPV",NBA LEAGUE PASS LIVE 15 HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99287.ts
-#EXTINF:-1 channel-id="1062" tvg-id="NBA LEAGUE PASS LIVE 2 HD" tvg-logo="http://185.152.66.151/Logos2/latinnba3.jpg"  channel-id="NBA LEAGUE PASS LIVE 2 HD" group-title="DEPORTES PPV",NBA LEAGUE PASS LIVE 2 HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99286.ts
-#EXTINF:-1 channel-id="1063" tvg-id="NBA LEAGUE PASS LIVE 3 HD" tvg-logo="http://185.152.66.151/Logos2/latinnba3.jpg"  channel-id="NBA LEAGUE PASS LIVE 3 HD" group-title="DEPORTES PPV",NBA LEAGUE PASS LIVE 3 HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99285.ts
-#EXTINF:-1 channel-id="1064" tvg-id="NBA LEAGUE PASS LIVE 4 HD" tvg-logo="http://185.152.66.151/Logos2/latinnba3.jpg"  channel-id="NBA LEAGUE PASS LIVE 4 HD" group-title="DEPORTES PPV",NBA LEAGUE PASS LIVE 4 HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99284.ts
-#EXTINF:-1 channel-id="1065" tvg-id="NBA LEAGUE PASS LIVE 5 HD" tvg-logo="http://185.152.66.151/Logos2/latinnba3.jpg"  channel-id="NBA LEAGUE PASS LIVE 5 HD" group-title="DEPORTES PPV",NBA LEAGUE PASS LIVE 5 HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99283.ts
-#EXTINF:-1 channel-id="1066" tvg-id="NBA LEAGUE PASS LIVE 6 HD" tvg-logo="http://185.152.66.151/Logos2/latinnba3.jpg"  channel-id="NBA LEAGUE PASS LIVE 6 HD" group-title="DEPORTES PPV",NBA LEAGUE PASS LIVE 6 HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99282.ts
-#EXTINF:-1 channel-id="1067" tvg-id="NBA LEAGUE PASS LIVE 7 HD" tvg-logo="http://185.152.66.151/Logos2/latinnba3.jpg"  channel-id="NBA LEAGUE PASS LIVE 7 HD" group-title="DEPORTES PPV",NBA LEAGUE PASS LIVE 7 HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99281.ts
-#EXTINF:-1 channel-id="1068" tvg-id="NBA LEAGUE PASS LIVE 8 HD" tvg-logo="http://185.152.66.151/Logos2/latinnba3.jpg"  channel-id="NBA LEAGUE PASS LIVE 8 HD" group-title="DEPORTES PPV",NBA LEAGUE PASS LIVE 8 HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99280.ts
-#EXTINF:-1 channel-id="1069" tvg-id="NBA LEAGUE PASS LIVE 9 HD" tvg-logo="http://185.152.66.151/Logos2/latinnba3.jpg"  channel-id="NBA LEAGUE PASS LIVE 9 HD" group-title="DEPORTES PPV",NBA LEAGUE PASS LIVE 9 HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99279.ts
-#EXTINF:-1 channel-id="1070" tvg-id="NHL Network HD" tvg-logo="http://185.152.66.151/Logos2/Deportes/NHLNetwork1.jpg"  channel-id="NHL Network HD" group-title="DEPORTES PPV",NHL Network HD
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99270.ts
-#EXTINF:-1 channel-id="1071" tvg-id="NHL | Anaheim ducks (N)" tvg-logo=""  channel-id="NHL | Anaheim ducks (N)" group-title="DEPORTES PPV",NHL | Anaheim ducks (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99393.ts
-#EXTINF:-1 channel-id="1072" tvg-id="NHL | Arizona coyotes 575 (N)" tvg-logo=""  channel-id="NHL | Arizona coyotes 575 (N)" group-title="DEPORTES PPV",NHL | Arizona coyotes 575 (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99392.ts
-#EXTINF:-1 channel-id="1073" tvg-id="NHL | Boston bruins 574 (N)" tvg-logo=""  channel-id="NHL | Boston bruins 574 (N)" group-title="DEPORTES PPV",NHL | Boston bruins 574 (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99391.ts
-#EXTINF:-1 channel-id="1074" tvg-id="NHL | Buffalo sabres (N)" tvg-logo=""  channel-id="NHL | Buffalo sabres (N)" group-title="DEPORTES PPV",NHL | Buffalo sabres (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99390.ts
-#EXTINF:-1 channel-id="1075" tvg-id="NHL | Calgary flames 572 (N)" tvg-logo=""  channel-id="NHL | Calgary flames 572 (N)" group-title="DEPORTES PPV",NHL | Calgary flames 572 (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99389.ts
-#EXTINF:-1 channel-id="1076" tvg-id="NHL | Carolina hurricanes (N)" tvg-logo=""  channel-id="NHL | Carolina hurricanes (N)" group-title="DEPORTES PPV",NHL | Carolina hurricanes (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99388.ts
-#EXTINF:-1 channel-id="1077" tvg-id="NHL | Chicago blackhawks 570 (N)" tvg-logo=""  channel-id="NHL | Chicago blackhawks 570 (N)" group-title="DEPORTES PPV",NHL | Chicago blackhawks 570 (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99387.ts
-#EXTINF:-1 channel-id="1078" tvg-id="NHL | Colorado avalanches (N)" tvg-logo=""  channel-id="NHL | Colorado avalanches (N)" group-title="DEPORTES PPV",NHL | Colorado avalanches (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99386.ts
-#EXTINF:-1 channel-id="1079" tvg-id="NHL | Columbus blue jackets (N)" tvg-logo=""  channel-id="NHL | Columbus blue jackets (N)" group-title="DEPORTES PPV",NHL | Columbus blue jackets (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99385.ts
-#EXTINF:-1 channel-id="1080" tvg-id="NHL | Dallas stars 567 (N)" tvg-logo=""  channel-id="NHL | Dallas stars 567 (N)" group-title="DEPORTES PPV",NHL | Dallas stars 567 (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99384.ts
-#EXTINF:-1 channel-id="1081" tvg-id="NHL | Detroit redwings (N)" tvg-logo=""  channel-id="NHL | Detroit redwings (N)" group-title="DEPORTES PPV",NHL | Detroit redwings (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99383.ts
-#EXTINF:-1 channel-id="1082" tvg-id="NHL | Edmonton oilers 565 (N)" tvg-logo=""  channel-id="NHL | Edmonton oilers 565 (N)" group-title="DEPORTES PPV",NHL | Edmonton oilers 565 (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99382.ts
-#EXTINF:-1 channel-id="1083" tvg-id="NHL | Florida panthers (N)" tvg-logo=""  channel-id="NHL | Florida panthers (N)" group-title="DEPORTES PPV",NHL | Florida panthers (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99381.ts
-#EXTINF:-1 channel-id="1084" tvg-id="NHL | Los angeles kings (N)" tvg-logo=""  channel-id="NHL | Los angeles kings (N)" group-title="DEPORTES PPV",NHL | Los angeles kings (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99380.ts
-#EXTINF:-1 channel-id="1085" tvg-id="NHL | Minnesota wilds (N)" tvg-logo=""  channel-id="NHL | Minnesota wilds (N)" group-title="DEPORTES PPV",NHL | Minnesota wilds (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99379.ts
-#EXTINF:-1 channel-id="1086" tvg-id="NHL | Montreal canadiens (N)" tvg-logo=""  channel-id="NHL | Montreal canadiens (N)" group-title="DEPORTES PPV",NHL | Montreal canadiens (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99378.ts
-#EXTINF:-1 channel-id="1087" tvg-id="NHL | Nashville predators (N)" tvg-logo=""  channel-id="NHL | Nashville predators (N)" group-title="DEPORTES PPV",NHL | Nashville predators (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99377.ts
-#EXTINF:-1 channel-id="1088" tvg-id="NHL | New jersey devils (N)" tvg-logo=""  channel-id="NHL | New jersey devils (N)" group-title="DEPORTES PPV",NHL | New jersey devils (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99376.ts
-#EXTINF:-1 channel-id="1089" tvg-id="NHL | New york islanders 558 (N)" tvg-logo=""  channel-id="NHL | New york islanders 558 (N)" group-title="DEPORTES PPV",NHL | New york islanders 558 (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99375.ts
-#EXTINF:-1 channel-id="1090" tvg-id="NHL | New york rangers (N)" tvg-logo=""  channel-id="NHL | New york rangers (N)" group-title="DEPORTES PPV",NHL | New york rangers (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99374.ts
-#EXTINF:-1 channel-id="1091" tvg-id="NHL | Ottawa senators (N)" tvg-logo=""  channel-id="NHL | Ottawa senators (N)" group-title="DEPORTES PPV",NHL | Ottawa senators (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99373.ts
-#EXTINF:-1 channel-id="1092" tvg-id="NHL | Philadelphia flyers 554 (N)" tvg-logo=""  channel-id="NHL | Philadelphia flyers 554 (N)" group-title="DEPORTES PPV",NHL | Philadelphia flyers 554 (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99372.ts
-#EXTINF:-1 channel-id="1093" tvg-id="NHL | Pittsburgh penguins (N)" tvg-logo=""  channel-id="NHL | Pittsburgh penguins (N)" group-title="DEPORTES PPV",NHL | Pittsburgh penguins (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99371.ts
-#EXTINF:-1 channel-id="1094" tvg-id="NHL | San jose sharks (N)" tvg-logo=""  channel-id="NHL | San jose sharks (N)" group-title="DEPORTES PPV",NHL | San jose sharks (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99370.ts
-#EXTINF:-1 channel-id="1095" tvg-id="NHL | St louis blues (N)" tvg-logo=""  channel-id="NHL | St louis blues (N)" group-title="DEPORTES PPV",NHL | St louis blues (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99369.ts
-#EXTINF:-1 channel-id="1096" tvg-id="NHL | Tampa bay lightning (N)" tvg-logo=""  channel-id="NHL | Tampa bay lightning (N)" group-title="DEPORTES PPV",NHL | Tampa bay lightning (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99368.ts
-#EXTINF:-1 channel-id="1097" tvg-id="NHL | Toronto maple leafs (N)" tvg-logo=""  channel-id="NHL | Toronto maple leafs (N)" group-title="DEPORTES PPV",NHL | Toronto maple leafs (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99367.ts
-#EXTINF:-1 channel-id="1098" tvg-id="NHL | Vancouver canucks (N)" tvg-logo=""  channel-id="NHL | Vancouver canucks (N)" group-title="DEPORTES PPV",NHL | Vancouver canucks (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99366.ts
-#EXTINF:-1 channel-id="1099" tvg-id="NHL | Vegas golden knights (N)" tvg-logo=""  channel-id="NHL | Vegas golden knights (N)" group-title="DEPORTES PPV",NHL | Vegas golden knights (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99365.ts
-#EXTINF:-1 channel-id="1100" tvg-id="NHL | Washington capitals 546 (N)" tvg-logo=""  channel-id="NHL | Washington capitals 546 (N)" group-title="DEPORTES PPV",NHL | Washington capitals 546 (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99364.ts
-#EXTINF:-1 channel-id="1101" tvg-id="NHL | Winnepeg jets (N)" tvg-logo=""  channel-id="NHL | Winnepeg jets (N)" group-title="DEPORTES PPV",NHL | Winnepeg jets (N)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99363.ts
-#EXTINF:-1 channel-id="1102" tvg-id="NHL NETWORK HD (24/7 Coverage)" tvg-logo="http://185.152.66.151/Logos2/Deportes/NHLNetwork1.jpg"  channel-id="NHL NETWORK HD (24/7 Coverage)" group-title="DEPORTES PPV",NHL NETWORK HD (24/7 Coverage)
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99269.ts
-#EXTINF:-1 channel-id="1103" tvg-id="NHL NEW JERSEY DEVILS" tvg-logo="http://185.152.66.151/Logos2/Deportes/NHLNEWJERSEYDEVILS.jpg"  channel-id="NHL NEW JERSEY DEVILS" group-title="DEPORTES PPV",NHL NEW JERSEY DEVILS
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99268.ts
-#EXTINF:-1 channel-id="1104" tvg-id="NHL NEW YORK RANGERS" tvg-logo="http://185.152.66.151/Logos2/Deportes/NHLNEWYORKRANGERS.jpg"  channel-id="NHL NEW YORK RANGERS" group-title="DEPORTES PPV",NHL NEW YORK RANGERS
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99267.ts
-#EXTINF:-1 channel-id="1105" tvg-id="NHL OTTAWA SENATORS" tvg-logo="http://185.152.66.151/Logos2/Deportes/NHLOTTAWASENATORS.jpg"  channel-id="NHL OTTAWA SENATORS" group-title="DEPORTES PPV",NHL OTTAWA SENATORS
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99266.ts
-#EXTINF:-1 channel-id="1106" tvg-id="NHL PHILIDELPHIA FLYERS" tvg-logo="http://185.152.66.151/Logos2/Deportes/NHLPHILIDELPHIAFLYERS.jpg"  channel-id="NHL PHILIDELPHIA FLYERS" group-title="DEPORTES PPV",NHL PHILIDELPHIA FLYERS
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99265.ts
-#EXTINF:-1 channel-id="1107" tvg-id="NHL TAMPA BAY LIGHTNING" tvg-logo="http://185.152.66.151/Logos2/Deportes/NHLTAMPABAYLIGHTNING.jpg"  channel-id="NHL TAMPA BAY LIGHTNING" group-title="DEPORTES PPV",NHL TAMPA BAY LIGHTNING
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99264.ts
-#EXTINF:-1 channel-id="1108" tvg-id="NHL TORONTO MAPLE LEAFS" tvg-logo="http://185.152.66.151/Logos2/Deportes/NHLTORONTOMAPLE%20LEAFS.jpg"  channel-id="NHL TORONTO MAPLE LEAFS" group-title="DEPORTES PPV",NHL TORONTO MAPLE LEAFS
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99263.ts
-#EXTINF:-1 channel-id="1109" tvg-id="NHL VANCOUVER CANUCKS" tvg-logo="http://185.152.66.151/Logos2/Deportes/NHLVANCOUVERCANUCKS.jpg"  channel-id="NHL VANCOUVER CANUCKS" group-title="DEPORTES PPV",NHL VANCOUVER CANUCKS
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99262.ts
-#EXTINF:-1 channel-id="1110" tvg-id="NHL VEGAS GOLDEN KNIGHTS" tvg-logo="http://185.152.66.151/Logos2/Deportes/NHLVEGASGOLDENKNIGHTS.jpg"  channel-id="NHL VEGAS GOLDEN KNIGHTS" group-title="DEPORTES PPV",NHL VEGAS GOLDEN KNIGHTS
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99261.ts
-#EXTINF:-1 channel-id="1111" tvg-id="NHL WASHINGTON CAPITALS" tvg-logo="http://185.152.66.151/Logos2/Deportes/NHLWASHINGTONCAPITALS.jpg"  channel-id="NHL WASHINGTON CAPITALS" group-title="DEPORTES PPV",NHL WASHINGTON CAPITALS
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99260.ts
-#EXTINF:-1 channel-id="1112" tvg-id="NHL WINNEPEG JETS" tvg-logo="http://185.152.66.151/Logos2/Deportes/NHLWINNEPEGJETS.jpg"  channel-id="NHL WINNEPEG JETS" group-title="DEPORTES PPV",NHL WINNEPEG JETS
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99259.ts
-#EXTINF:-1 channel-id="1113" tvg-id="NHL 774" tvg-logo="http://185.152.66.151/Logos2/Deportes/NHLLATIN1.jpg"  channel-id="NHL 774" group-title="DEPORTES PPV",NHL 774
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99278.ts
-#EXTINF:-1 channel-id="1114" tvg-id="NHL 775" tvg-logo="http://185.152.66.151/Logos2/Deportes/NHLLATIN1.jpg"  channel-id="NHL 775" group-title="DEPORTES PPV",NHL 775
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99277.ts
-#EXTINF:-1 channel-id="1115" tvg-id="NHL 776" tvg-logo="http://185.152.66.151/Logos2/Deportes/NHLLATIN1.jpg"  channel-id="NHL 776" group-title="DEPORTES PPV",NHL 776
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99276.ts
-#EXTINF:-1 channel-id="1116" tvg-id="NHL 777" tvg-logo="http://185.152.66.151/Logos2/Deportes/NHLLATIN1.jpg"  channel-id="NHL 777" group-title="DEPORTES PPV",NHL 777
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99275.ts
-#EXTINF:-1 channel-id="1117" tvg-id="NHL 778" tvg-logo="http://185.152.66.151/Logos2/Deportes/NHLLATIN1.jpg"  channel-id="NHL 778" group-title="DEPORTES PPV",NHL 778
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99274.ts
-#EXTINF:-1 channel-id="1118" tvg-id="NHL 779" tvg-logo="http://185.152.66.151/Logos2/Deportes/NHLLATIN1.jpg"  channel-id="NHL 779" group-title="DEPORTES PPV",NHL 779
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99273.ts
-#EXTINF:-1 channel-id="1119" tvg-id="NHL 780" tvg-logo="http://185.152.66.151/Logos2/Deportes/NHLLATIN1.jpg"  channel-id="NHL 780" group-title="DEPORTES PPV",NHL 780
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99272.ts
-#EXTINF:-1 channel-id="1120" tvg-id="NHL 781" tvg-logo="http://185.152.66.151/Logos2/Deportes/NHLLATIN1.jpg"  channel-id="NHL 781" group-title="DEPORTES PPV",NHL 781
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/99271.ts
-#EXTINF:-1 channel-id="132" tvg-id="-----CANALES 3D-----" tvg-logo=""  channel-id="-----CANALES 3D-----" group-title="CANALES 3D",-----CANALES 3D-----
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92741.ts
-#EXTINF:-1 channel-id="133" tvg-id="Latin TV Estreno 3D" tvg-logo=""  channel-id="Latin TV Estreno 3D" group-title="CANALES 3D",Latin TV Estreno 3D
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/96303.ts
-#EXTINF:-1 channel-id="134" tvg-id="Latin TV 3D" tvg-logo="http://185.152.66.151/logos/latintv3d.png"  channel-id="Latin TV 3D" group-title="CANALES 3D",Latin TV 3D
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/86421.ts
-#EXTINF:-1 channel-id="135" tvg-id="Latin tv Ciencia Ficcion 3D" tvg-logo="http://185.152.66.151/logos/3D/cienciaficcion3d.png"  channel-id="Latin tv Ciencia Ficcion 3D" group-title="CANALES 3D",Latin tv Ciencia Ficcion 3D
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92738.ts
-#EXTINF:-1 channel-id="136" tvg-id="Latin TV Marvel 3D" tvg-logo="http://185.152.66.151/logos/3D/marvel3d.png"  channel-id="Latin TV Marvel 3D" group-title="CANALES 3D",Latin TV Marvel 3D
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92740.ts
-#EXTINF:-1 channel-id="137" tvg-id="Latin TV Infantil 3D" tvg-logo="http://185.152.66.151/logos/3D/infantil3d.png"  channel-id="Latin TV Infantil 3D" group-title="CANALES 3D",Latin TV Infantil 3D
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92739.ts
-#EXTINF:-1 channel-id="138" tvg-id="Latin TV Accion 3D" tvg-logo=""  channel-id="Latin TV Accion 3D" group-title="CANALES 3D",Latin TV Accion 3D
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/96300.ts
-#EXTINF:-1 channel-id="139" tvg-id="Latin TV DC 3D" tvg-logo=""  channel-id="Latin TV DC 3D" group-title="CANALES 3D",Latin TV DC 3D
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/96302.ts
-#EXTINF:-1 channel-id="140" tvg-id="Latin TV Terror Suspenso 3D" tvg-logo=""  channel-id="Latin TV Terror Suspenso 3D" group-title="CANALES 3D",Latin TV Terror Suspenso 3D
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/96301.ts
-#EXTINF:-1 channel-id="141" tvg-id="-----CANALES 4K-----" tvg-logo="https://grupolasser.com/wp-content/uploads/2018/03/antenista-presupuesto-4k-comunidades-vecinos.jpg"  channel-id="-----CANALES 4K-----" group-title="CANALES 4K",-----CANALES 4K-----
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/87708.ts
-#EXTINF:-1 channel-id="142" tvg-id="Latin TV Estrenos 4K" tvg-logo="http://185.152.66.151/logos/estrenos.png"  channel-id="Latin TV Estrenos 4K" group-title="CANALES 4K",Latin TV Estrenos 4K
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/92737.ts
-#EXTINF:-1 channel-id="143" tvg-id="Latin TV Accion 4K" tvg-logo="http://185.152.66.151/logos/accion.png"  channel-id="Latin TV Accion 4K" group-title="CANALES 4K",Latin TV Accion 4K
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/75956.ts
-#EXTINF:-1 channel-id="144" tvg-id="Latin TV Ciencia Ficcion 4K" tvg-logo="http://185.152.66.151/logos/cienciaficcion.png"  channel-id="Latin TV Ciencia Ficcion 4K" group-title="CANALES 4K",Latin TV Ciencia Ficcion 4K
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/81978.ts
-#EXTINF:-1 channel-id="145" tvg-id="Latin TV Comedia 4K" tvg-logo="http://185.152.66.151/logos/comedia.png"  channel-id="Latin TV Comedia 4K" group-title="CANALES 4K",Latin TV Comedia 4K
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/82008.ts
-#EXTINF:-1 channel-id="146" tvg-id="Latin TV Infantil 4K" tvg-logo="http://185.152.66.151/logos/infantil.png"  channel-id="Latin TV Infantil 4K" group-title="CANALES 4K",Latin TV Infantil 4K
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/80663.ts
-#EXTINF:-1 channel-id="147" tvg-id="Latin TV Marvel 4K" tvg-logo="http://185.152.66.151/logos/marvel.png"  channel-id="Latin TV Marvel 4K" group-title="CANALES 4K",Latin TV Marvel 4K
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/82176.ts
-#EXTINF:-1 channel-id="148" tvg-id="Latin TV Terror 4K" tvg-logo="http://185.152.66.151/logos/terror.png"  channel-id="Latin TV Terror 4K" group-title="CANALES 4K",Latin TV Terror 4K
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/82392.ts
-#EXTINF:-1 channel-id="149" tvg-id="Latin TV DC Comics 4K" tvg-logo="http://185.152.66.151/logos/dccomic.png"  channel-id="Latin TV DC Comics 4K" group-title="CANALES 4K",Latin TV DC Comics 4K
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/82431.ts
-#EXTINF:-1 channel-id="150" tvg-id="Latin TV Drama 4K" tvg-logo="http://185.152.66.151/logos/drama.png"  channel-id="Latin TV Drama 4K" group-title="CANALES 4K",Latin TV Drama 4K
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/82432.ts
-#EXTINF:-1 channel-id="151" tvg-id="Latin TV Romance 4K" tvg-logo="http://185.152.66.151/logos/romance.png"  channel-id="Latin TV Romance 4K" group-title="CANALES 4K",Latin TV Romance 4K
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/82745.ts
-#EXTINF:-1 channel-id="152" tvg-id="Latin TV Dragon Ball Z 4K" tvg-logo="http://185.152.66.151/logos/latindragonballz.png"  channel-id="Latin TV Dragon Ball Z 4K" group-title="CANALES 4K",Latin TV Dragon Ball Z 4K
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/87707.ts
-#EXTINF:-1 channel-id="153" tvg-id="Latin TV disney 4K" tvg-logo="http://185.152.66.151/logos/disney.png"  channel-id="Latin TV disney 4K" group-title="CANALES 4K",Latin TV disney 4K
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/88044.ts
-#EXTINF:-1 channel-id="154" tvg-id="Latin TV Fantasia 4K" tvg-logo=""  channel-id="Latin TV Fantasia 4K" group-title="CANALES 4K",Latin TV Fantasia 4K
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/96304.ts
-#EXTINF:-1 channel-id="155" tvg-id="Latin TV Musical 4K" tvg-logo=""  channel-id="Latin TV Musical 4K" group-title="CANALES 4K",Latin TV Musical 4K
-http://tv.latintvweb.com:25461/live/hectorhdezchvz/01BG6YfuKu/96305.ts
 #EXTINF:-1 tvg-id="" tvg-name="Latino {} Cinema 01 PPV" tvg-logo="https://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="*****CINEMA PPV EXTRENOS*****",Latino {} Cinema 01 PPV
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/17145
 #EXTINF:-1 tvg-id="" tvg-name="Latino {} Cinema 02 PPV" tvg-logo="https://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="*****CINEMA PPV EXTRENOS*****",Latino {} Cinema 02 PPV
