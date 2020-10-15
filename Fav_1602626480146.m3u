@@ -1,0 +1,166 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-logo="https://image.ibb.co/b3wPGp/animalplanet.png" group-title="Groups", C | Animal Planet HD
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10407.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://i.ibb.co/3rbyLT6/discoverychannel.png" group-title="Groups", C | Discovery Channel CL HD
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/183445.ts
+
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-logo="https://i.ibb.co/3rbyLT6/discoverychannel.png" group-title="Groups", C | Discovery Channel HD
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10410.ts
+
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-logo="https://image.ibb.co/jLxmU9/homeandhealth.png" group-title="Groups", C | Discovery H&H HD
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10420.ts
+
+#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-logo="https://image.ibb.co/hDephU/discoveryscience.png" group-title="Groups", C | Discovery SCI HQ
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/84538.ts
+
+#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-logo="https://image.ibb.co/bVg22U/theater.png" group-title="Groups", C | Discovery Theater HQ
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10425.ts
+
+#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-logo="https://image.ibb.co/hkRwU9/turbo.png" group-title="Groups", C | Discovery Turbo HD
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10418.ts
+
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-logo="https://image.ibb.co/k7qjGp/world.png" group-title="Groups", C | Discovery World HQ
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10415.ts
+
+#EXTINF:-1 tvg-id="elgourmet.mx" tvg-logo="https://image.ibb.co/nMw56p/elgourmet.png" group-title="Groups", C | El Gourmet
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/12255.ts
+
+#EXTINF:-1 tvg-id="elgourmet.mx" tvg-logo="https://image.ibb.co/nMw56p/elgourmet.png" group-title="Groups", C | El Gourmet HD
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/12256.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://image.ibb.co/jpH1e9/foodnetwork.png" group-title="Groups", C | Food Network HQ
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10429.ts
+
+#EXTINF:-1 tvg-id="history2.mx" tvg-logo="https://image.ibb.co/miesmp/h2.png" group-title="Groups", C | H2 HQ
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/16080.ts
+
+#EXTINF:-1 tvg-id="historyhd.mx" tvg-logo="https://image.ibb.co/cwQF6p/history.png" group-title="Groups", C | History HD
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10424.ts
+
+#EXTINF:-1 tvg-id="natgeo.mx" tvg-logo="https://image.ibb.co/m1kyRp/natgeo.png" group-title="Groups", C | Nat Geo HD
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10414.ts
+
+#EXTINF:-1 tvg-id="natgeowild.mx" tvg-logo="https://image.ibb.co/jjhHK9/natwild.png" group-title="Groups", C | Nat Geo Wild HD
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10430.ts
+
+#EXTINF:-1 tvg-id="axn.mx" tvg-logo="https://image.ibb.co/nDM7HK/axn.png" group-title="Groups", E | AXN HQ
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10550.ts
+
+#EXTINF:-1 tvg-id="amc.mx" tvg-logo="https://image.ibb.co/ntpBcK/amc.png" group-title="Groups", E | AMC HD
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10548.ts
+
+#EXTINF:-1 tvg-id="aandemundo.mx" tvg-logo="https://image.ibb.co/gSkVMe/ae.png" group-title="Groups", E | A&E HD
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10546.ts
+
+#EXTINF:-1 tvg-id="comedycentral.mx" tvg-logo="https://image.ibb.co/gOyRBe/cc.png" group-title="Groups", E | Comedy Central HD
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10553.ts
+
+#EXTINF:-1 tvg-id="fox.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="Groups", E | FOX Channel HD
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10559.ts
+
+#EXTINF:-1 tvg-id="foxlife.mx" tvg-logo="https://image.ibb.co/gij8re/fl.png" group-title="Groups", E | Fox Life HQ
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10563.ts
+
+#EXTINF:-1 tvg-id="fx.mx" tvg-logo="https://image.ibb.co/ckwcjz/fx.png" group-title="Groups", E | FX HQ
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10561.ts
+
+#EXTINF:-1 tvg-id="tntseries.mx" tvg-logo="https://image.ibb.co/nhF1cK/tntseries.png" group-title="Groups", E | TNT Series HQ
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10578.ts
+
+#EXTINF:-1 tvg-id="trutv.mx" tvg-logo="https://image.ibb.co/m0whHK/trutv.png" group-title="Groups", E | Tru TV HQ
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10580.ts
+
+#EXTINF:-1 tvg-id="warnerchannel.mx" tvg-logo="https://image.ibb.co/m1SuWe/warner.png" group-title="Groups", E | Warner HQ
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10584.ts
+
+#EXTINF:-1 tvg-id="cinecanalhd.mx" tvg-logo="https://image.ibb.co/e6bdmL/cinecanal.png" group-title="Groups", P | Cinecanal HD
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10845.ts
+
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-logo="https://image.ibb.co/dGqzt0/cinemax.png" group-title="Groups", P | Cinemax HD
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10847.ts
+
+#EXTINF:-1 tvg-id="depelicula.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="Groups", P | De Pelicula HQ
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/154098.ts
+
+#EXTINF:-1 tvg-id="depeliculahd.mx" tvg-logo="https://image.ibb.co/mq9LGL/depeliculaplus.png" group-title="Groups", P | De Pelicula Plus HQ
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10857.ts
+
+#EXTINF:-1 tvg-id="foxactionhd.mx" tvg-logo="https://image.ibb.co/iN8uAf/foxaction.png" group-title="Groups", P | Fox Action HD
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10853.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://image.ibb.co/bWYBqf/foxcinema.png" group-title="Groups", P | Fox Cinema
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10848.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://image.ibb.co/nv1Wqf/foxclassics.png" group-title="Groups", P | Fox Classics
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10851.ts
+
+#EXTINF:-1 tvg-id="foxcomedyhd.mx" tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-comedy-blanco.png.f720b00ef28d91a6cd6f93d8b2c73a74.png" group-title="Groups", P | Fox Comedy HD
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/75653.ts
+
+#EXTINF:-1 tvg-id="foxfamilyhd.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="Groups", P | Fox Family HD
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/87110.ts
+
+#EXTINF:-1 tvg-id="foxmovies.mx" tvg-logo="https://image.ibb.co/imT2Vf/foxmovies.png" group-title="Groups", P | Fox Movies HD
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10850.ts
+
+#EXTINF:-1 tvg-id="fox1.mx" tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/48461-large-58bbaf36edc5d_1552-copia-3663f098a0b7bc041795e6da8e0e03bd.png" group-title="Groups", P | Fox Series HQ
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/21797.ts
+
+#EXTINF:-1 tvg-id="fxmovies.mx" tvg-logo="https://www.pngitem.com/pimgs/m/29-296104_fxm-fxm-channel-logo-hd-png-download.png" group-title="Groups", P | FXM HD
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/154108.ts
+
+#EXTINF:-1 tvg-id="goldenedge.mx" tvg-logo="https://logostvargentina.files.wordpress.com/2010/07/d2f36-goldenedge.png" group-title="Groups", P | Golden Edge HQ
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/154111.ts
+
+#EXTINF:-1 tvg-id="goldenpremier2.mx" tvg-logo="https://live.staticflickr.com/4683/39199446922_c6b6256d0a_o.png" group-title="Groups", P | Golden Plus HQ
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10862.ts
+
+#EXTINF:-1 tvg-id="golden.mx" tvg-logo="https://image.ibb.co/nO5hD0/golden.png" group-title="Groups", P | Golden. HQ
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/154110.ts
+
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-logo="https://image.ibb.co/iGkPt0/hboplus.png" group-title="Groups", P | HBO + HD
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10880.ts
+
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-logo="https://image.ibb.co/eH1sff/hbo2.png" group-title="Groups", P | HBO 2 HD
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10883.ts
+
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-logo="https://image.ibb.co/kyqw6L/hbofam.png" group-title="Groups", P | HBO Family HD
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10878.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="Groups", P | HBO Mundi HQ
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/155167.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-up_m.png" group-title="Groups", P | HBO POP HD
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/41420.ts
+
+#EXTINF:-1 tvg-id="hbosignature.mx" tvg-logo="https://image.ibb.co/cdOG6L/hbosignature.png" group-title="Groups", P | HBO Signature HD
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10882.ts
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://canaismax.com/img/canais/0e05114d7f0bcdbc6b537219e42f2f7b.png" group-title="Groups", P | HBO Xtreme HD
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/157156.ts
+
+#EXTINF:-1 tvg-id="hbo.mx" tvg-logo="https://image.ibb.co/fZT50f/hbo.png" group-title="Groups", P | HBO. HD
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10885.ts
+
+#EXTINF:-1 tvg-id="paramountchannel.mx" tvg-logo="https://image.ibb.co/cBqAGL/paramount.png" group-title="Groups", P | Paramount Channel HQ
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10867.ts
+
+#EXTINF:-1 tvg-id="space.mx" tvg-logo="https://image.ibb.co/cijv0f/space.png" group-title="Groups", P | Space HD
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10871.ts
+
+#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-logo="https://image.ibb.co/b6AzAf/studiouniversal.png" group-title="Groups", P | Studio Universal HQ
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10873.ts
+
+#EXTINF:-1 tvg-id="syfy.mx" tvg-logo="https://image.ibb.co/fVoVGL/syfy.png" group-title="Groups", P | SYFY HQ
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10869.ts
+
+#EXTINF:-1 tvg-id="tnt.mx" tvg-logo="https://image.ibb.co/iHW0GL/tnt.png" group-title="Groups", P | TNT HD
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/155176.ts
+
+#EXTINF:-1 tvg-id="universalchannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Universal_Channel_Brasil.svg/1200px-Universal_Channel_Brasil.svg.png" group-title="Groups", P | Universal Channel
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/75650.ts
+
+#EXTINF:-1 tvg-id="universalchannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Universal_Channel_Brasil.svg/1200px-Universal_Channel_Brasil.svg.png" group-title="Groups", P | Universal Channel HQ
+http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/75651.ts
+
