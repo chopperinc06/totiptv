@@ -4,370 +4,839 @@
     <display-name lang="en">Warner Channel</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
-  <programme start="20201127142800 +0000" stop="20201127144900 +0000" channel="warnerchannel.mx">
-    <title lang="en">The Big Bang Theory</title>
-  </programme>
-  <programme start="20201127144900 +0000" stop="20201127151000 +0000" channel="warnerchannel.mx">
-    <title lang="en">The Big Bang Theory</title>
-  </programme>
-  <programme start="20201127151000 +0000" stop="20201127153200 +0000" channel="warnerchannel.mx">
-    <title lang="en">The Big Bang Theory</title>
-  </programme>
-  <programme start="20201127153200 +0000" stop="20201127155400 +0000" channel="warnerchannel.mx">
-    <title lang="en">The Big Bang Theory</title>
-  </programme>
-  <programme start="20201127155400 +0000" stop="20201127161900 +0000" channel="warnerchannel.mx">
-    <title lang="en">Friends</title>
-  </programme>
-  <programme start="20201127161900 +0000" stop="20201127164200 +0000" channel="warnerchannel.mx">
-    <title lang="en">Friends</title>
-  </programme>
-  <programme start="20201127164200 +0000" stop="20201127170500 +0000" channel="warnerchannel.mx">
-    <title lang="en">Friends</title>
-  </programme>
-  <programme start="20201127170500 +0000" stop="20201127173000 +0000" channel="warnerchannel.mx">
-    <title lang="en">Friends</title>
-  </programme>
-  <programme start="20201127173000 +0000" stop="20201127175700 +0000" channel="warnerchannel.mx">
-    <title lang="en">Seinfeld *</title>
-  </programme>
-  <programme start="20201127175700 +0000" stop="20201127182500 +0000" channel="warnerchannel.mx">
-    <title lang="en">Seinfeld *</title>
-  </programme>
-  <programme start="20201127182500 +0000" stop="20201127185000 +0000" channel="warnerchannel.mx">
-    <title lang="en">Two and a Half Men</title>
-  </programme>
-  <programme start="20201127185000 +0000" stop="20201127191300 +0000" channel="warnerchannel.mx">
-    <title lang="en">Two and a Half Men</title>
-  </programme>
-  <programme start="20201127191300 +0000" stop="20201127193500 +0000" channel="warnerchannel.mx">
-    <title lang="en">Two and a Half Men</title>
-  </programme>
-  <programme start="20201127193500 +0000" stop="20201127195800 +0000" channel="warnerchannel.mx">
-    <title lang="en">The Big Bang Theory</title>
-  </programme>
-  <programme start="20201127195800 +0000" stop="20201127202300 +0000" channel="warnerchannel.mx">
-    <title lang="en">The Big Bang Theory</title>
-  </programme>
-  <programme start="20201127202300 +0000" stop="20201127204200 +0000" channel="warnerchannel.mx">
-    <title lang="en">The Big Bang Theory</title>
-  </programme>
-  <programme start="20201127204200 +0000" stop="20201127210400 +0000" channel="warnerchannel.mx">
-    <title lang="en">The Big Bang Theory</title>
-  </programme>
-  <programme start="20201127210400 +0000" stop="20201127223600 +0000" channel="warnerchannel.mx">
-    <title lang="en">Vehiculo 19 *</title>
-  </programme>
-  <programme start="20201127223600 +0000" stop="20201128011300 +0000" channel="warnerchannel.mx">
-    <title lang="en">XXX</title>
-  </programme>
-  <programme start="20201128011300 +0000" stop="20201128040000 +0000" channel="warnerchannel.mx">
-    <title lang="en">Batman inicia</title>
-  </programme>
-  <programme start="20201128040000 +0000" stop="20201128063300 +0000" channel="warnerchannel.mx">
+  <channel id="universalchannel.mx">
+    <display-name lang="en">Universal Channel</display-name>
+    <url>http://www.tvguide.com</url>
+  </channel>
+  <programme start="20201127040000 +0000" stop="20201127063300 +0000" channel="warnerchannel.mx">
     <title lang="en">Spider-Man 2</title>
   </programme>
-  <programme start="20201128063300 +0000" stop="20201128085100 +0000" channel="warnerchannel.mx">
+  <programme start="20201127063300 +0000" stop="20201127085100 +0000" channel="warnerchannel.mx">
     <title lang="en">El conjuro 2</title>
   </programme>
-  <programme start="20201128085100 +0000" stop="20201128091600 +0000" channel="warnerchannel.mx">
+  <programme start="20201127085100 +0000" stop="20201127091600 +0000" channel="warnerchannel.mx">
     <title lang="en">Seinfeld *</title>
   </programme>
-  <programme start="20201128091600 +0000" stop="20201128094200 +0000" channel="warnerchannel.mx">
+  <programme start="20201127091600 +0000" stop="20201127094200 +0000" channel="warnerchannel.mx">
     <title lang="en">Seinfeld *</title>
   </programme>
-  <programme start="20201128094200 +0000" stop="20201128100300 +0000" channel="warnerchannel.mx">
+  <programme start="20201127094200 +0000" stop="20201127100300 +0000" channel="warnerchannel.mx">
     <title lang="en">The Big Bang Theory</title>
   </programme>
-  <programme start="20201128100300 +0000" stop="20201128102500 +0000" channel="warnerchannel.mx">
+  <programme start="20201127100300 +0000" stop="20201127102500 +0000" channel="warnerchannel.mx">
     <title lang="en">The Big Bang Theory</title>
   </programme>
-  <programme start="20201128102500 +0000" stop="20201128104600 +0000" channel="warnerchannel.mx">
+  <programme start="20201127102500 +0000" stop="20201127104600 +0000" channel="warnerchannel.mx">
     <title lang="en">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201127104600 +0000" stop="20201127120000 +0000" channel="warnerchannel.mx">
+    <title lang="en">Warner Series Block</title>
+  </programme>
+  <programme start="20201127120000 +0000" stop="20201127133000 +0000" channel="warnerchannel.mx">
+    <title lang="en">Warner Series Block</title>
+  </programme>
+  <programme start="20201127133000 +0000" stop="20201127134400 +0000" channel="warnerchannel.mx">
+    <title lang="en">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201127134400 +0000" stop="20201127140400 +0000" channel="warnerchannel.mx">
+    <title lang="en">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201127140400 +0000" stop="20201127142900 +0000" channel="warnerchannel.mx">
+    <title lang="en">Friends</title>
+  </programme>
+  <programme start="20201127142900 +0000" stop="20201127145400 +0000" channel="warnerchannel.mx">
+    <title lang="en">Friends</title>
+  </programme>
+  <programme start="20201127145400 +0000" stop="20201127151900 +0000" channel="warnerchannel.mx">
+    <title lang="en">Friends</title>
+  </programme>
+  <programme start="20201127151900 +0000" stop="20201127154200 +0000" channel="warnerchannel.mx">
+    <title lang="en">Friends</title>
+  </programme>
+  <programme start="20201127154200 +0000" stop="20201127160300 +0000" channel="warnerchannel.mx">
+    <title lang="en">Two and a Half Men</title>
+  </programme>
+  <programme start="20201127160300 +0000" stop="20201127162600 +0000" channel="warnerchannel.mx">
+    <title lang="en">Two and a Half Men</title>
+  </programme>
+  <programme start="20201127162600 +0000" stop="20201127164700 +0000" channel="warnerchannel.mx">
+    <title lang="en">Two and a Half Men</title>
+  </programme>
+  <programme start="20201127164700 +0000" stop="20201127170700 +0000" channel="warnerchannel.mx">
+    <title lang="en">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201127170700 +0000" stop="20201127172800 +0000" channel="warnerchannel.mx">
+    <title lang="en">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201127172800 +0000" stop="20201127175000 +0000" channel="warnerchannel.mx">
+    <title lang="en">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201127175000 +0000" stop="20201127180900 +0000" channel="warnerchannel.mx">
+    <title lang="en">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201127180900 +0000" stop="20201127182900 +0000" channel="warnerchannel.mx">
+    <title lang="en">The Last O.G. *</title>
+  </programme>
+  <programme start="20201127182900 +0000" stop="20201127185300 +0000" channel="warnerchannel.mx">
+    <title lang="en">Man With A Plan *</title>
+  </programme>
+  <programme start="20201127185300 +0000" stop="20201127191800 +0000" channel="warnerchannel.mx">
+    <title lang="en">Superstore *</title>
+  </programme>
+  <programme start="20201127191800 +0000" stop="20201127205800 +0000" channel="warnerchannel.mx">
+    <title lang="en">Smurfs: The Lost Village *</title>
+  </programme>
+  <programme start="20201127205800 +0000" stop="20201127223200 +0000" channel="warnerchannel.mx">
+    <title lang="en">Gravedad</title>
+  </programme>
+  <programme start="20201127223200 +0000" stop="20201128010800 +0000" channel="warnerchannel.mx">
+    <title lang="en">Spider-Man 2</title>
+  </programme>
+  <programme start="20201128010800 +0000" stop="20201128040000 +0000" channel="warnerchannel.mx">
+    <title lang="en">El hombre de acero</title>
+  </programme>
+  <programme start="20201128040000 +0000" stop="20201128061100 +0000" channel="warnerchannel.mx">
+    <title lang="en">El Cazador y La Reina de Hielo</title>
+  </programme>
+  <programme start="20201128061100 +0000" stop="20201128070100 +0000" channel="warnerchannel.mx">
+    <title lang="en">Blindspot</title>
+  </programme>
+  <programme start="20201128070100 +0000" stop="20201128083600 +0000" channel="warnerchannel.mx">
+    <title lang="en">Safe *</title>
+  </programme>
+  <programme start="20201128083600 +0000" stop="20201128085700 +0000" channel="warnerchannel.mx">
+    <title lang="en">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201128085700 +0000" stop="20201128091700 +0000" channel="warnerchannel.mx">
+    <title lang="en">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201128091700 +0000" stop="20201128093800 +0000" channel="warnerchannel.mx">
+    <title lang="en">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201128093800 +0000" stop="20201128095800 +0000" channel="warnerchannel.mx">
+    <title lang="en">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201128095800 +0000" stop="20201128102300 +0000" channel="warnerchannel.mx">
+    <title lang="en">Friends</title>
+  </programme>
+  <programme start="20201128102300 +0000" stop="20201128104600 +0000" channel="warnerchannel.mx">
+    <title lang="en">Friends</title>
   </programme>
   <programme start="20201128104600 +0000" stop="20201128120000 +0000" channel="warnerchannel.mx">
     <title lang="en">Warner Series Block</title>
   </programme>
-  <programme start="20201128120000 +0000" stop="20201128133000 +0000" channel="warnerchannel.mx">
+  <programme start="20201128120000 +0000" stop="20201128133100 +0000" channel="warnerchannel.mx">
     <title lang="en">Warner Series Block</title>
   </programme>
-  <programme start="20201128133000 +0000" stop="20201128134400 +0000" channel="warnerchannel.mx">
-    <title lang="en">The Big Bang Theory</title>
-  </programme>
-  <programme start="20201128134400 +0000" stop="20201128140400 +0000" channel="warnerchannel.mx">
-    <title lang="en">The Big Bang Theory</title>
-  </programme>
-  <programme start="20201128140400 +0000" stop="20201128142900 +0000" channel="warnerchannel.mx">
-    <title lang="en">Friends</title>
-  </programme>
-  <programme start="20201128142900 +0000" stop="20201128145400 +0000" channel="warnerchannel.mx">
-    <title lang="en">Friends</title>
-  </programme>
-  <programme start="20201128145400 +0000" stop="20201128151900 +0000" channel="warnerchannel.mx">
-    <title lang="en">Friends</title>
-  </programme>
-  <programme start="20201128151900 +0000" stop="20201128154200 +0000" channel="warnerchannel.mx">
-    <title lang="en">Friends</title>
-  </programme>
-  <programme start="20201128154200 +0000" stop="20201128160300 +0000" channel="warnerchannel.mx">
-    <title lang="en">Two and a Half Men</title>
-  </programme>
-  <programme start="20201128160300 +0000" stop="20201128162600 +0000" channel="warnerchannel.mx">
-    <title lang="en">Two and a Half Men</title>
-  </programme>
-  <programme start="20201128162600 +0000" stop="20201128164700 +0000" channel="warnerchannel.mx">
-    <title lang="en">Two and a Half Men</title>
-  </programme>
-  <programme start="20201128164700 +0000" stop="20201128170700 +0000" channel="warnerchannel.mx">
-    <title lang="en">The Big Bang Theory</title>
-  </programme>
-  <programme start="20201128170700 +0000" stop="20201128172800 +0000" channel="warnerchannel.mx">
-    <title lang="en">The Big Bang Theory</title>
-  </programme>
-  <programme start="20201128172800 +0000" stop="20201128175000 +0000" channel="warnerchannel.mx">
-    <title lang="en">The Big Bang Theory</title>
-  </programme>
-  <programme start="20201128175000 +0000" stop="20201128180900 +0000" channel="warnerchannel.mx">
-    <title lang="en">The Big Bang Theory</title>
-  </programme>
-  <programme start="20201128180900 +0000" stop="20201128182900 +0000" channel="warnerchannel.mx">
-    <title lang="en">The Last O.G. *</title>
-  </programme>
-  <programme start="20201128182900 +0000" stop="20201128185300 +0000" channel="warnerchannel.mx">
-    <title lang="en">Man With A Plan *</title>
-  </programme>
-  <programme start="20201128185300 +0000" stop="20201128191800 +0000" channel="warnerchannel.mx">
-    <title lang="en">Superstore *</title>
-  </programme>
-  <programme start="20201128191800 +0000" stop="20201128205800 +0000" channel="warnerchannel.mx">
-    <title lang="en">Smurfs: The Lost Village *</title>
-  </programme>
-  <programme start="20201128205800 +0000" stop="20201128223200 +0000" channel="warnerchannel.mx">
-    <title lang="en">Gravedad</title>
-  </programme>
-  <programme start="20201128223200 +0000" stop="20201129010800 +0000" channel="warnerchannel.mx">
-    <title lang="en">Spider-Man 2</title>
-  </programme>
-  <programme start="20201129010800 +0000" stop="20201129040000 +0000" channel="warnerchannel.mx">
-    <title lang="en">El hombre de acero</title>
-  </programme>
-  <programme start="20201129040000 +0000" stop="20201129061100 +0000" channel="warnerchannel.mx">
-    <title lang="en">El Cazador y La Reina de Hielo</title>
-  </programme>
-  <programme start="20201129061100 +0000" stop="20201129070100 +0000" channel="warnerchannel.mx">
-    <title lang="en">Blindspot</title>
-  </programme>
-  <programme start="20201129070100 +0000" stop="20201129083600 +0000" channel="warnerchannel.mx">
-    <title lang="en">Safe *</title>
-  </programme>
-  <programme start="20201129083600 +0000" stop="20201129085700 +0000" channel="warnerchannel.mx">
-    <title lang="en">The Big Bang Theory</title>
-  </programme>
-  <programme start="20201129085700 +0000" stop="20201129091700 +0000" channel="warnerchannel.mx">
-    <title lang="en">The Big Bang Theory</title>
-  </programme>
-  <programme start="20201129091700 +0000" stop="20201129093800 +0000" channel="warnerchannel.mx">
-    <title lang="en">The Big Bang Theory</title>
-  </programme>
-  <programme start="20201129093800 +0000" stop="20201129095800 +0000" channel="warnerchannel.mx">
-    <title lang="en">The Big Bang Theory</title>
-  </programme>
-  <programme start="20201129095800 +0000" stop="20201129102300 +0000" channel="warnerchannel.mx">
-    <title lang="en">Friends</title>
-  </programme>
-  <programme start="20201129102300 +0000" stop="20201129104600 +0000" channel="warnerchannel.mx">
-    <title lang="en">Friends</title>
-  </programme>
-  <programme start="20201129104600 +0000" stop="20201129120000 +0000" channel="warnerchannel.mx">
-    <title lang="en">Warner Series Block</title>
-  </programme>
-  <programme start="20201129120000 +0000" stop="20201129133100 +0000" channel="warnerchannel.mx">
-    <title lang="en">Warner Series Block</title>
-  </programme>
-  <programme start="20201129133100 +0000" stop="20201129135100 +0000" channel="warnerchannel.mx">
+  <programme start="20201128133100 +0000" stop="20201128135100 +0000" channel="warnerchannel.mx">
     <title lang="en">Maratón Friends</title>
   </programme>
-  <programme start="20201129135100 +0000" stop="20201129141400 +0000" channel="warnerchannel.mx">
+  <programme start="20201128135100 +0000" stop="20201128141400 +0000" channel="warnerchannel.mx">
     <title lang="en">Maratón Friends</title>
   </programme>
-  <programme start="20201129141400 +0000" stop="20201129143800 +0000" channel="warnerchannel.mx">
+  <programme start="20201128141400 +0000" stop="20201128143800 +0000" channel="warnerchannel.mx">
     <title lang="en">Maratón Friends</title>
   </programme>
-  <programme start="20201129143800 +0000" stop="20201129150000 +0000" channel="warnerchannel.mx">
+  <programme start="20201128143800 +0000" stop="20201128150000 +0000" channel="warnerchannel.mx">
     <title lang="en">Two and a Half Men</title>
   </programme>
-  <programme start="20201129150000 +0000" stop="20201129152200 +0000" channel="warnerchannel.mx">
+  <programme start="20201128150000 +0000" stop="20201128152200 +0000" channel="warnerchannel.mx">
     <title lang="en">Two and a Half Men</title>
   </programme>
-  <programme start="20201129152200 +0000" stop="20201129154200 +0000" channel="warnerchannel.mx">
+  <programme start="20201128152200 +0000" stop="20201128154200 +0000" channel="warnerchannel.mx">
     <title lang="en">Two and a Half Men</title>
   </programme>
-  <programme start="20201129154200 +0000" stop="20201129160100 +0000" channel="warnerchannel.mx">
+  <programme start="20201128154200 +0000" stop="20201128160100 +0000" channel="warnerchannel.mx">
     <title lang="en">The Big Bang Theory</title>
   </programme>
-  <programme start="20201129160100 +0000" stop="20201129162200 +0000" channel="warnerchannel.mx">
+  <programme start="20201128160100 +0000" stop="20201128162200 +0000" channel="warnerchannel.mx">
     <title lang="en">The Big Bang Theory</title>
   </programme>
-  <programme start="20201129162200 +0000" stop="20201129164000 +0000" channel="warnerchannel.mx">
+  <programme start="20201128162200 +0000" stop="20201128164000 +0000" channel="warnerchannel.mx">
     <title lang="en">The Big Bang Theory</title>
   </programme>
-  <programme start="20201129164000 +0000" stop="20201129170200 +0000" channel="warnerchannel.mx">
+  <programme start="20201128164000 +0000" stop="20201128170200 +0000" channel="warnerchannel.mx">
     <title lang="en">The Big Bang Theory</title>
   </programme>
-  <programme start="20201129170200 +0000" stop="20201129173000 +0000" channel="warnerchannel.mx">
+  <programme start="20201128170200 +0000" stop="20201128173000 +0000" channel="warnerchannel.mx">
     <title lang="en">Brooklyn Nine-Nine</title>
   </programme>
-  <programme start="20201129173000 +0000" stop="20201129175300 +0000" channel="warnerchannel.mx">
+  <programme start="20201128173000 +0000" stop="20201128175300 +0000" channel="warnerchannel.mx">
     <title lang="en">Brooklyn Nine-Nine</title>
   </programme>
-  <programme start="20201129175300 +0000" stop="20201129181800 +0000" channel="warnerchannel.mx">
+  <programme start="20201128175300 +0000" stop="20201128181800 +0000" channel="warnerchannel.mx">
     <title lang="en">Brooklyn Nine-Nine</title>
   </programme>
-  <programme start="20201129181800 +0000" stop="20201129183800 +0000" channel="warnerchannel.mx">
+  <programme start="20201128181800 +0000" stop="20201128183800 +0000" channel="warnerchannel.mx">
     <title lang="en">Brooklyn Nine-Nine</title>
   </programme>
-  <programme start="20201129183800 +0000" stop="20201129202700 +0000" channel="warnerchannel.mx">
+  <programme start="20201128183800 +0000" stop="20201128202700 +0000" channel="warnerchannel.mx">
     <title lang="en">The Mask</title>
   </programme>
-  <programme start="20201129202700 +0000" stop="20201129235700 +0000" channel="warnerchannel.mx">
+  <programme start="20201128202700 +0000" stop="20201128235700 +0000" channel="warnerchannel.mx">
     <title lang="en">The Green Mile</title>
   </programme>
-  <programme start="20201129235700 +0000" stop="20201130015000 +0000" channel="warnerchannel.mx">
+  <programme start="20201128235700 +0000" stop="20201129015000 +0000" channel="warnerchannel.mx">
     <title lang="en">Journey to the Center of the Earth</title>
   </programme>
-  <programme start="20201130015000 +0000" stop="20201130040000 +0000" channel="warnerchannel.mx">
+  <programme start="20201129015000 +0000" stop="20201129040000 +0000" channel="warnerchannel.mx">
     <title lang="en">El Cazador y La Reina de Hielo</title>
   </programme>
-  <programme start="20201130040000 +0000" stop="20201130064000 +0000" channel="warnerchannel.mx">
+  <programme start="20201129040000 +0000" stop="20201129064000 +0000" channel="warnerchannel.mx">
     <title lang="en">El hombre de acero</title>
   </programme>
-  <programme start="20201130064000 +0000" stop="20201130070000 +0000" channel="warnerchannel.mx">
+  <programme start="20201129064000 +0000" stop="20201129070000 +0000" channel="warnerchannel.mx">
     <title lang="en">The Big Bang Theory</title>
   </programme>
-  <programme start="20201130070000 +0000" stop="20201130072000 +0000" channel="warnerchannel.mx">
+  <programme start="20201129070000 +0000" stop="20201129072000 +0000" channel="warnerchannel.mx">
     <title lang="en">The Big Bang Theory</title>
   </programme>
-  <programme start="20201130072000 +0000" stop="20201130073800 +0000" channel="warnerchannel.mx">
+  <programme start="20201129072000 +0000" stop="20201129073800 +0000" channel="warnerchannel.mx">
     <title lang="en">The Big Bang Theory</title>
   </programme>
-  <programme start="20201130073800 +0000" stop="20201130075900 +0000" channel="warnerchannel.mx">
+  <programme start="20201129073800 +0000" stop="20201129075900 +0000" channel="warnerchannel.mx">
     <title lang="en">The Big Bang Theory</title>
   </programme>
-  <programme start="20201130075900 +0000" stop="20201130083100 +0000" channel="warnerchannel.mx">
+  <programme start="20201129075900 +0000" stop="20201129083100 +0000" channel="warnerchannel.mx">
     <title lang="en">Friends</title>
   </programme>
-  <programme start="20201130083100 +0000" stop="20201130085600 +0000" channel="warnerchannel.mx">
+  <programme start="20201129083100 +0000" stop="20201129085600 +0000" channel="warnerchannel.mx">
     <title lang="en">Maratón Friends</title>
   </programme>
-  <programme start="20201130085600 +0000" stop="20201130092000 +0000" channel="warnerchannel.mx">
+  <programme start="20201129085600 +0000" stop="20201129092000 +0000" channel="warnerchannel.mx">
     <title lang="en">Maratón Friends</title>
   </programme>
-  <programme start="20201130092000 +0000" stop="20201130094200 +0000" channel="warnerchannel.mx">
+  <programme start="20201129092000 +0000" stop="20201129094200 +0000" channel="warnerchannel.mx">
     <title lang="en">Maratón Friends</title>
   </programme>
-  <programme start="20201130094200 +0000" stop="20201130101400 +0000" channel="warnerchannel.mx">
+  <programme start="20201129094200 +0000" stop="20201129101400 +0000" channel="warnerchannel.mx">
     <title lang="en">Two and a Half Men</title>
   </programme>
-  <programme start="20201130101400 +0000" stop="20201130104500 +0000" channel="warnerchannel.mx">
+  <programme start="20201129101400 +0000" stop="20201129104500 +0000" channel="warnerchannel.mx">
     <title lang="en">Two and a Half Men</title>
   </programme>
-  <programme start="20201130104500 +0000" stop="20201130120000 +0000" channel="warnerchannel.mx">
+  <programme start="20201129104500 +0000" stop="20201129120000 +0000" channel="warnerchannel.mx">
     <title lang="en">Warner Series Block</title>
   </programme>
-  <programme start="20201130120000 +0000" stop="20201130133800 +0000" channel="warnerchannel.mx">
+  <programme start="20201129120000 +0000" stop="20201129133800 +0000" channel="warnerchannel.mx">
     <title lang="en">Warner Series Block</title>
   </programme>
-  <programme start="20201130133800 +0000" stop="20201130140000 +0000" channel="warnerchannel.mx">
+  <programme start="20201129133800 +0000" stop="20201129140000 +0000" channel="warnerchannel.mx">
     <title lang="en">The Big Bang Theory</title>
   </programme>
-  <programme start="20201130140000 +0000" stop="20201130142100 +0000" channel="warnerchannel.mx">
+  <programme start="20201129140000 +0000" stop="20201129142100 +0000" channel="warnerchannel.mx">
     <title lang="en">The Big Bang Theory</title>
   </programme>
-  <programme start="20201130142100 +0000" stop="20201130144500 +0000" channel="warnerchannel.mx">
+  <programme start="20201129142100 +0000" stop="20201129144500 +0000" channel="warnerchannel.mx">
     <title lang="en">Friends</title>
   </programme>
-  <programme start="20201130144500 +0000" stop="20201130151000 +0000" channel="warnerchannel.mx">
+  <programme start="20201129144500 +0000" stop="20201129151000 +0000" channel="warnerchannel.mx">
     <title lang="en">Friends</title>
   </programme>
-  <programme start="20201130151000 +0000" stop="20201130153400 +0000" channel="warnerchannel.mx">
+  <programme start="20201129151000 +0000" stop="20201129153400 +0000" channel="warnerchannel.mx">
     <title lang="en">Friends</title>
   </programme>
-  <programme start="20201130153400 +0000" stop="20201130155900 +0000" channel="warnerchannel.mx">
+  <programme start="20201129153400 +0000" stop="20201129155900 +0000" channel="warnerchannel.mx">
     <title lang="en">Friends</title>
   </programme>
-  <programme start="20201130155900 +0000" stop="20201130162600 +0000" channel="warnerchannel.mx">
+  <programme start="20201129155900 +0000" stop="20201129162600 +0000" channel="warnerchannel.mx">
     <title lang="en">Seinfeld *</title>
   </programme>
-  <programme start="20201130162600 +0000" stop="20201130165300 +0000" channel="warnerchannel.mx">
+  <programme start="20201129162600 +0000" stop="20201129165300 +0000" channel="warnerchannel.mx">
     <title lang="en">Seinfeld *</title>
   </programme>
-  <programme start="20201130165300 +0000" stop="20201130182400 +0000" channel="warnerchannel.mx">
+  <programme start="20201129165300 +0000" stop="20201129182400 +0000" channel="warnerchannel.mx">
     <title lang="en">Gravedad</title>
   </programme>
-  <programme start="20201130182400 +0000" stop="20201130184700 +0000" channel="warnerchannel.mx">
+  <programme start="20201129182400 +0000" stop="20201129184700 +0000" channel="warnerchannel.mx">
     <title lang="en">Warner Channel</title>
   </programme>
-  <programme start="20201130184700 +0000" stop="20201130190800 +0000" channel="warnerchannel.mx">
+  <programme start="20201129184700 +0000" stop="20201129190800 +0000" channel="warnerchannel.mx">
     <title lang="en">Two and a Half Men</title>
   </programme>
-  <programme start="20201130190800 +0000" stop="20201130193200 +0000" channel="warnerchannel.mx">
+  <programme start="20201129190800 +0000" stop="20201129193200 +0000" channel="warnerchannel.mx">
     <title lang="en">Two and a Half Men</title>
   </programme>
-  <programme start="20201130193200 +0000" stop="20201130195700 +0000" channel="warnerchannel.mx">
+  <programme start="20201129193200 +0000" stop="20201129195700 +0000" channel="warnerchannel.mx">
     <title lang="en">Two and a Half Men</title>
   </programme>
-  <programme start="20201130195700 +0000" stop="20201130202100 +0000" channel="warnerchannel.mx">
+  <programme start="20201129195700 +0000" stop="20201129202100 +0000" channel="warnerchannel.mx">
     <title lang="en">The Big Bang Theory</title>
   </programme>
-  <programme start="20201130202100 +0000" stop="20201130204000 +0000" channel="warnerchannel.mx">
+  <programme start="20201129202100 +0000" stop="20201129204000 +0000" channel="warnerchannel.mx">
     <title lang="en">The Big Bang Theory</title>
   </programme>
-  <programme start="20201130204000 +0000" stop="20201130210300 +0000" channel="warnerchannel.mx">
+  <programme start="20201129204000 +0000" stop="20201129210300 +0000" channel="warnerchannel.mx">
     <title lang="en">The Big Bang Theory</title>
   </programme>
-  <programme start="20201130210300 +0000" stop="20201130212600 +0000" channel="warnerchannel.mx">
+  <programme start="20201129210300 +0000" stop="20201129212600 +0000" channel="warnerchannel.mx">
     <title lang="en">The Big Bang Theory</title>
   </programme>
-  <programme start="20201130212600 +0000" stop="20201201010200 +0000" channel="warnerchannel.mx">
+  <programme start="20201129212600 +0000" stop="20201130010200 +0000" channel="warnerchannel.mx">
     <title lang="en">The Green Mile</title>
   </programme>
-  <programme start="20201201010200 +0000" stop="20201201030500 +0000" channel="warnerchannel.mx">
+  <programme start="20201130010200 +0000" stop="20201130030500 +0000" channel="warnerchannel.mx">
     <title lang="en">Journey to the Center of the Earth</title>
   </programme>
-  <programme start="20201201030500 +0000" stop="20201201033300 +0000" channel="warnerchannel.mx">
+  <programme start="20201130030500 +0000" stop="20201130033300 +0000" channel="warnerchannel.mx">
     <title lang="en">Brooklyn Nine-Nine *</title>
   </programme>
-  <programme start="20201201033300 +0000" stop="20201201040000 +0000" channel="warnerchannel.mx">
+  <programme start="20201130033300 +0000" stop="20201130040000 +0000" channel="warnerchannel.mx">
     <title lang="en">The Big Bang Theory</title>
   </programme>
-  <programme start="20201201040000 +0000" stop="20201201060300 +0000" channel="warnerchannel.mx">
+  <programme start="20201130040000 +0000" stop="20201130060300 +0000" channel="warnerchannel.mx">
     <title lang="en">Pixels</title>
   </programme>
-  <programme start="20201201060300 +0000" stop="20201201073700 +0000" channel="warnerchannel.mx">
-    <title lang="en">Será anunciado</title>
+  <programme start="20201130060300 +0000" stop="20201130065300 +0000" channel="warnerchannel.mx">
+    <title lang="en">Adult Swim</title>
   </programme>
-  <programme start="20201201073700 +0000" stop="20201201080400 +0000" channel="warnerchannel.mx">
-    <title lang="en">Seinfeld</title>
+  <programme start="20201130065300 +0000" stop="20201130071600 +0000" channel="warnerchannel.mx">
+    <title lang="en">Warner Channel</title>
   </programme>
-  <programme start="20201201080400 +0000" stop="20201201120000 +0000" channel="warnerchannel.mx">
-    <title lang="en">Será anunciado</title>
+  <programme start="20201130071600 +0000" stop="20201130074100 +0000" channel="warnerchannel.mx">
+    <title lang="en">Seinfeld *</title>
   </programme>
-  <programme start="20201201120000 +0000" stop="20201201124900 +0000" channel="warnerchannel.mx">
-    <title lang="en">Warner Series Block</title>
+  <programme start="20201130074100 +0000" stop="20201130080800 +0000" channel="warnerchannel.mx">
+    <title lang="en">Seinfeld *</title>
   </programme>
-  <programme start="20201201124900 +0000" stop="20201201131400 +0000" channel="warnerchannel.mx">
-    <title lang="en">The Middle</title>
-  </programme>
-  <programme start="20201201131400 +0000" stop="20201201133900 +0000" channel="warnerchannel.mx">
+  <programme start="20201130080800 +0000" stop="20201130083100 +0000" channel="warnerchannel.mx">
     <title lang="en">The Big Bang Theory</title>
   </programme>
-  <programme start="20201201133900 +0000" stop="20201201160500 +0000" channel="warnerchannel.mx">
+  <programme start="20201130083100 +0000" stop="20201130085000 +0000" channel="warnerchannel.mx">
+    <title lang="en">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201130085000 +0000" stop="20201130091000 +0000" channel="warnerchannel.mx">
+    <title lang="en">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201130091000 +0000" stop="20201130093100 +0000" channel="warnerchannel.mx">
+    <title lang="en">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201130093100 +0000" stop="20201130095500 +0000" channel="warnerchannel.mx">
+    <title lang="en">Friends</title>
+  </programme>
+  <programme start="20201130095500 +0000" stop="20201130102100 +0000" channel="warnerchannel.mx">
+    <title lang="en">Friends</title>
+  </programme>
+  <programme start="20201130102100 +0000" stop="20201130104400 +0000" channel="warnerchannel.mx">
+    <title lang="en">Friends</title>
+  </programme>
+  <programme start="20201130104400 +0000" stop="20201130120000 +0000" channel="warnerchannel.mx">
+    <title lang="en">Warner Series Block</title>
+  </programme>
+  <programme start="20201130120000 +0000" stop="20201130133000 +0000" channel="warnerchannel.mx">
+    <title lang="en">Warner Series Block</title>
+  </programme>
+  <programme start="20201130133000 +0000" stop="20201130134900 +0000" channel="warnerchannel.mx">
+    <title lang="en">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201130134900 +0000" stop="20201130140900 +0000" channel="warnerchannel.mx">
+    <title lang="en">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201130140900 +0000" stop="20201130143000 +0000" channel="warnerchannel.mx">
+    <title lang="en">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201130143000 +0000" stop="20201130145000 +0000" channel="warnerchannel.mx">
+    <title lang="en">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201130145000 +0000" stop="20201130151500 +0000" channel="warnerchannel.mx">
+    <title lang="en">Friends</title>
+  </programme>
+  <programme start="20201130151500 +0000" stop="20201130160300 +0000" channel="warnerchannel.mx">
+    <title lang="en">God Friended Me *</title>
+  </programme>
+  <programme start="20201130160300 +0000" stop="20201130163000 +0000" channel="warnerchannel.mx">
+    <title lang="en">Seinfeld *</title>
+  </programme>
+  <programme start="20201130163000 +0000" stop="20201130165700 +0000" channel="warnerchannel.mx">
+    <title lang="en">Seinfeld *</title>
+  </programme>
+  <programme start="20201130165700 +0000" stop="20201130184800 +0000" channel="warnerchannel.mx">
+    <title lang="en">Locos de ira</title>
+  </programme>
+  <programme start="20201130184800 +0000" stop="20201130205600 +0000" channel="warnerchannel.mx">
+    <title lang="en">Un verano en pantalones</title>
+  </programme>
+  <programme start="20201130205600 +0000" stop="20201130212100 +0000" channel="warnerchannel.mx">
+    <title lang="en">Warner Channel</title>
+  </programme>
+  <programme start="20201130212100 +0000" stop="20201130214200 +0000" channel="warnerchannel.mx">
+    <title lang="en">Two and a Half Men</title>
+  </programme>
+  <programme start="20201130214200 +0000" stop="20201130220500 +0000" channel="warnerchannel.mx">
+    <title lang="en">Two and a Half Men</title>
+  </programme>
+  <programme start="20201130220500 +0000" stop="20201130222900 +0000" channel="warnerchannel.mx">
+    <title lang="en">Two and a Half Men</title>
+  </programme>
+  <programme start="20201130222900 +0000" stop="20201130225300 +0000" channel="warnerchannel.mx">
+    <title lang="en">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201130225300 +0000" stop="20201130231900 +0000" channel="warnerchannel.mx">
+    <title lang="en">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201130231900 +0000" stop="20201130233800 +0000" channel="warnerchannel.mx">
+    <title lang="en">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201130233800 +0000" stop="20201201000300 +0000" channel="warnerchannel.mx">
+    <title lang="en">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201201000300 +0000" stop="20201201015600 +0000" channel="warnerchannel.mx">
+    <title lang="en">Todo un parto</title>
+  </programme>
+  <programme start="20201201015600 +0000" stop="20201201040000 +0000" channel="warnerchannel.mx">
+    <title lang="en">Pixels</title>
+  </programme>
+  <programme start="20201201040000 +0000" stop="20201201055200 +0000" channel="warnerchannel.mx">
+    <title lang="en">Hancock</title>
+  </programme>
+  <programme start="20201201055200 +0000" stop="20201201063800 +0000" channel="warnerchannel.mx">
+    <title lang="en">Supernatural *</title>
+  </programme>
+  <programme start="20201201063800 +0000" stop="20201201072400 +0000" channel="warnerchannel.mx">
+    <title lang="en">Roswell, New Mexico *</title>
+  </programme>
+  <programme start="20201201072400 +0000" stop="20201201074700 +0000" channel="warnerchannel.mx">
+    <title lang="en">Warner Channel</title>
+  </programme>
+  <programme start="20201201074700 +0000" stop="20201201081200 +0000" channel="warnerchannel.mx">
+    <title lang="en">Seinfeld *</title>
+  </programme>
+  <programme start="20201201081200 +0000" stop="20201201083800 +0000" channel="warnerchannel.mx">
+    <title lang="en">Seinfeld *</title>
+  </programme>
+  <programme start="20201201083800 +0000" stop="20201201090000 +0000" channel="warnerchannel.mx">
+    <title lang="en">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201201090000 +0000" stop="20201201092100 +0000" channel="warnerchannel.mx">
+    <title lang="en">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201201092100 +0000" stop="20201201093900 +0000" channel="warnerchannel.mx">
+    <title lang="en">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201201093900 +0000" stop="20201201095900 +0000" channel="warnerchannel.mx">
+    <title lang="en">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201201095900 +0000" stop="20201201102400 +0000" channel="warnerchannel.mx">
+    <title lang="en">Friends</title>
+  </programme>
+  <programme start="20201201102400 +0000" stop="20201201104800 +0000" channel="warnerchannel.mx">
+    <title lang="en">Friends</title>
+  </programme>
+  <programme start="20201201104800 +0000" stop="20201201120000 +0000" channel="warnerchannel.mx">
+    <title lang="en">Warner Series Block</title>
+  </programme>
+  <programme start="20201201120000 +0000" stop="20201201133100 +0000" channel="warnerchannel.mx">
+    <title lang="en">Warner Series Block</title>
+  </programme>
+  <programme start="20201201133100 +0000" stop="20201201135400 +0000" channel="warnerchannel.mx">
+    <title lang="en">Two and a Half Men</title>
+  </programme>
+  <programme start="20201201135400 +0000" stop="20201201141500 +0000" channel="warnerchannel.mx">
+    <title lang="en">Two and a Half Men</title>
+  </programme>
+  <programme start="20201201141500 +0000" stop="20201201143600 +0000" channel="warnerchannel.mx">
+    <title lang="en">Two and a Half Men</title>
+  </programme>
+  <programme start="20201201143600 +0000" stop="20201201145700 +0000" channel="warnerchannel.mx">
+    <title lang="en">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201201145700 +0000" stop="20201201152000 +0000" channel="warnerchannel.mx">
+    <title lang="en">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201201152000 +0000" stop="20201201153900 +0000" channel="warnerchannel.mx">
+    <title lang="en">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201201153900 +0000" stop="20201201160100 +0000" channel="warnerchannel.mx">
+    <title lang="en">The Big Bang Theory</title>
+  </programme>
+  <programme start="20201201160100 +0000" stop="20201201162600 +0000" channel="warnerchannel.mx">
+    <title lang="en">Friends</title>
+  </programme>
+  <programme start="20201201162600 +0000" stop="20201201171400 +0000" channel="warnerchannel.mx">
+    <title lang="en">God Friended Me *</title>
+  </programme>
+  <programme start="20201201171400 +0000" stop="20201201174000 +0000" channel="warnerchannel.mx">
+    <title lang="en">Seinfeld *</title>
+  </programme>
+  <programme start="20201201174000 +0000" stop="20201201180700 +0000" channel="warnerchannel.mx">
+    <title lang="en">Seinfeld *</title>
+  </programme>
+  <programme start="20201201180700 +0000" stop="20201201200900 +0000" channel="warnerchannel.mx">
+    <title lang="en">Un verano en pantalones</title>
+  </programme>
+  <programme start="20201201200900 +0000" stop="20201201214200 +0000" channel="warnerchannel.mx">
+    <title lang="en">Todo un parto</title>
+  </programme>
+  <programme start="20201201214200 +0000" stop="20201201220400 +0000" channel="warnerchannel.mx">
+    <title lang="en">Brooklyn Nine-Nine</title>
+  </programme>
+  <programme start="20201201220400 +0000" stop="20201201222700 +0000" channel="warnerchannel.mx">
+    <title lang="en">Two and a Half Men</title>
+  </programme>
+  <programme start="20201201222700 +0000" stop="20201201224900 +0000" channel="warnerchannel.mx">
+    <title lang="en">Two and a Half Men</title>
+  </programme>
+  <programme start="20201127002500 +0000" stop="20201127011500 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago PD</title>
+  </programme>
+  <programme start="20201127011500 +0000" stop="20201127021000 +0000" channel="universalchannel.mx">
+    <title lang="en">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201127021000 +0000" stop="20201127030500 +0000" channel="universalchannel.mx">
+    <title lang="en">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201127030500 +0000" stop="20201127040000 +0000" channel="universalchannel.mx">
+    <title lang="en">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201127040000 +0000" stop="20201127060000 +0000" channel="universalchannel.mx">
+    <title lang="en">Se busca</title>
+  </programme>
+  <programme start="20201127060000 +0000" stop="20201127073500 +0000" channel="universalchannel.mx">
+    <title lang="en">Lucy</title>
+  </programme>
+  <programme start="20201127073500 +0000" stop="20201127082500 +0000" channel="universalchannel.mx">
+    <title lang="en">House M.D</title>
+  </programme>
+  <programme start="20201127082500 +0000" stop="20201127091500 +0000" channel="universalchannel.mx">
+    <title lang="en">MacGyver</title>
+  </programme>
+  <programme start="20201127113000 +0000" stop="20201127120000 +0000" channel="universalchannel.mx">
+    <title lang="en">It takes a killer</title>
+  </programme>
+  <programme start="20201127120000 +0000" stop="20201127125000 +0000" channel="universalchannel.mx">
+    <title lang="en">Dr. House</title>
+  </programme>
+  <programme start="20201127125000 +0000" stop="20201127134000 +0000" channel="universalchannel.mx">
+    <title lang="en">House M.D</title>
+  </programme>
+  <programme start="20201127134000 +0000" stop="20201127143000 +0000" channel="universalchannel.mx">
+    <title lang="en">House M.D</title>
+  </programme>
+  <programme start="20201127143000 +0000" stop="20201127152000 +0000" channel="universalchannel.mx">
+    <title lang="en">House M.D</title>
+  </programme>
+  <programme start="20201127152000 +0000" stop="20201127161500 +0000" channel="universalchannel.mx">
+    <title lang="en">Magnum P.I.</title>
+  </programme>
+  <programme start="20201127161500 +0000" stop="20201127171000 +0000" channel="universalchannel.mx">
+    <title lang="en">Ransom</title>
+  </programme>
+  <programme start="20201127171000 +0000" stop="20201127180500 +0000" channel="universalchannel.mx">
+    <title lang="en">FBI</title>
+  </programme>
+  <programme start="20201127180500 +0000" stop="20201127190000 +0000" channel="universalchannel.mx">
+    <title lang="en">FBI: Most wanted</title>
+  </programme>
+  <programme start="20201127190000 +0000" stop="20201127195500 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago Med</title>
+  </programme>
+  <programme start="20201127195500 +0000" stop="20201127205000 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago Fire</title>
+  </programme>
+  <programme start="20201127205000 +0000" stop="20201127214500 +0000" channel="universalchannel.mx">
+    <title lang="en">The Witcher</title>
+  </programme>
+  <programme start="20201127214500 +0000" stop="20201127223500 +0000" channel="universalchannel.mx">
+    <title lang="en">The Rookie</title>
+  </programme>
+  <programme start="20201127223500 +0000" stop="20201127232500 +0000" channel="universalchannel.mx">
+    <title lang="en">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201127232500 +0000" stop="20201128001500 +0000" channel="universalchannel.mx">
+    <title lang="en">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201128001500 +0000" stop="20201128011000 +0000" channel="universalchannel.mx">
+    <title lang="en">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201128011000 +0000" stop="20201128020500 +0000" channel="universalchannel.mx">
+    <title lang="en">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201128020500 +0000" stop="20201128030000 +0000" channel="universalchannel.mx">
+    <title lang="en">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201128030000 +0000" stop="20201128051500 +0000" channel="universalchannel.mx">
+    <title lang="en">Rápidos y furiosos 8</title>
+  </programme>
+  <programme start="20201128051500 +0000" stop="20201128065000 +0000" channel="universalchannel.mx">
+    <title lang="en">Lucy</title>
+  </programme>
+  <programme start="20201128065000 +0000" stop="20201128074000 +0000" channel="universalchannel.mx">
+    <title lang="en">Magnum P.I.</title>
+  </programme>
+  <programme start="20201128074000 +0000" stop="20201128083000 +0000" channel="universalchannel.mx">
+    <title lang="en">Ransom</title>
+  </programme>
+  <programme start="20201128083000 +0000" stop="20201128092000 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago Med</title>
+  </programme>
+  <programme start="20201128092000 +0000" stop="20201128100500 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago Fire</title>
+  </programme>
+  <programme start="20201128100500 +0000" stop="20201128105000 +0000" channel="universalchannel.mx">
+    <title lang="en">The Witcher</title>
+  </programme>
+  <programme start="20201128105000 +0000" stop="20201128113500 +0000" channel="universalchannel.mx">
+    <title lang="en">FBI</title>
+  </programme>
+  <programme start="20201128113500 +0000" stop="20201128120000 +0000" channel="universalchannel.mx">
+    <title lang="en">It takes a killer</title>
+  </programme>
+  <programme start="20201128120000 +0000" stop="20201128125000 +0000" channel="universalchannel.mx">
+    <title lang="en">House M.D</title>
+  </programme>
+  <programme start="20201128125000 +0000" stop="20201128134000 +0000" channel="universalchannel.mx">
+    <title lang="en">House M.D</title>
+  </programme>
+  <programme start="20201128134000 +0000" stop="20201128143000 +0000" channel="universalchannel.mx">
+    <title lang="en">House M.D</title>
+  </programme>
+  <programme start="20201128143000 +0000" stop="20201128152000 +0000" channel="universalchannel.mx">
+    <title lang="en">House M.D.</title>
+  </programme>
+  <programme start="20201128152000 +0000" stop="20201128161500 +0000" channel="universalchannel.mx">
+    <title lang="en">The Rookie</title>
+  </programme>
+  <programme start="20201128161500 +0000" stop="20201128171000 +0000" channel="universalchannel.mx">
+    <title lang="en">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201128171000 +0000" stop="20201128180500 +0000" channel="universalchannel.mx">
+    <title lang="en">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201128180500 +0000" stop="20201128190000 +0000" channel="universalchannel.mx">
+    <title lang="en">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201128190000 +0000" stop="20201128195500 +0000" channel="universalchannel.mx">
+    <title lang="en">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201128195500 +0000" stop="20201128205000 +0000" channel="universalchannel.mx">
+    <title lang="en">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201128205000 +0000" stop="20201128214500 +0000" channel="universalchannel.mx">
+    <title lang="en">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201128214500 +0000" stop="20201128223500 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago PD</title>
+  </programme>
+  <programme start="20201128223500 +0000" stop="20201128232500 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago PD</title>
+  </programme>
+  <programme start="20201128232500 +0000" stop="20201129001500 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago P.D.</title>
+  </programme>
+  <programme start="20201129001500 +0000" stop="20201129011000 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago PD</title>
+  </programme>
+  <programme start="20201129011000 +0000" stop="20201129020500 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago PD</title>
+  </programme>
+  <programme start="20201129020500 +0000" stop="20201129030000 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago PD</title>
+  </programme>
+  <programme start="20201129030000 +0000" stop="20201129050000 +0000" channel="universalchannel.mx">
+    <title lang="en">Se busca</title>
+  </programme>
+  <programme start="20201129050000 +0000" stop="20201129072000 +0000" channel="universalchannel.mx">
+    <title lang="en">Rápidos y furiosos 8</title>
+  </programme>
+  <programme start="20201129072000 +0000" stop="20201129081000 +0000" channel="universalchannel.mx">
+    <title lang="en">The Rookie</title>
+  </programme>
+  <programme start="20201129081000 +0000" stop="20201129091000 +0000" channel="universalchannel.mx">
+    <title lang="en">Devils</title>
+  </programme>
+  <programme start="20201129091000 +0000" stop="20201129100000 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago PD</title>
+  </programme>
+  <programme start="20201129100000 +0000" stop="20201129105000 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago PD</title>
+  </programme>
+  <programme start="20201129105000 +0000" stop="20201129113500 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago PD</title>
+  </programme>
+  <programme start="20201129113500 +0000" stop="20201129120000 +0000" channel="universalchannel.mx">
+    <title lang="en">It takes a killer</title>
+  </programme>
+  <programme start="20201129120000 +0000" stop="20201129123000 +0000" channel="universalchannel.mx">
+    <title lang="en">It takes a killer</title>
+  </programme>
+  <programme start="20201129123000 +0000" stop="20201129132500 +0000" channel="universalchannel.mx">
+    <title lang="en">MacGyver</title>
+  </programme>
+  <programme start="20201129132500 +0000" stop="20201129142000 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago Fire</title>
+  </programme>
+  <programme start="20201129142000 +0000" stop="20201129151500 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago Fire</title>
+  </programme>
+  <programme start="20201129151500 +0000" stop="20201129161000 +0000" channel="universalchannel.mx">
+    <title lang="en">House M.D.</title>
+  </programme>
+  <programme start="20201129161000 +0000" stop="20201129170500 +0000" channel="universalchannel.mx">
+    <title lang="en">House M.D</title>
+  </programme>
+  <programme start="20201129170500 +0000" stop="20201129191500 +0000" channel="universalchannel.mx">
+    <title lang="en">Step Up: todos a bailar</title>
+  </programme>
+  <programme start="20201129191500 +0000" stop="20201129201000 +0000" channel="universalchannel.mx">
+    <title lang="en">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201129201000 +0000" stop="20201129210500 +0000" channel="universalchannel.mx">
+    <title lang="en">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201129210500 +0000" stop="20201129215500 +0000" channel="universalchannel.mx">
+    <title lang="en">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201129215500 +0000" stop="20201129224500 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago Fire</title>
+  </programme>
+  <programme start="20201129224500 +0000" stop="20201129233500 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago Fire</title>
+  </programme>
+  <programme start="20201129233500 +0000" stop="20201130002500 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago PD</title>
+  </programme>
+  <programme start="20201130002500 +0000" stop="20201130011500 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago PD</title>
+  </programme>
+  <programme start="20201130011500 +0000" stop="20201130021000 +0000" channel="universalchannel.mx">
+    <title lang="en">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201130021000 +0000" stop="20201130030500 +0000" channel="universalchannel.mx">
+    <title lang="en">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201130030500 +0000" stop="20201130040000 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago Med</title>
+  </programme>
+  <programme start="20201130040000 +0000" stop="20201130045000 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago Fire</title>
+  </programme>
+  <programme start="20201130045000 +0000" stop="20201130054000 +0000" channel="universalchannel.mx">
+    <title lang="en">Maratón Chicago P.D.</title>
+  </programme>
+  <programme start="20201130054000 +0000" stop="20201130063000 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago PD</title>
+  </programme>
+  <programme start="20201130063000 +0000" stop="20201130072000 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago P.D</title>
+  </programme>
+  <programme start="20201130072000 +0000" stop="20201130081000 +0000" channel="universalchannel.mx">
+    <title lang="en">House M.D</title>
+  </programme>
+  <programme start="20201130081000 +0000" stop="20201130090000 +0000" channel="universalchannel.mx">
+    <title lang="en">House M.D</title>
+  </programme>
+  <programme start="20201130090000 +0000" stop="20201130095000 +0000" channel="universalchannel.mx">
+    <title lang="en">MacGyver</title>
+  </programme>
+  <programme start="20201130095000 +0000" stop="20201130113500 +0000" channel="universalchannel.mx">
     <title lang="en">Será anunciado</title>
   </programme>
-  <programme start="20201201160500 +0000" stop="20201201163200 +0000" channel="warnerchannel.mx">
-    <title lang="en">Seinfeld</title>
+  <programme start="20201130113500 +0000" stop="20201130120000 +0000" channel="universalchannel.mx">
+    <title lang="en">It takes a killer</title>
   </programme>
-  <programme start="20201201163200 +0000" stop="20201202043200 +0000" channel="warnerchannel.mx">
+  <programme start="20201130120000 +0000" stop="20201130125000 +0000" channel="universalchannel.mx">
+    <title lang="en">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201130125000 +0000" stop="20201130134500 +0000" channel="universalchannel.mx">
+    <title lang="en">MacGyver</title>
+  </programme>
+  <programme start="20201130134500 +0000" stop="20201130191500 +0000" channel="universalchannel.mx">
     <title lang="en">Será anunciado</title>
+  </programme>
+  <programme start="20201130191500 +0000" stop="20201130201000 +0000" channel="universalchannel.mx">
+    <title lang="en">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201130201000 +0000" stop="20201130210500 +0000" channel="universalchannel.mx">
+    <title lang="en">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201130210500 +0000" stop="20201130215500 +0000" channel="universalchannel.mx">
+    <title lang="en">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201130215500 +0000" stop="20201130224500 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago Fire</title>
+  </programme>
+  <programme start="20201130224500 +0000" stop="20201130233500 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago Fire</title>
+  </programme>
+  <programme start="20201130233500 +0000" stop="20201201002500 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago P.D</title>
+  </programme>
+  <programme start="20201201002500 +0000" stop="20201201011500 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago P.D</title>
+  </programme>
+  <programme start="20201201011500 +0000" stop="20201201021000 +0000" channel="universalchannel.mx">
+    <title lang="en">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201201021000 +0000" stop="20201201030500 +0000" channel="universalchannel.mx">
+    <title lang="en">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201201030500 +0000" stop="20201201040000 +0000" channel="universalchannel.mx">
+    <title lang="en">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201201040000 +0000" stop="20201201045000 +0000" channel="universalchannel.mx">
+    <title lang="en">FBI</title>
+  </programme>
+  <programme start="20201201045000 +0000" stop="20201201054000 +0000" channel="universalchannel.mx">
+    <title lang="en">FBI: Most Wanted</title>
+  </programme>
+  <programme start="20201201054000 +0000" stop="20201201064000 +0000" channel="universalchannel.mx">
+    <title lang="en">Devils</title>
+  </programme>
+  <programme start="20201201064000 +0000" stop="20201201073000 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago P.D</title>
+  </programme>
+  <programme start="20201201073000 +0000" stop="20201201082000 +0000" channel="universalchannel.mx">
+    <title lang="en">House M.D</title>
+  </programme>
+  <programme start="20201201082000 +0000" stop="20201201090500 +0000" channel="universalchannel.mx">
+    <title lang="en">House M.D</title>
+  </programme>
+  <programme start="20201201090500 +0000" stop="20201201091000 +0000" channel="universalchannel.mx">
+    <title lang="en">MacGyver</title>
+  </programme>
+  <programme start="20201201091000 +0000" stop="20201201100000 +0000" channel="universalchannel.mx">
+    <title lang="en">MacGyver</title>
+  </programme>
+  <programme start="20201201100000 +0000" stop="20201201113500 +0000" channel="universalchannel.mx">
+    <title lang="en">Será anunciado</title>
+  </programme>
+  <programme start="20201201113500 +0000" stop="20201201120000 +0000" channel="universalchannel.mx">
+    <title lang="en">It takes a killer</title>
+  </programme>
+  <programme start="20201201120000 +0000" stop="20201201125000 +0000" channel="universalchannel.mx">
+    <title lang="en">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201201125000 +0000" stop="20201201134000 +0000" channel="universalchannel.mx">
+    <title lang="en">MacGyver</title>
+  </programme>
+  <programme start="20201201134000 +0000" stop="20201201143500 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago Fire</title>
+  </programme>
+  <programme start="20201201143500 +0000" stop="20201201153000 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago Fire</title>
+  </programme>
+  <programme start="20201201153000 +0000" stop="20201201162500 +0000" channel="universalchannel.mx">
+    <title lang="en">House M.D</title>
+  </programme>
+  <programme start="20201201162500 +0000" stop="20201201172000 +0000" channel="universalchannel.mx">
+    <title lang="en">House M.D</title>
+  </programme>
+  <programme start="20201201172000 +0000" stop="20201201191500 +0000" channel="universalchannel.mx">
+    <title lang="en">Será anunciado</title>
+  </programme>
+  <programme start="20201201191500 +0000" stop="20201201201000 +0000" channel="universalchannel.mx">
+    <title lang="en">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201201201000 +0000" stop="20201201210500 +0000" channel="universalchannel.mx">
+    <title lang="en">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201201210500 +0000" stop="20201201215500 +0000" channel="universalchannel.mx">
+    <title lang="en">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201201215500 +0000" stop="20201201224500 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago Fire</title>
+  </programme>
+  <programme start="20201201224500 +0000" stop="20201201233500 +0000" channel="universalchannel.mx">
+    <title lang="en">Chicago Fire</title>
   </programme>
 </tv>
