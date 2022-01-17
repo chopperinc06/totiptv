@@ -27,7 +27,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE05.m3u8
 
 #EXTINF:-1 tvg-id="star.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/582767-8c.png" group-title="Entretenimiento",STAR Channel
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE05.m3u8
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-id="sony.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416543-8c.png" group-title="Entretenimiento",SONY
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE05.m3u8
