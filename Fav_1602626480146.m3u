@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="azteca13.mx" tvg-logo="https://raw.githubusercontent.com/chopperinc06/totiptv/icons/Auno.png" group-title="Mexico",Azteca Uno
-http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/155185.ts
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
 
 #EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="https://image.ibb.co/fpzxvf/lasestrellas.png" group-title="Mexico",Canal de las Estrellas
 http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10840.ts
