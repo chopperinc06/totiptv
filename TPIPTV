@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/487020-8c.png" group-title="Mexico",Canal de las Estrellas
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="forotv.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/415115-8c.png" group-title="Mexico",forotv
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="5nacional.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/415117-8c.png" group-title="Mexico",Canal 5
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496844-8c.png" group-title="Mexico",Azteca 7
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="galatv9nacional.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416973-8c.png" group-title="Mexico",Nu9ve
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="canalonce.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496848-8c.png" group-title="Mexico",Canal Once
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="azteca13.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/499006-8c.png" group-title="Mexico",Azteca 13
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="adn40.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/525389-8c.png" group-title="Mexico",ADN 40
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="6+.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/820363-8c.png" group-title="Mexico",6+
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="star.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/582767-8c.png" group-title="Entretenimiento",STAR Channel
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="sony.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416543-8c.png" group-title="Entretenimiento",SONY
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="warner.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531197-8c.png" group-title="Entretenimiento",WARNER channel
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="universal.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/422006-8c.png" group-title="Entretenimiento",UNIVERSAL channel
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="fx.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416547-8c.png" group-title="Entretenimiento",FX
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="AE.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416551-8c.png" group-title="Entretenimiento",A&E
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="axn.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/422008-8c.png" group-title="Entretenimiento",AXN
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="trutv.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425209-8c.png" group-title="Entretenimiento",TRU tv
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="cc.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505134-8c.png" group-title="Entretenimiento",COMEDY CENTRAL
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="unicable.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416559-8c.png" group-title="Entretenimiento",UNICABLE
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="hola.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425211-8c.png" group-title="Entretenimiento",HOLATV
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL219/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="e.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416571-8c.png" group-title="Entretenimiento",E!
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="SIFY.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425219-8c.png" group-title="Entretenimiento",SYFY
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="tnts.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416573-8c.png" group-title="Entretenimiento",TNT series
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="gourmet.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416575-8c.png" group-title="Cultura",EL GOURMET
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL268/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="garage.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425221-8c.png" group-title="Cultura",GARAGE TV
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL269/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="glitz.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425223-8c.png" group-title="Entretenimiento",GLITZ
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL270/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="starlife.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/582487-8c.png" group-title="Entretenimiento",STAR life
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="dc.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416579-8c.png" group-title="Entretenimiento",DISTRITO COMEDIA
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="tbs.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416581-8c.png" group-title="Entretenimiento",TBS
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="tln.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416583-8c.png" group-title="Entretenimiento",TLNOVELAS
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="dt.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425241-8c.png" group-title="Cultura",DISCOVERY THEATER HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="hchanel.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425243-8c.png" group-title="Cultura",HISTORY HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id=".mx" tvg-logo="" group-title="Cultura",
+#EXTINF:-1 tvg-id=".mx" tvg-logo="" group-title="Cultura",
