@@ -8,7 +8,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="5nacional.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/415117-8c.png" group-title="Mexico",Canal 5
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-id="azteca7.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496844-8c.png" group-title="Mexico",Azteca 7
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/612836-8c.png" group-title="Mexico",Azteca 7
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
 
 #EXTINF:-1 tvg-id="galatv9nacional.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416973-8c.png" group-title="Mexico",Nu9ve
@@ -94,6 +94,39 @@ http://10.187.3.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE05.m3u8
 
 #EXTINF:-1 tvg-id="hchanel.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425243-8c.png" group-title="Cultura",HISTORY HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="ng.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425245-8c.png" group-title="Cultura",NATGEO HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="ngw.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425279-8c.png" group-title="Cultura",NATGEO WILD HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="dw.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425247-8c.png" group-title="Cultura",DISCOVERY WORLD HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="ap.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425249-8c.png" group-title="Cultura",ANIMAL PLANET HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="dt.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425251-8c.png" group-title="Cultura",DISCOVERY TURBO HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="tlc.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425253-8c.png" group-title="Cultura",TLC HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="dchannel.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416613-8c.png" group-title="Cultura",DISCOVERY CHANNEL HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="HH.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416615-8c.png" group-title="Cultura",H&H HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="lf.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522142-8c.png" group-title="Cultura",LIFETIME HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="ds.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425261-8c.png" group-title="Cultura",DISCOVERY SCIENCE HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE05.m3u8
+
+#EXTINF:-1 tvg-id="dcivil.mx" tvg-logo="" group-title="Cultura",DISCOVERY CIVILIZATION HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE05.m3u8
 
 #EXTINF:-1 tvg-id=".mx" tvg-logo="" group-title="Cultura",
 #EXTINF:-1 tvg-id=".mx" tvg-logo="" group-title="Cultura",
