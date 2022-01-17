@@ -127,8 +127,34 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE05.m3u8
 
 #EXTINF:-1 tvg-id="ss.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/582773-8c.png" group-title="peliculas",STAR Series
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE03.m3u8
-#EXTINF:-1 tvg-id=".mx" tvg-logo="" group-title="peliculas",
-#EXTINF:-1 tvg-id=".mx" tvg-logo="" group-title="peliculas",
+
+#EXTINF:-1 tvg-id="sa.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/582775-8c.png" group-title="peliculas",STAR ACTION HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8
+
+#EXTINF:-1 tvg-id="sh.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/582771-8c.png" group-title="peliculas",STAR HITS HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8
+
+#EXTINF:-1 tvg-id="sc.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/582481-8c.png" group-title="peliculas",STAR CINEMA
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8
+
+#EXTINF:-1 tvg-id="scc.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/582485-8c.png" group-title="peliculas",STAR CLASSIC
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE03.m3u8
+
+#EXTINF:-1 tvg-id="ac.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/928310-8c.png" group-title="peliculas",AZCINEMA
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE03.m3u8
+
+#EXTINF:-1 tvg-id="ccanal.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425300-8c.png" group-title="peliculas",CINECANAL
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE03.m3u8
+
+#EXTINF:-1 tvg-id="tnt.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425302-8c.png" group-title="peliculas",TNT
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE03.m3u8
+
+#EXTINF:-1 tvg-id="golden.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543972-8c.png" group-title="peliculas",GOLDEN
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE03.m3u8
+
+#EXTINF:-1 tvg-id="fxm.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425306-8c.png" group-title="peliculas",FXM
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL440/PROFILE03.m3u8
+
 #EXTINF:-1 tvg-id=".mx" tvg-logo="" group-title="peliculas",
 #EXTINF:-1 tvg-id=".mx" tvg-logo="" group-title="peliculas",
 #EXTINF:-1 tvg-id=".mx" tvg-logo="" group-title="peliculas",
