@@ -15,7 +15,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
 
 #EXTINF:-1 tvg-id="canalonce.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496848-8c.png" group-title="Mexico",Canal Once
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE05.m3u8
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-id="azteca13.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/499006-8c.png" group-title="Mexico",Azteca 13
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
