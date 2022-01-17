@@ -1,18 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="azteca13.mx" tvg-logo="https://raw.githubusercontent.com/chopperinc06/totiptv/icons/Auno.png" group-title="Mexico",Azteca Uno
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="https://image.ibb.co/fpzxvf/lasestrellas.png" group-title="",Canal de las Estrellas
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="https://image.ibb.co/fpzxvf/lasestrellas.png" group-title="Mexico",Canal de las Estrellas
-http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10840.ts
-
-#EXTINF:-1 tvg-id="lasestrellas-2.mx" tvg-logo="https://image.ibb.co/fpzxvf/lasestrellas.png" group-title="Mexico",Canal de las Estrellas (-2hrs)
-http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/164868.ts
-
-#EXTINF:-1 tvg-id="imagentv.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/499014-8c.png" group-title="Mexico",Imagen TV
-http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/155182.ts
-
-#EXTINF:-1 tvg-id="5nacional.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/415117-8c.png" group-title="Mexico",Canal 5
-http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/155186.ts
+#EXTINF:-1 tvg-id="5nacional.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/415117-8c.png" group-title="",Canal 5
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
 
 #EXTINF:-1 tvg-id="azteca7.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496844-8c.png" group-title="Mexico",Azteca 7
 http://l3dtv.ga:8080/live/Hectorhern11/Zz2EpjmqrC/10814.ts
