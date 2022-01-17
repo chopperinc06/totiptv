@@ -62,7 +62,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="tln.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416583-8c.png" group-title="Entretenimiento",TLNOVELAS
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="dt.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425241-8c.png" group-title="Cultura",DISCOVERY THEATER HD
-http://10.187.3.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE05.m3u8
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="hchanel.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425243-8c.png" group-title="Cultura",HISTORY HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="ng.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425245-8c.png" group-title="Cultura",NATGEO HD
@@ -111,14 +111,10 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE05.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="fxm.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425306-8c.png" group-title="peliculas",FXM
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL440/PROFILE05.m3u8
-
-#EXTINF:-1 tvg-id=".mx" tvg-logo="" group-title="peliculas",
-#EXTINF:-1 tvg-id=".mx" tvg-logo="" group-title="peliculas",
-#EXTINF:-1 tvg-id=".mx" tvg-logo="" group-title="peliculas",
-#EXTINF:-1 tvg-id=".mx" tvg-logo="" group-title="peliculas",
-#EXTINF:-1 tvg-id=".mx" tvg-logo="" group-title="peliculas",
-#EXTINF:-1 tvg-id=".mx" tvg-logo="" group-title="peliculas",
-#EXTINF:-1 tvg-id=".mx" tvg-logo="" group-title="peliculas",
+#EXTINF:-1 tvg-id="dp.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/604399-8c.png" group-title="peliculas",D PELICULA
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL335/PROFILE05.m3u8
+#EXTINF:-1 tvg-id="dpp.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/604212-8c.png" group-title="peliculas",D PELICULA PLUS
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="GOLF.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425368-8c.png" group-title="DEPORTES",NBC GOLF
 http://10.187.3.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL179/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416657-8c.png" group-title="DEPORTES",TUDN
