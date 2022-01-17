@@ -125,8 +125,14 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="ds.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425261-8c.png" group-title="Cultura",DISCOVERY SCIENCE HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-id="dcivil.mx" tvg-logo="" group-title="Cultura",DISCOVERY CIVILIZATION HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE05.m3u8
-
-#EXTINF:-1 tvg-id=".mx" tvg-logo="" group-title="Cultura",
-#EXTINF:-1 tvg-id=".mx" tvg-logo="" group-title="Cultura",
+#EXTINF:-1 tvg-id="ss.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/582773-8c.png" group-title="peliculas",STAR Series
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE03.m3u8
+#EXTINF:-1 tvg-id=".mx" tvg-logo="" group-title="peliculas",
+#EXTINF:-1 tvg-id=".mx" tvg-logo="" group-title="peliculas",
+#EXTINF:-1 tvg-id=".mx" tvg-logo="" group-title="peliculas",
+#EXTINF:-1 tvg-id=".mx" tvg-logo="" group-title="peliculas",
+#EXTINF:-1 tvg-id=".mx" tvg-logo="" group-title="peliculas",
+#EXTINF:-1 tvg-id=".mx" tvg-logo="" group-title="peliculas",
+#EXTINF:-1 tvg-id=".mx" tvg-logo="" group-title="peliculas",
+#EXTINF:-1 tvg-id=".mx" tvg-logo="" group-title="peliculas",
+#EXTINF:-1 tvg-id=".mx" tvg-logo="" group-title="peliculas",
