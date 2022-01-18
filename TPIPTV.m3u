@@ -130,7 +130,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL174/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="ESPN+.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425372-8c.png" group-title="DEPORTES",ESPN+
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/554661-8c.png" group-title="DEPORTES",ESPN
-http://10.187.3.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/554663-8c.png" group-title="DEPORTES",ESPN 2
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="ESPN3.mx" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425374-8c.png" group-title="DEPORTES",ESPN 3
